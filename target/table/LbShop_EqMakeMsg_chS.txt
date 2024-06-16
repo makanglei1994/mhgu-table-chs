@@ -1,0 +1,417 @@
+==========identifier start==========
+Sign
+MakeWeapon
+Weapon_001
+Weapon_002
+Weapon_003
+Weapon_004
+Weapon_005
+Weapon_006
+Weapon_007
+Weapon_008
+Weapon_009
+Weapon_010
+Weapon_011
+Weapon_012
+Weapon_013
+Weapon_014
+MakeArmor
+parts_001
+parts_002
+parts_003
+parts_004
+parts_005
+Equip_PowUp
+Amulet
+Amulet_Make
+Amulet_Set
+TypeCheck
+Index_swordsman
+Index_Gunner
+Material_001
+Material_002
+Select_Material
+Value
+Held
+Basic_Status
+Power
+Toughness
+Speed
+Growth
+Number_of_times
+Property
+Insect_LV
+LVUP_001
+TopMenu_WeaponBuy
+TopMenu_ArmorBuy
+TopMenu_Sell
+Index_Type
+Give_Food_001
+Give_Food_002
+WeaponBuy_01
+WeaponBuy_02
+LvUp
+Parts_Change
+other_003
+other_004
+other_005
+other_006
+other_007
+other_008
+other_009
+other_010
+WeaponMake_001
+WeaponMake_002
+WeaponMake_003
+WeaponMake_error_001
+WeaponMake_error_002
+WeaponMake_error_003
+WeaponMake_error_004
+EquipMake_004
+Equip_Check
+Equip_Check_error
+Equip_Check_No
+Equip_Check_NoTeq
+ArmorMake_001
+ArmorMake_002
+ArmorMake_003
+ArmorMake_error_001
+ArmorMake_error_002
+ArmorMake_error_003
+ArmorMake_error_004
+EquipPowUp_001
+EquipPowUp_002
+EquipPowUp_error_001
+EquipPowUp_error_002
+EquipList
+EquipList_error_001
+EquipList_error_002
+EquipList_error_003
+EquipList_error_004
+EquipList_error_005
+EquipList_error_006
+InsectPowUp_001
+InsectPowUp_002
+InsectPowUp_003
+Category_001
+Category_002
+Category_003
+Category_004
+EquipPowUp_Check_001
+EquipPowUp_Check_002
+EquipPowUp_Check_003
+EquipPowUp_error_003
+EquipPowUp_error_004
+Insect_food_001
+Insect_food_002
+Insect_food_003
+Insect_food_error_001
+Insect_food_004
+Insect_food_005
+Insect_Pfood_001
+Insect_Pfood_error_001
+Insect_Pfood_002
+Amulet_001
+Amulet_002
+Amulet_003
+Amulet_error_001
+Amulet_error_002
+Amulet_error_003
+Amulet_error_004
+Amulet_004
+Amulet_005
+Amulet_006
+Amulet_007
+Amulet_error_005
+Amulet_error_006
+Hazai_Check
+Sort_Check
+Set_parts_SS_01
+Set_parts_SS_02
+Remove_parts_SS_01
+Remove_parts_SS_02
+Set_parts_LB_01
+Set_parts_LB_02
+Remove_parts_LB_01
+Remove_parts_LB_02
+Set_parts_CS_01
+Set_parts_CS_02
+Set_parts_FS_01
+Set_parts_FS_02
+Set_parts_SH_01
+Set_parts_SH_02
+Remove_parts_SH_01
+Remove_parts_SH_02
+Set_parts_PB_01
+Set_parts_PB_02
+Remove_parts_PB_01
+Remove_parts_PB_02
+Insect_Pfood_003
+Insect_Pfood_004
+EqMake_add_01_02
+EqMake_add_01_03
+EqMake_add_01_04
+EqMake_add_01_05
+EqMake_add_01_06
+EqMake_add_01_07
+EqMake_add_01_08
+EqMake_add_01_09
+EqMake_add_01_10
+EqMake_add_01_11
+EqMake_add_01_12
+EqMake_add_01_14
+EqMake_add_01_15
+EqMake_add_01_16
+EqMake_add_01_17
+EqMake_add_01_18
+EqMake_add_01_19
+EqMake_add_01_20
+EqMake_add_01_22
+EqMake_add_01_23
+EqMake_add_01_24
+EqMake_add_01_25
+EqMake_add_01_26
+EqMake_add_01_27
+EqMake_add_01_28
+EqMake_add_01_29
+EqMake_add_01_30
+EqMake_add_01_31
+EqMake_add_01_32
+EqMake_add_01_33
+EqMake_add_01_34
+EqMake_add_01_35
+EqMake_add_01_36
+EqMake_add_01_37
+EqMake_add_01_38
+EqMake_add_01_39
+EquipMake_005
+LvUp_Over
+other_011
+Insect_Change_001
+Insect_Change_002
+Insect_Change_003
+Insect_Change_004
+Insect_Change_005
+Insect_Change_006
+Insect_Change_007
+Insect_Change_008
+Insect_Change_009
+LvUp_Over_before
+EqMake_add_02_01
+EqMake_add_02_02
+EqMake_add_02_03
+EquipMake_006
+Insect_Change_010
+EquipList_error_007
+EquipList_error_008
+EquipPowUp_Check_004
+==========identifier end==========
+
+==========string start==========
+加工店
+生产武器
+大剑
+太刀
+单手剑
+双剑
+大锤
+狩猎笛
+长枪
+铳枪
+斩击斧
+盾斧
+操虫棍
+轻弩炮
+重弩炮
+弓
+生产防具
+头部装备
+身体装备
+臂部装备
+腰部装备
+脚部装备
+装备强化
+装饰品
+生产装饰品
+穿脱装饰品
+现在的类型
+剑士
+枪手
+所需素材名
+缴交素材
+选择素材
+评价值
+持有
+基本能力值
+力量
+重量
+速度
+成长度
+剩余使用次数
+属性值
+猎虫LV
+距LV提升还剩
+剩余
+次
+个
+选择中的道具
+给予猎虫成长饵
+给予猎虫蜜饵
+获得的余料
+将获得以下余料
+提升等级
+更改装备
+无法给猎喵装备。<BR/>是否确定？
+？？（LV%2d开放）
+上位%2d
+提升棍棒等级，<BR/>进行衍生强化。<BR/><COL FF0000FF>（无法再继续强化）</COL>
+提升猎虫等级，<BR/>进行衍生强化。<BR/><COL FF0000FF>（无法再继续强化）</COL>
+<COL FF0000FF>没有可穿脱的装饰品。<BR/>请按B键。</COL>
+<COL FF0000FF>道具箱已满，<BR/>无法卸除装饰品。</COL>
+给予猎虫饵食。<BR/><COL FF0000FF>（无法再继续给予饵食）</COL>
+提供素材和金钱<BR/>开始生产装备。
+请选择武器的种类。
+请选择想要生产的装备。
+请选择想要生产的装备。<BR/><COL FF0000FF>（装备箱已满）</COL>
+请选择想要生产的装备。<BR/><COL FF0000FF>（持有金额不足）</COL>
+请选择想要生产的装备。<BR/><COL FF0000FF>（所需素材不足）</COL>
+请选择想要生产的装备。<BR/><COL FF0000FF>（所需素材与持有金额不足）</COL>
+需要生产素材与%dz。<BR/>是否确定？
+是否直接装备？
+是否直接装备？<BR/><COL FF0000FF>（更改武器可能会移除防具或狩技）</COL>
+已将装备送往装备箱。
+是否直接装备？<BR/><COL FF0000FF>（更改武器可能会移除防具或狩技）</COL>
+提供素材与金钱<BR/>开始生产防具。
+请选择防具的种类。
+请选择想要生产的装备。
+请选择想要生产的装备。<BR/><COL FF0000FF>（装备箱已满）</COL>
+请选择想要生产的装备。<BR/><COL FF0000FF>（持有金额不足）</COL>
+请选择想要生产的装备。<BR/><COL FF0000FF>（所需素材不足）</COL>
+请选择想要生产的装备。<BR/><COL FF0000FF>（所需素材与持有金额不足）</COL>
+提供素材与金钱<BR/>强化武器或防具。
+请选择想要强化的装备。
+请选择想要强化的装备。<BR/><COL FF0000FF>（此装备无法强化）</COL>
+请选择想要强化的装备。<BR/><COL FF0000FF>（无法继续强化）</COL>
+请选择想要强化的内容。
+请选择想要强化的内容。<BR/><COL FF0000FF>（选择的装备暂时无法强化）</COL>
+请选择想要强化的内容。<BR/><COL FF0000FF>（持有金额不足）</COL>
+请选择想要强化的内容。<BR/><COL FF0000FF>（所需素材不足）</COL>
+请选择想要强化的内容。<BR/><COL FF0000FF>（所需素材与持有金额不足）</COL>
+请选择想要强化的内容。<BR/><COL FF0000FF>（若装备的插槽数经强化后减少，<BR/>装饰品会自动送往道具箱）</COL>
+请选择想要强化的内容。<BR/><COL FF0000FF>（道具箱无空位，<BR/>无法卸除装饰品，因此无法强化）</COL>
+提升棍棒等级，<BR/>进行衍生强化。
+提升猎虫等级，<BR/>进行衍生强化。
+给予猎虫成长饵或蜜饵，<BR/>改变猎虫能力值。
+请选择素材。<BR/><COL FFFF50FF>（请继续缴交素材<BR/>直到满足所需评价值）</COL>
+请选择素材。<BR/><COL FF0000FF>（无素材）</COL>
+即将使用这个素材，<BR/>是否确定？
+已选择的素材超过需求数。<BR/>是否确定缴交？
+需要强化素材与%dz。<BR/>是否确定？
+需要%dz改造费用。<BR/>是否确定？
+是否直接装备？
+是否直接装备？<BR/><COL FF0000FF>（更改武器可能会移除防具或狩技）</COL>
+部分狩技将无法使用，<BR/>是否确定？
+给予猎虫成长饵。<BR/>达到一定量后，<BR/>猎虫等级将提升。
+给予猎虫蜜饵。<BR/>并不会影响到猎虫的等级提升。
+请选择想要给予的成长饵。<BR/><COL FFFF50FF>（只要力量、重量、速度中的能力值提升<BR/>累计达到3点，便能提升等级）</COL>
+请选择想要给予的成长饵。<BR/><COL FFFF50FF>（只要力量、重量、速度中的能力值提升<BR/>累计达到3点，便能提升等级）</COL>
+请选择想要给予的成长饵。<BR/><COL FFFF50FF>（猎虫可以升级了。<BR/>请返回强化菜单进行“猎虫强化”）</COL>
+将选择的道具给予猎虫。<BR/>是否确定？
+请选择想要给予的蜜饵。<BR/><COL FFFF50FF>（蜜饵所造成的能力值变化<BR/>不会影响到猎虫的等级提升。）</COL>
+请选择想要给予的蜜饵。<BR/><COL FF0000FF>（猎虫已经吃饱了。<BR/>请在任务中渡过一些时间）</COL>
+将选择的道具给予猎虫。<BR/>是否确定？
+生产或穿脱装饰品。
+生产装饰品。
+请选择想要生产的装饰品。
+请选择想要生产的装饰品。<BR/><COL FF0000FF>（道具箱无空位）</COL>
+请选择想要生产的装饰品。<BR/><COL FF0000FF>（持有金额不足）</COL>
+请选择想要生产的装饰品。<BR/><COL FF0000FF>（所需素材不足）</COL>
+请选择想要生产的装饰品。<BR/><COL FF0000FF>（所需素材与持有金额不足）</COL>
+穿脱持有装备上的装饰品。
+请选择想要穿脱<BR/>装饰品的装备。
+请选择插槽。
+请选择装饰品。
+请选择装饰品。<BR/><COL FF0000FF>（道具箱无空位）</COL>
+请选择装饰品。<BR/><COL FF0000FF>（空插槽不足）</COL>
+无法放入道具箱的余料<BR/>将被舍弃，是否确定？
+排序装备。<BR/>是否确定？
+安装消音器
+店家出借的部件。增加消音效果，<BR/>使自己不易被怪物盯上，<BR/>也会稍微减轻后坐力。
+卸除消音器
+卸除消音器，<BR/>变回普通状态。<BR/>消音器由店家回收。
+安装长枪管
+店家出借的部件。<BR/>会提升攻击力。
+卸除长枪管
+卸除长枪管，<BR/>变回普通状态。<BR/>长枪管由店家回收。
+安装可调倍率瞄准镜
+店家出借的部件。<BR/>可通过左右方向键更改显示的倍率。
+安装固定倍率瞄准镜
+变回原先的固定倍率瞄准镜。<BR/>可调倍率瞄准镜由店家回收。
+安装盾牌
+店家出借的部件。<BR/>装备盾牌后，<BR/>可自动格挡。
+卸除盾牌
+卸除盾牌，<BR/>变回普通状态。<BR/>盾牌由店家回收。
+安装强力枪管
+店家出借的部件。<BR/>会提升攻击力。
+卸除强力枪管
+卸除强力枪管，<BR/>变回普通状态。<BR/>强力枪管由店家回收。
+请选择想要给予的蜜饵。<BR/><COL FFFF50FF>（此为重置属性值的饵食。<BR/>无法与其他饵食并用）</COL>
+<COL FF0000FF>给予饵食后将会重置所有属性值，<BR/>是否确定？</COL>
+强化内容
+此装备无法继续强化
+此装备无法强化
+所需素材名
+持有数/所需数
+所需素材种类
+评价值
+所需素材名
+缴交/所需
+缴交素材名
+评价值/个数
+操虫棍强化
+给予猎虫道具
+强化棍棒
+强化猎虫
+属性值
+剩余
+点数
+所需插槽
+穿脱装备
+登记顺序
+稀有度
+固有技能1
+固有技能2
+可用顺序
+插槽
+？？（能力值不足）
+<COL FF0000FF>已达到最高等级，<BR/>无法继续给予成长饵。</COL>
+<COL FF0000FF>能力值已满，<BR/>无法继续给予蜜饵。</COL>
+使用强化素材强化猎虫。<BR/>是否确定？
+无属性
+<COL FF0000FF>已达到最高等级，无法继续给予成长饵。<BR/>请按B键。</COL>
+<COL FF0000FF>继续给予饵食也不会产生任何效果。</COL>
+请选择想要强化的内容。<BR/><COL FF0000FF>（所需素材与能力值不足）</COL>
+请选择想要强化的内容。<BR/><COL FF0000FF>（能力值不足）</COL>
+给予猎虫成长饵或蜜饵，<BR/>改变猎虫能力值。<BR/><COL FF0000FF>（无法继续给予饵食）</COL>
+<COL FFFF50FF>进行极限突破。</COL><BR/>需要素材与%dz，是否确定？
+极限突破
+G级%2d
+猎虫交换
+与其他操虫棍的猎虫<BR/>进行交换。
+与其他操虫棍的猎虫<BR/>进行交换。<BR/><COL FF0000FF>（没有可交换的操虫棍）</COL>
+请选择想要交换猎虫的操虫棍。
+请选择想要交换猎虫的操虫棍。<BR/><COL FFFF50FF>（无法交换攻击属性不同的猎虫）</COL>
+请选择想要交换猎虫的操虫棍。<BR/><COL FF0000FF>（无法交换攻击属性不同的猎虫）</COL>
+请选择想要交换猎虫的操虫棍。<BR/><COL FF0000FF>（无法交换特殊猎虫）</COL>
+即将交换猎虫。<BR/>是否确定？
+已交换猎虫。
+？？？？？？
+目前无法强化
+请选择想要强化的装备。<BR/><COL FF0000FF>（目前无法强化）</COL>
+请选择想要强化的内容。<BR/><COL FF0000FF>（目前无法强化）</COL>
+进行极限突破。
+请选择想要交换猎虫的操虫棍。<BR/><COL FF0000FF>（无法交换特殊猎虫）</COL>
+请选择想要强化的装备。<BR/><COL FFFF50FF>（此装备无法进行极限突破）</COL>
+请选择想要强化的装备。<BR/><COL FF0000FF>（无法继续强化）</COL><BR/><COL FFFF50FF>（此装备无法进行极限突破）</COL>
+需要强化素材与%dz。是否确定？<BR/><COL FF0000FF>（此武器已进行究极强化）</COL>
+==========string end==========

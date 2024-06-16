@@ -1,0 +1,19 @@
+==========identifier start==========
+Ryurekiin_index_01
+Ryurekiin_index_02
+Ryurekiin_index_03
+Ryurekiin_index_04
+Ryurekiin_index_05
+Ryurekiin_index_06
+Ryurekiin_index_07
+==========identifier end==========
+
+==========string start==========
+怪物信息
+怪物的攻略信息
+猎人活动备忘录
+村庄贡献度
+前往线上集会所
+前往离线集会所
+龙历院票券
+==========string end==========

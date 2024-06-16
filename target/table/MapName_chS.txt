@@ -1,0 +1,8 @@
+==========identifier start==========
+SAMPLE2_TEST0
+==========identifier end==========
+
+==========string start==========
+@
+テンプレ２
+==========string end==========

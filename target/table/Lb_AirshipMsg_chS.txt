@@ -1,0 +1,93 @@
+==========identifier start==========
+Sign
+Air_TopMenu_Be
+Air_TopMenu_Ko
+Air_TopMenu_Po
+Air_TopMenu_Yu
+Air_TopMenu_OnG
+Air_TopMenu_OffG
+Air_TopMenu_Ot
+Air_001
+Air_002
+Air_Check_Be
+Air_Check_Ko
+Air_Check_Po
+Air_Check_Yu
+Air_Check_OnG
+Air_Check_OffG
+Air_Check_Ot
+Air_TopMenu_Lab
+Air_TopMenu_Bar
+Air_TopMenu_OG
+Air_Check_Lab
+Air_TopMenu_Ride
+Air_TopMenu_Call
+Air_Help_Ride
+Air_Help_Call
+Air_Help_Call_NG
+Air_Check_Call
+Air_Stby
+Air_Check_Lroom
+Air_Check_LBroom
+Air_Check_Behouse
+Air_Check_Kohouse
+Air_Check_Pohouse
+Air_Check_Yuhouse
+Air_Check_Stby
+Air_Village
+Air_Ship
+Air_Laboroom
+Air_House
+Air_Room
+Air_Help_Call_NG2
+Air_Help_Stop
+Air_TopMenu_Call_OFF
+Air_Help_Ride_NG
+==========identifier end==========
+
+==========string start==========
+飞行船窗口
+贝鲁纳村
+可可特村
+波凯村
+结云村
+线上集会所
+离线集会所
+随从广场
+请选择目的地。
+请选择目的地。<BR/><COL FF0000FF>（无法移动到这里）</COL>
+移动至贝鲁纳村。<BR/>是否确定？
+移动至可可特村。<BR/>是否确定？
+移动至波凯村。<BR/>是否确定？
+移动至结云村。<BR/>是否确定？
+移动至线上集会所。<BR/>是否确定？
+移动至离线集会所。<BR/>是否确定？
+移动至随从广场。<BR/>是否确定？
+龙识船
+集会酒吧
+龙历院前集会所
+移动至龙识船。<BR/>是否确定？
+乘坐飞行船
+开始猎人呼唤
+乘坐飞行船，<BR/>移动至各处的村庄或集会所。
+在集会所内呼叫<BR/>开启猎人搜索的猎人。
+在集会所内呼叫<BR/>开启猎人搜索的猎人。<BR/><COL FF0000FF>（进行本地游戏时无法选择）</COL>
+呼叫开启猎人搜索的猎人。<BR/>是否确定？
+准备区域
+移动至龙识船的房间。<BR/>是否确定？
+移动至龙识船研究室。<BR/>是否确定？
+移动至贝鲁纳村的自己家。<BR/>是否确定？
+移动至可可特村的自己家。<BR/>是否确定？
+移动至波凯村的自己家。<BR/>是否确定？
+移动至结云村的自己家。<BR/>是否确定？
+移动至准备区域。<BR/>是否确定？
+村庄内
+船上
+龙识船研究室
+自己家
+房间
+在集会所内呼叫<BR/>开启猎人搜索的猎人。<BR/><COL FF0000FF>（该功能仅限创建了集会所的玩家使用）</COL>
+停止在集会所内<BR/>继续猎人呼唤。
+停止猎人呼唤
+乘坐飞行船，<BR/>移动至各处的村庄或集会所。<BR/><COL FF0000FF>（没有龙历院的许可，无法使用）</COL>
+==========string end==========

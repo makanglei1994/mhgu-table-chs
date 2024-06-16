@@ -1,0 +1,15 @@
+==========identifier start==========
+Sign
+TopMenu_WBuy
+TopMenu_MBuy
+Wbuy_01
+Mbuy_01
+==========identifier end==========
+
+==========string start==========
+武具商兼加工商
+买卖武具
+加工武具
+购买或出售<BR/>武器与防具
+生产或强化武器与防具，<BR/>穿脱装饰品。
+==========string end==========

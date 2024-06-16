@@ -1,0 +1,55 @@
+==========identifier start==========
+Top_Boad_001
+Index_001
+Index_002
+Index_003
+Index_004
+Help_001
+Help_002
+Help_003
+Help_004
+Index_005
+Index_006
+Index_007
+Index_008
+Help_005
+Help_006
+Menu_001
+Menu_002
+Special_cross_memo001
+Special_cross_memo002
+Special_cross_memo003
+Special_cross_memo004
+Special_cross_memo005
+Special_cross_memo006
+Special_cross_memo007
+Special_cross_memo008
+==========identifier end==========
+
+==========string start==========
+狩技风格教官
+狩猎风格
+狩技
+关于狩猎风格
+关于狩技
+学习有关猎人狩猎风格的知识。
+学习有关猎人狩技的知识。
+请选择想要查看的狩猎风格。
+请选择想要查看的狩技。<BR/><COL FFFF50FF>使用X键切换筛选。</COL>
+全武器通用
+%s专用
+SP狩技
+关于SP狩技
+学习有关猎人SP狩技的知识。
+请选择想要查看的项目。
+所谓SP狩技
+猎喵
+所谓SP狩技，就是共同进行狩猎的猎人伙伴<BR/>彼此间产生共鸣而得以使用的奥义。<BR/>在猎人释放自己的感情之力使用SP狩技时，<BR/>会和同伴们一并进入<COL FF0000FF>SP状态</COL>，<BR/><COL FF0000FF>狩猎风格也会受到强化</COL>。
+@
+@
+@
+@
+@
+@
+猎喵发动特定的支援行动后，<BR/>能让自己与周围的同伴一并进入SP状态。<BR/>在SP状态下发动支援行动时，<BR/><COL FF0000FF>支援槽的消耗量会变少</COL>。
+==========string end==========

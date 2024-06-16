@@ -1,0 +1,477 @@
+==========identifier start==========
+signboad
+index_top_01
+index_top_02
+index_top_03
+index_top_04
+index_top_05
+index_top_06
+index_top_07
+index_top_08
+index_sub_01
+index_sub_02
+index_sub_03
+index_sub_04
+index_sub_05
+index_sub_06
+index_sub_07
+index_sub_08
+index_sub_09
+index_sub_10
+index_sub_11
+index_sub_12
+index_sub_13
+index_sub_14
+index_sub_15
+index_sub_16
+index_sub_17
+index_sub_18
+index_sub_19
+index_sub_20
+index_sub_21
+index_sub_22
+index_other_01
+index_other_03
+index_other_04
+index_other_05
+index_other_06
+index_other_07
+index_other_08
+index_other_09
+index_other_10
+index_other_11
+index_other_12
+index_other_13
+index_other_14
+index_other_15
+index_other_16
+index_other_17
+index_other_18
+index_other_19
+index_other_20
+index_other_21
+index_other_22
+index_other_23
+index_other_24
+index_other_25
+index_other_26
+index_other_27
+index_other_28
+index_error_01
+item_move_01
+item_move_02
+item_move_03
+item_move_04
+item_move_05
+item_move_06
+item_move_07
+item_move_08
+item_move_09
+item_move_10
+item_move_11
+item_move_error_01
+item_move_error_02
+item_myset_01
+item_myset_02
+item_myset_03
+item_myset_04
+item_myset_05
+item_myset_06
+item_myset_07
+item_myset_08
+item_myset_09
+item_myset_10
+item_myset_11
+item_myset_12
+item_myset_13
+item_myset_14
+item_myset_error_01
+item_myset_error_02
+item_myset_error_03
+item_myset_error_04
+item_myset_error_05
+item_myset_error_06
+item_myset_error_07
+item_mixmake_01
+item_mixmake_02
+item_mixmake_03
+item_mixmake_04
+item_mixmake_05
+item_mixmake_06
+item_mixmake_07
+item_mixmake_08
+item_mixmake_09
+item_mixmake_10
+item_mixmake_11
+item_mixmake_12
+item_mixmake_13
+item_mixmake_14
+item_tidy_01
+item_tidy_02
+item_tidy_03
+item_tidy_04
+item_sell_01
+item_sell_02
+item_sell_03
+item_sell_04
+item_sell_error_01
+equip_change_01
+equip_change_02
+equip_change_03
+equip_change_04
+equip_change_05
+equip_change_06
+equip_change_07
+equip_change_08
+equip_change_09
+equip_change_10
+equip_change_11
+equip_change_12
+equip_change_13
+equip_change_14
+equip_change_15
+equip_change_16
+equip_sell_01
+equip_sell_02
+equip_sell_03
+equip_error_01
+equip_error_02
+equip_error_03
+equip_error_04
+equip_error_05
+equip_error_06
+equip_error_07
+equip_error_08
+equip_error_09
+equip_error_10
+equip_error_11
+equip_error_12
+equip_error_13
+equip_myset_01
+equip_myset_02
+equip_myset_03
+equip_myset_04
+equip_myset_05
+equip_myset_06
+equip_myset_07
+equip_myset_08
+equip_myset_09
+equip_myset_10
+equip_myset_11
+equip_myset_12
+equip_myset_13
+equip_myset_14
+equip_myset_error_01
+equip_myset_error_02
+style_teq_change_01
+style_teq_change_02
+style_teq_change_03
+style_teq_change_04
+style_teq_change_05
+style_teq_change_06
+style_teq_change_07
+figure_change_01
+figure_change_02
+figure_change_03
+figure_change_04
+figure_change_05
+figure_change_06
+figure_change_07
+figure_change_08
+figure_change_09
+figure_change_10
+figure_change_11
+figure_change_12
+figure_change_13
+figure_change_14
+figure_change_15
+figure_change_16
+figure_change_17
+figure_change_18
+figure_change_error_01
+figure_camera_01
+item_move_YN_01
+teq_off_01
+equip_other_add_001
+equip_other_add_002
+equip_other_add_003
+equip_other_add_004
+equip_other_add_005
+equip_other_add_007
+equip_other_add_008
+myset_add_001
+myset_add_002
+myset_add_003
+topmenu_cat_error_01
+topmenu_cat_error_02
+topmenu_cat_error_03
+topmenu_cat_error_04
+myset_add_004
+myset_add_005
+myset_add_006
+myset_add_007
+myset_add_008
+myset_add_009
+myset_add_010
+equip_other_add_009
+equip_other_add_010
+item_other_add_001
+item_other_add_002
+style_teq_change_08
+style_teq_change_09
+style_teq_change_10
+index_other_29
+index_sub_23
+equip_change_17
+equip_change_18
+index_top_09
+otodoke_service_01
+figure_change_19
+figure_change_20
+equip_error_14
+index_other_30_HD
+index_other_31_HD
+index_other_32_HD
+index_other_33_HD
+index_other_34_HD
+ColorPalette_ItemBox_HD
+==========identifier end==========
+
+==========string start==========
+道具箱
+收纳道具
+取出道具
+道具的个人组合
+调和･出售道具
+更改･出售装备
+更改风格･狩技
+装备的个人组合
+更改造型
+持有组合
+登记组合
+移动组合
+解除组合
+在道具箱内调和
+从列表中调和
+替换
+出售道具
+选择装备
+选择护石
+穿脱装饰品
+替换
+出售装备
+装备个人组合
+登记个人组合
+移动个人组合
+解除个人组合
+更改内衬
+更改发型
+更改化妆
+更改瞳色
+更改防具上色
+组合
+装备箱
+护石
+现在的排列
+稀有度
+固有技能1
+固有技能2
+插槽
+风格
+正在使用的狩技
+选择风格
+插槽%02d
+选择狩技
+当前显示
+全部
+可装备的狩技
+道具个人组合
+卸除装饰品
+统一更改
+无装备
+<COL FF0000FF>没有可穿脱的装饰品。<BR/>请按B键。</COL>
+个人组合01
+个人组合02
+个人组合03
+个人组合04
+个人组合05
+个人组合06
+<COL FF0000FF>此选项在猎喵模式中<BR/>无法使用。</COL>
+将持有的道具收纳至<BR/>道具箱或道具袋中。
+将道具收纳至道具箱。
+请选择想要收纳的道具。
+要收纳几个？
+已收纳道具。
+从道具箱或道具袋中<BR/>取出道具。
+从道具箱中取出道具。
+请选择想要取出的道具。
+请选择<BR/>存入道具的位置。
+要取出多少？
+已取出道具。
+请选择想要收纳的道具。<BR/><COL FF0000FF>（道具箱中无空位）</COL>
+请选择要放入道具的位置。<BR/><COL FF0000FF>（道具箱中无空位）</COL>
+登记道具袋的内容<BR/>并替换袋中所有物品。
+将道具袋中物品<BR/>替换为已登记的内容。
+请选择个人组合。
+替换持有的道具。<BR/>是否确定？
+已替换道具。
+将现在道具袋的内容<BR/>登记为个人组合。
+请选择登记位置。
+登记在这里。<BR/>是否确定？
+替换已登记个人组合的位置。
+请选择想要替换的个人组合。
+请选择要替换的位置。
+解除已登记的个人组合。
+请选择想要解除的<BR/>个人组合。
+解除个人组合。<BR/>确认继续吗？
+将道具袋中物品<BR/>替换为已登记的内容。<BR/><COL FF0000FF>（未登记个人组合）</COL>
+请选择个人组合。<BR/><COL FF0000FF>（未登记个人组合）</COL>
+请选择个人组合。<BR/><COL FF0000FF>（猎人类型不同<BR/>无法替换）</COL>
+已替换道具。<BR/><COL FF0000FF>（部分道具缺失或数量不足）</COL>
+替换已登记个人组合的位置。<BR/><COL FF0000FF>（未登记个人组合）</COL>
+解除已登记的个人组合。<BR/><COL FF0000FF>（未登记个人组合）</COL>
+请选择想要解除的个人组合。<BR/><COL FF0000FF>（未登记个人组合）</COL>
+调和、整理或出售<BR/>道具箱中的道具。
+选择道具箱中的道具<BR/>进行调和。
+请选择第1个想要调和的素材。
+请选择第2个想要调和的素材。
+开始调和道具。
+调和成功。
+调和失败。
+结束调和。
+从列表中选择并开始调和。
+请选择想要调和的项目。
+开始调和道具。
+调和成功。
+调和失败。
+结束调和。
+请选择移动位置。
+替换道具箱中道具的位置。
+请选择想要替换的道具。
+请选择要替换的位置。
+出售道具箱中的道具。
+请选择要出售的道具。
+要出售多少？
+共计%d z。<BR/>是否确定？
+出售后不会收到任何金钱。<BR/>是否确定？
+更改、整理或出售装备。
+更改装备。
+请选择想要更改的装备。
+是否更改装备？
+部分狩技将无法使用，<BR/>是否确定？
+更改或出售护石。
+请选择想要装备的护石。
+是否更改装备？
+共计%d z。<BR/>是否确定？
+穿戴、卸除装饰品。
+请选择想要穿脱装饰品的装备。<BR/><COL FFFF50FF>按Y键卸除所有装饰品。</COL>
+请选择插槽。
+请选择装饰品。
+替换装备箱中装备的位置。
+请选择想要替换的装备。
+请选择要替换的位置。
+出售装备箱中的装备。
+请选择要出售的装备。
+共计%d z。<BR/>是否确定？
+请选择想要更改的装备。<BR/><COL FF0000FF>（无法卸除武器）</COL>
+请选择想要更改的装备。<BR/><COL FF0000FF>（以目前的猎人类型<BR/>无法装备）</COL>
+请选择想要更改的装备。<BR/><COL FF0000FF>（卸除装备中的防具）</COL>
+是否更改装备？<BR/><COL FF0000FF>（有可能因更改武器而卸除防具）</COL>
+是否更改装备？<BR/><COL FF0000FF>（将无法使用某种狩技）</COL>
+更改或出售护石。<BR/><COL FF0000FF>（未持有护石）</COL>
+请选择想要装备的护石。<BR/><COL FF0000FF>（无法出售装备中的护石）</COL>
+请选择想要装备的护石。<BR/><COL FF0000FF>（出售后将解除登记的个人组合）</COL>
+请选择想要装备的护石。<BR/><COL FF0000FF>（未持有护石）</COL>
+<COL FF0000FF>包含装饰品</COL>共计%d z。<BR/>是否确定出售？
+请选择装饰品。<BR/><COL FF0000FF>（空插槽不足）</COL>
+请选择要出售的装备。<BR/><COL FF0000FF>（无法出售使用中的装备）</COL>
+请选择想要出售的装备。<BR/><COL FF0000FF>（出售后将解除登记的个人组合）</COL>
+更改已登记的装备。
+请选择个人组合。<BR/><COL FFFF50FF>操虫棍的猎虫<BR/>不会登记在装备的个人组合中。</COL>
+是否更改装备？
+已更改装备。
+将目前装备的内容<BR/>登记为个人组合。
+请选择登记位置。<BR/><COL FFFF50FF>操虫棍的猎虫<BR/>不会登记在装备的个人组合中。</COL>
+登记在这里。<BR/>是否确定？
+替换已登记个人组合的位置。
+请选择想要替换的个人组合。
+请选择要替换的位置。
+解除已登记的个人组合。
+请选择想要解除的<BR/>个人组合。
+解除个人组合。<BR/>确认继续吗？
+此处已登记有个人组合。<BR/>是否将其覆盖？
+解除已登记的个人组合。<BR/><COL FF0000FF>（未登记个人组合）</COL>
+请选择想要解除的个人组合。<BR/><COL FF0000FF>（未登记个人组合）</COL>
+更改风格或狩技。
+请选择风格。
+将更改风格。<BR/>是否确定？
+请选择狩技。
+将更改狩技。<BR/>是否确定？
+该狩技已设置。<BR/>是否要替换？
+请选择狩技。<BR/><COL FF0000FF>（无法设置该狩技）</COL>
+更改发型、<BR/>更改内衬的款式与颜色。
+更改穿在防具下的内衬。
+请选择内衬。
+请设置内衬的颜色。
+更改发型。
+请选择发型。
+请设置发色。
+更改化妆设置。
+请选择化妆。<BR/>可以更改颜色。
+请设置化妆的颜色。
+更改眼部设置。
+请选择眼睛类型。
+设置眼睛的颜色。
+更改防具的颜色设置。
+请选择想要更改颜色的部位。
+请设置防具的颜色。
+将颜色初始化。<BR/>是否确定？
+防具的颜色已初始化。
+更改防具的颜色设置。<BR/><COL FF0000FF>（未装备可上色的防具）</COL>
+上下移动L摇杆调整镜头高低。<BR/>左右移动旋转角色。
+是否排序？
+将解除狩技。<BR/>是否确定？
+<COL FF0000FF>没有已登记的个人组合</COL>
+请选择想要更改的装备。
+请选择狩技。<BR/><COL FF0000FF>（此处无法装备）</COL>
+卸除所有装备上的装饰品。<BR/>是否确定？
+已卸除装饰品。
+<COL FF0000FF>道具箱已满，<BR/>无法卸除装饰品</COL>
+卸除全部装饰品
+共计%d z，是否确定？<BR/><COL FF0000FF>（已登记为个人组合）</COL>
+装备已登记的个人组合。<BR/><COL FF0000FF>（未登记个人组合）</COL>
+替换已登记的个人组合。<BR/><COL FF0000FF>（未登记个人组合）</COL>
+更改发型、<BR/>内衬款式或颜色等。<BR/><COL FF0000FF>（猎喵模式下无法使用）</COL>
+更改、整理或出售装备。<BR/><COL FF0000FF>（猎喵模式下无法使用）</COL>
+更改为已登记的装备。<BR/><COL FF0000FF>（猎喵模式下无法使用）</COL>
+更改风格或狩技。<BR/><COL FF0000FF>（猎喵模式下无法使用）</COL>
+插槽1
+插槽2
+插槽3
+插槽：01
+插槽：02
+插槽：03
+箱子没有空位，<BR/>无法持有个人组合。<BR/><COL FF0000FF>（请整理装备或道具）</COL>
+<COL FF0000FF>道具箱已满，<BR/>无法卸除装饰品。</COL>
+装备已登记的个人组合，是否确定？<BR/><COL FFFF50FF>（存在装饰品不齐的情况）</COL>
+请选择想要取出的道具。<BR/><COL FF0000FF>（袋中无法放入更多道具）</COL>
+请选择想要取出的道具。<BR/><COL FF0000FF>（袋中没有空位）</COL>
+请选择狩技。<BR/><COL FFFF50FF>可使用R键装备、解除SP狩技。</COL>
+请选择狩技。<BR/><COL FFFF50FF>可使用R键装备、解除SP狩技。</COL><BR/><COL FF0000FF>（无法装备更多SP狩技）</COL>
+@
+SP狩技数量
+猎虫交换
+交换装备箱中操虫棍的猎虫。
+交换装备箱中操虫棍的猎虫。<BR/><COL FF0000FF>（没有可交换的操虫棍）</COL>
+道具补给队
+使用道具补给队。
+请设置防具的颜色。<BR/><COL FFFF50FF>可用L键或R键切换页面。</COL>
+请设置防具的颜色。<BR/><COL FFFF50FF>可用L键或R键切换页面。</COL><BR/><COL FF0000FF>（此颜色尚不可用）</COL>
+请选择要出售的装备。<BR/><COL FF0000FF>（合成防具无法出售）</COL>
+选择狩技1
+选择狩技2
+选择狩技3
+登记狩技
+选择中的风格
+正在选择调色盘。<BR/>按住L键或R键时<BR/>可以快速移动选色标识。
+==========string end==========

@@ -1,0 +1,1395 @@
+==========identifier start==========
+PAD_Y
+PAD_X
+PAD_B
+PAD_A
+PAD_L
+PAD_R
+KEY
+ANALOG
+KEY_U
+KEY_R
+KEY_D
+KEY_L
+KEY_UD
+KEY_RL
+PAD_START
+PAD_SELECT
+WC_Command_r_air
+WC_Command_xa
+WC_Command_pad_b
+WC_Command_rxa
+WC_Command_lxb
+WC_Command_air_xa
+WC_Command_rx
+WC_Command_ra
+WC_Command_rb
+WC_Command_ry
+WC_Command_release_rhold
+WC_Command_move_r
+WC_Command_pad_x
+WC_Command_pad_xhold
+WC_Command_pad_a
+WC_Command_dpad_ahold
+WC_Command_pad_xa
+WC_Command_r_ahold
+WC_Command_upad_rx
+WC_Command_ahold
+WC_Command_rhold
+WC_Command_rhold_a
+WC_Command_release_r
+WC_Command_xhold
+WC_Command_xhold_a
+WC_Command_release_x
+WC_Command_longpress_r
+WC_Command_barrage_x
+WC_Command_1
+WC_Command_2
+WC_Command_3
+WC_Command_4
+WC_Command_5
+WC_Command_6
+WC_Command_7
+WC_Command_8
+WC_Command_9
+WC_Command_10
+WC_Command_11
+WC_Command_12
+WC_Command_13
+RabbitCommand2
+RabbitCommand3
+RabbitCommand4
+RabbitCommand5
+RabbitCommand6
+RabbitCommand7
+RabbitCommand8
+RabbitCommand11
+RabbitCommand12
+WC_commandnote_1
+WC_commandnote_2
+WC_commandnote_3
+WC_commandnote_4
+WC_commandnote_5
+WC_commandnote_6
+WC_commandnote_7
+WC_commandnote_8
+WC_commandnote_9
+WC_commandnote_10
+WC_commandnote_11
+WC_commandnote_12
+WC_commandnote_13
+WC_commandnote_14
+WC_commandnote_15
+WC_commandnote_16
+WC_commandnote_17
+WC_commandnote_18
+WC_commandnote_19
+WC_commandnote_21
+WC_commandnote_22
+WC_commandnote_23
+WC_commandnote_24
+WC_commandnote_25
+WC_SS_commandnote_1
+WC_SS_commandnote_2
+WC_SS_commandnote_3
+WC_SS_commandnote_4
+WC_TAC_commandnote_1
+WC_TAC_commandnote_2
+WC_TAC_commandnote_3
+WC_TAC_commandnote_4
+WC_TAC_commandnote_5
+WC_TAC_commandnote_6
+WC_TAC_commandnote_8
+WC_TAC_commandnote_9
+WC_TAC_commandnote_10
+WC_GS_commandnote_1
+WC_GS_commandnote_2
+WC_IG_commandnote_1
+WC_IG_commandnote_2
+WC_IG_commandnote_3
+WC_IG_commandnote_4
+WC_IG_commandnote_5
+WC_IG_commandnote_6
+WC_IG_commandnote_7
+WC_DB_commandnote_1
+WC_DB_commandnote_2
+WC_DB_commandnote_3
+WC_DB_commandnote_4
+WC_DB_commandnote_5
+WC_DB_commandnote_6
+WC_DB_commandnote_7
+WC_DB_commandnote_8
+WC_DB_commandnote_9
+WC_DB_commandnote_10
+WC_BOW_commandnote_1
+WC_BOW_commandnote_2
+WC_BOW_commandnote_3
+WC_BOW_commandnote_4
+WC_BOW_commandnote_5
+WC_BOW_commandnote_6
+WC_BOW_commandnote_7
+WC_BOW_commandnote_8
+WC_BOW_commandnote_9
+WC_SAX_commandnote_1
+WC_SAX_commandnote_2
+WC_SAX_commandnote_3
+WC_SAX_commandnote_4
+WC_SAX_commandnote_5
+WC_SAX_commandnote_6
+WC_SAX_commandnote_7
+WC_SAX_commandnote_8
+WC_SAX_commandnote_9
+WC_GLA_commandnote_1
+WC_GLA_commandnote_2
+WC_GLA_commandnote_3
+WC_GLA_commandnote_4
+WC_GLA_commandnote_5
+WC_GLA_commandnote_6
+WC_GLA_commandnote_7
+WC_GLA_commandnote_8
+WC_GLA_commandnote_9
+WC_LA_commandnote_1
+WC_LA_commandnote_2
+WC_LA_commandnote_3
+WC_LA_commandnote_4
+WC_LA_commandnote_5
+WC_LA_commandnote_7
+WC_HORN_commandnote_1
+WC_HORN_commandnote_2
+WC_HORN_commandnote_3
+WC_HORN_commandnote_4
+WC_HORN_commandnote_5
+WC_HORN_commandnote_6
+WC_HORN_commandnote_7
+WC_HORN_commandnote_8
+WC_HORN_commandnote_9
+WC_HAM_commandnote_1
+WC_HAM_commandnote_2
+WC_HAM_commandnote_3
+WC_HAM_commandnote_4
+WC_HAM_commandnote_5
+WC_HAM_commandnote_6
+WC_HAM_commandnote_7
+WC_HAM_commandnote_8
+WC_HAM_commandnote_9
+WC_CAX_commandnote_1
+WC_CAX_commandnote_2
+WC_CAX_commandnote_3
+WC_CAX_commandnote_4
+WC_CAX_commandnote_5
+WC_CAX_commandnote_6
+WC_CAX_commandnote_7
+WC_CAX_commandnote_8
+WC_CAX_commandnote_9
+WC_CAX_commandnote_10
+WC_CAX_commandnote_11
+WC_CAX_commandnote_12
+WC_CAX_commandnote_13
+WC_CAX_commandnote_14
+WC_CAX_commandnote_15
+WC_CAX_commandnote_16
+WC_HB_commandnote_1
+WC_HB_commandnote_2
+WC_HB_commandnote_3
+WC_HB_commandnote_4
+WC_HB_commandnote_5
+WC_HB_commandnote_6
+WC_HB_commandnote_7
+WC_HB_commandnote_8
+WC_HB_commandnote_9
+WC_LB_commandnote_1
+WC_Bra_skillnote_1
+WC_Bra_skillnote_2
+WC_Bra_skillnote_3
+WC_TAC_skillnote_1
+WC_TAC_skillnote_2
+WC_TAC_skillnote_3
+WC_TAC_skillnote_4
+WC_TAC_skillnote_5
+WC_TAC_skillnote_6
+WC_TAC_skillnote_7
+WC_TAC_skillnote_8
+WC_GS_skillnote_1
+WC_GS_skillnote_2
+WC_GS_skillnote_3
+WC_GS_skillnote_4
+WC_GS_skillnote_5
+WC_GS_skillnote_6
+WC_SS_skillnote_1
+WC_SS_skillnote_2
+WC_SS_skillnote_3
+WC_SS_skillnote_4
+WC_SS_skillnote_5
+WC_SS_skillnote_6
+WC_SS_skillnote_7
+WC_IG_skillnote_1
+WC_IG_skillnote_2
+WC_IG_skillnote_3
+WC_IG_skillnote_4
+WC_IG_skillnote_5
+WC_IG_skillnote_6
+WC_IG_skillnote_7
+WC_IG_skillnote_8
+WC_IG_skillnote_9
+WC_IG_skillnote_10
+WC_DB_skillnote_1
+WC_DB_skillnote_2
+WC_DB_skillnote_3
+WC_DB_skillnote_4
+WC_DB_skillnote_5
+WC_DB_skillnote_6
+WC_DB_skillnote_7
+WC_DB_skillnote_8
+WC_DB_skillnote_9
+WC_SAX_skillnote_1
+WC_SAX_skillnote_2
+WC_SAX_skillnote_3
+WC_SAX_skillnote_4
+WC_SAX_skillnote_5
+WC_BOW_skillnote_1
+WC_BOW_skillnote_2
+WC_BOW_skillnote_3
+WC_BOW_skillnote_4
+WC_BOW_skillnote_5
+WC_BOW_skillnote_6
+WC_BOW_skillnote_7
+WC_BOW_skillnote_8
+WC_BOW_skillnote_9
+WC_BOW_skillnote_10
+WC_BOW_skillnote_11
+WC_BOW_skillnote_12
+WC_BOW_skillnote_13
+WC_BOW_skillnote_14
+WC_GLA_skillnote_1
+WC_GLA_skillnote_2
+WC_GLA_skillnote_3
+WC_GLA_skillnote_4
+WC_GLA_skillnote_5
+WC_GLA_skillnote_6
+WC_GLA_skillnote_7
+WC_GLA_skillnote_8
+WC_GLA_skillnote_9
+WC_GLA_skillnote_10
+WC_GLA_skillnote_11
+WC_GLA_skillnote_12
+WC_LA_skillnote_1
+WC_LA_skillnote_2
+WC_LA_skillnote_3
+WC_LA_skillnote_4
+WC_LA_skillnote_5
+WC_LA_skillnote_6
+WC_LA_skillnote_7
+WC_LA_skillnote_8
+WC_LA_skillnote_9
+WC_LA_skillnote_10
+WC_LA_skillnote_11
+WC_HORN_skillnote_1
+WC_HORN_skillnote_2
+WC_HORN_skillnote_3
+WC_HORN_skillnote_4
+WC_HORN_skillnote_5
+WC_HORN_skillnote_6
+WC_HORN_skillnote_7
+WC_HORN_skillnote_8
+WC_HORN_skillnote_9
+WC_HORN_skillnote_10
+WC_HAM_skillnote_1
+WC_HAM_skillnote_2
+WC_HAM_skillnote_3
+WC_HAM_skillnote_4
+WC_HAM_skillnote_5
+WC_HAM_skillnote_6
+WC_HAM_skillnote_7
+WC_CAX_skillnote_1
+WC_CAX_skillnote_2
+WC_CAX_skillnote_3
+WC_CAX_skillnote_4
+WC_CAX_skillnote_5
+WC_CAX_skillnote_6
+WC_HB_skillnote_1
+WC_HB_skillnote_2
+WC_HB_skillnote_3
+WC_HB_skillnote_4
+WC_HB_skillnote_5
+WC_HB_skillnote_6
+WC_HB_skillnote_7
+WC_LB_skillnote_1
+WC_LB_skillnote_2
+WC_LB_skillnote_3
+WC_LB_skillnote_4
+WC_LB_skillnote_5
+WC_LB_skillnote_6
+WC_LB_combotitle_1
+WC_LB_combotitle_2
+WC_LB_combotitle_3
+WC_LB_combotitle_4
+WC_LB_combotitle_5
+WC_LB_combotitle_6
+WC_LB_combotitle_7
+WC_LB_combotitle_8
+WC_LB_combotitle_9
+WC_LB_combotitle_10
+WC_LB_combotitle_11
+WC_LB_combotitle_12
+WC_HB_combotitle_1
+WC_HB_combotitle_2
+WC_HB_combotitle_3
+WC_HB_combotitle_4
+WC_HB_combotitle_5
+WC_HB_combotitle_6
+WC_HB_combotitle_7
+WC_CAX_combotitle_1
+WC_CAX_combotitle_2
+WC_CAX_combotitle_3
+WC_CAX_combotitle_4
+WC_CAX_combotitle_5
+WC_CAX_combotitle_6
+WC_CAX_combotitle_7
+WC_CAX_combotitle_8
+WC_CAX_combotitle_9
+WC_CAX_combotitle_10
+WC_CAX_combotitle_14
+WC_CAX_combotitle_15
+WC_HAM_combotitle_1
+WC_HAM_combotitle_2
+WC_HAM_combotitle_3
+WC_HAM_combotitle_4
+WC_HAM_combotitle_5
+WC_HAM_combotitle_6
+WC_HORN_combotitle_1
+WC_HORN_combotitle_2
+WC_HORN_combotitle_3
+WC_HORN_combotitle_4
+WC_HORN_combotitle_5
+WC_HORN_combotitle_6
+WC_HORN_combotitle_7
+WC_HORN_combotitle_8
+WC_LA_combotitle_2
+WC_LA_combotitle_3
+WC_LA_combotitle_4
+WC_LA_combotitle_5
+WC_LA_combotitle_6
+WC_LA_combotitle_7
+WC_LA_combotitle_8
+WC_LA_combotitle_9
+WC_LA_combotitle_10
+WC_LA_combotitle_11
+WC_GLA_combotitle_1
+WC_GLA_combotitle_2
+WC_GLA_combotitle_3
+WC_GLA_combotitle_4
+WC_GLA_combotitle_5
+WC_GLA_combotitle_6
+WC_GLA_combotitle_7
+WC_GLA_combotitle_8
+WC_GLA_combotitle_9
+WC_BOW_combotitle_1
+WC_BOW_combotitle_2
+WC_BOW_combotitle_3
+WC_BOW_combotitle_4
+WC_BOW_combotitle_5
+WC_BOW_combotitle_6
+WC_BOW_combotitle_7
+WC_BOW_combotitle_8
+WC_BOW_combotitle_9
+WC_SAX_combotitle_1
+WC_SAX_combotitle_2
+WC_SAX_combotitle_3
+WC_SAX_combotitle_5
+WC_SAX_combotitle_6
+WC_SAX_combotitle_7
+WC_SAX_combotitle_8
+WC_SAX_combotitle_9
+WC_SAX_combotitle_10
+WC_SAX_combotitle_11
+WC_SAX_combotitle_12
+WC_SAX_combotitle_13
+WC_SAX_combotitle_14
+WC_SAX_combotitle_15
+WC_SAX_combotitle_16
+WC_SAX_combotitle_17
+WC_SAX_combotitle_18
+WC_SAX_combotitle_19
+WC_SAX_combotitle_20
+WC_DB_combotitle_1
+WC_DB_combotitle_2
+WC_DB_combotitle_3
+WC_DB_combotitle_4
+WC_DB_combotitle_5
+WC_DB_combotitle_6
+WC_DB_combotitle_7
+WC_DB_combotitle_8
+WC_DB_combotitle_9
+WC_DB_combotitle_10
+WC_DB_combotitle_11
+WC_IG_combotitle_1
+WC_IG_combotitle_2
+WC_IG_combotitle_3
+WC_IG_combotitle_4
+WC_IG_combotitle_5
+WC_IG_combotitle_6
+WC_IG_combotitle_7
+WC_IG_combotitle_9
+WC_SS_combotitle_1
+WC_SS_combotitle_2
+WC_SS_combotitle_3
+WC_SS_combotitle_4
+WC_SS_combotitle_5
+WC_SS_combotitle_6
+WC_GS_combotitle_1
+WC_GS_combotitle_2
+WC_GS_combotitle_3
+WC_GS_combotitle_4
+WC_GS_combotitle_5
+WC_GS_combotitle_6
+WC_GS_combotitle_7
+WC_GS_combotitle_8
+WC_GS_combotitle_9
+WC_GS_combotitle_10
+WC_GS_combotitle_11
+WC_GS_combotitle_12
+WC_GS_combotitle_13
+WC_GS_combotitle_14
+WC_GS_combotitle_15
+WC_GS_combotitle_16
+WC_TAC_combotitle_2
+WC_TAC_combotitle_3
+WC_TAC_combotitle_4
+WC_TAC_combotitle_5
+WC_TAC_combotitle_6
+WC_TAC_combotitle_7
+WC_TAC_combotitle_8
+WC_TAC_combotitle_9
+WC_TAC_combotitle_10
+WC_style_skilltitle_1
+WC_style_skilltitle_2
+WC_style_skilltitle_3
+WC_style_skilltitle_4
+WC_style_skilltitle_5
+WC_LB_skilltitle_1
+WC_LB_skilltitle_2
+WC_LB_skilltitle_4
+WC_LB_skilltitle_5
+WC_LB_skilltitle_6
+WC_LB_skilltitle_7
+WC_LB_skilltitle_8
+WC_LB_skilltitle_9
+WC_LB_skilltitle_10
+WC_HB_skilltitle_1
+WC_HB_skilltitle_2
+WC_HB_skilltitle_3
+WC_HB_skilltitle_4
+WC_AXE_skilltitle_1
+WC_CAX_skilltitle_1
+WC_CAX_skilltitle_2
+WC_CAX_skilltitle_3
+WC_CAX_skilltitle_4
+WC_CAX_skilltitle_5
+WC_CAX_skilltitle_6
+WC_CAX_skilltitle_7
+WC_CAX_skilltitle_8
+WC_CAX_skilltitle_9
+WC_CAX_skilltitle_10
+WC_CAX_skilltitle_11
+WC_CAX_skilltitle_12
+WC_CAX_skilltitle_13
+WC_CAX_skilltitle_14
+WC_CAX_skilltitle_15
+WC_CAX_skilltitle_16
+WC_HAM_skilltitle_3
+WC_HAM_skilltitle_4
+WC_HAM_skilltitle_5
+WC_HAM_skilltitle_6
+WC_HAM_skilltitle_7
+WC_HAM_skilltitle_8
+WC_HAM_skilltitle_9
+WC_HAM_skilltitle_10
+WC_HAM_skilltitle_11
+WC_HAM_skilltitle_12
+WC_HAM_skilltitle_13
+WC_HAM_skilltitle_14
+WC_HAM_skilltitle_15
+WC_HAM_skilltitle_16
+WC_HORN_skilltitle_1
+WC_HORN_skilltitle_2
+WC_HORN_skilltitle_3
+WC_HORN_skilltitle_4
+WC_HORN_skilltitle_5
+WC_HORN_skilltitle_6
+WC_HORN_skilltitle_7
+WC_HORN_skilltitle_8
+WC_HORN_skilltitle_9
+WC_HORN_skilltitle_10
+WC_HORN_skilltitle_11
+WC_HORN_skilltitle_12
+WC_HORN_skilltitle_13
+WC_HORN_skilltitle_14
+WC_LA_skilltitle_1
+WC_LA_skilltitle_2
+WC_LA_skilltitle_3
+WC_LA_skilltitle_4
+WC_LA_skilltitle_5
+WC_LA_skilltitle_6
+WC_LA_skilltitle_7
+WC_LA_skilltitle_8
+WC_LA_skilltitle_9
+WC_LA_skilltitle_10
+WC_LA_skilltitle_11
+WC_LA_skilltitle_12
+WC_LA_skilltitle_13
+WC_LA_skilltitle_14
+WC_LA_skilltitle_16
+WC_LA_skilltitle_17
+WC_LA_skilltitle_18
+WC_GLA_skilltitle_1
+WC_GLA_skilltitle_2
+WC_GLA_skilltitle_3
+WC_GLA_skilltitle_4
+WC_GLA_skilltitle_5
+WC_GLA_skilltitle_6
+WC_GLA_skilltitle_7
+WC_GLA_skilltitle_8
+WC_GLA_skilltitle_9
+WC_GLA_skilltitle_10
+WC_GLA_skilltitle_11
+WC_GLA_skilltitle_12
+WC_GLA_skilltitle_13
+WC_GLA_skilltitle_14
+WC_GLA_skilltitle_15
+WC_GLA_skilltitle_16
+WC_BOW_skilltitle_1
+WC_BOW_skilltitle_2
+WC_BOW_skilltitle_3
+WC_BOW_skilltitle_4
+WC_BOW_skilltitle_5
+WC_BOW_skilltitle_6
+WC_BOW_skilltitle_7
+WC_BOW_skilltitle_8
+WC_BOW_skilltitle_9
+WC_BOW_skilltitle_10
+WC_SAX_skilltitle_4
+WC_SAX_skilltitle_5
+WC_SAX_skilltitle_6
+WC_SAX_skilltitle_7
+WC_SAX_skilltitle_8
+WC_SAX_skilltitle_10
+WC_SAX_skilltitle_11
+WC_SAX_skilltitle_15
+WC_SAX_skilltitle_16
+WC_SAX_skilltitle_17
+WC_SAX_skilltitle_18
+WC_DB_skilltitle_1
+WC_DB_skilltitle_2
+WC_DB_skilltitle_3
+WC_DB_skilltitle_4
+WC_DB_skilltitle_5
+WC_DB_skilltitle_6
+WC_DB_skilltitle_7
+WC_DB_skilltitle_8
+WC_DB_skilltitle_9
+WC_DB_skilltitle_10
+WC_DB_skilltitle_11
+WC_DB_skilltitle_12
+WC_DB_skilltitle_13
+WC_DB_skilltitle_14
+WC_DB_skilltitle_15
+WC_DB_skilltitle_16
+WC_DB_skilltitle_17
+WC_DB_skilltitle_18
+WC_DB_skilltitle_19
+WC_DB_skilltitle_20
+WC_DB_skilltitle_21
+WC_IG_skilletitle_2
+WC_IG_skilletitle_3
+WC_IG_skilletitle_4
+WC_IG_skilletitle_5
+WC_IG_skilletitle_6
+WC_IG_skilletitle_7
+WC_IG_skilletitle_8
+WC_IG_skilletitle_9
+WC_IG_skilletitle_10
+WC_IG_skilletitle_12
+WC_SS_skilltitle_2
+WC_SS_skilltitle_3
+WC_SS_skilltitle_4
+WC_SS_skilltitle_5
+WC_SS_skilltitle_6
+WC_SS_skilltitle_7
+WC_SS_skilltitle_8
+WC_SS_skilltitle_9
+WC_SS_skilltitle_10
+WC_SS_skilltitle_12
+WC_GS_skilltitle_2
+WC_GS_skilltitle_3
+WC_GS_skilltitle_4
+WC_GS_skilltitle_5
+WC_GS_skilltitle_6
+WC_GS_skilltitle_7
+WC_GS_skilltitle_8
+WC_GS_skilltitle_9
+WC_GS_skilltitle_10
+WC_GS_skilltitle_11
+WC_GS_skilltitle_12
+WC_GS_skilltitle_13
+WC_GS_skilltitle_14
+WC_TAC_skilltitle_2
+WC_TAC_skilltitle_3
+WC_TAC_skilltitle_4
+WC_TAC_skilltitle_5
+WC_TAC_skilltitle_6
+WC_TAC_skilltitle_7
+WC_TAC_skilltitle_8
+WC_TAC_skilltitle_9
+WC_TAC_skilltitle_10
+WC_TAC_skilltitle_11
+WC_TAC_skilltitle_12
+WC_TAC_skilltitle_13
+WC_TAC_skilltitle_14
+WC_TAC_skilltitle_15
+WC_naizoudan_skillnote_1
+WC_naizoudan_skillnote_2
+WC_naizoudan_skillnote_3
+WC_naizoudan_skillnote_4
+WC_Nyan_Command_lya
+WC_Nyan_Command_avoidance_pad
+WC_Nyan_commandnote_1
+WC_Nyan_commandnote_2
+WC_Nyan_commandnote_3
+WC_Nyan_commandnote_4
+WC_Nyan_commandnote_5
+WC_Nyan_commandnote_6
+WC_Nyan_commandnote_7
+WC_Nyan_commandnote_8
+WC_Nyan_commandnote_9
+WC_Nyan_commandnote_10
+WC_Nyan_commandnote_11
+WC_Nyan_commandnote_12
+WC_Nyan_TAC_skillnote_1
+WC_Nyan_TAC_skillnote_2
+WC_Nyan_TAC_skillnote_3
+WC_Nyan_TAC_skillnote_4
+WC_Nyan_LB_combotitle_1
+WC_Nyan_LB_combotitle_2
+WC_Nyan_LB_combotitle_3
+WC_Nyan_LB_combotitle_4
+WC_Nyan_LB_combotitle_5
+WC_Nyan_LB_combotitle_6
+WC_Nyan_skilltitle_1
+WC_Nyan_skilltitle_2
+WC_Nyan_skilltitle_3
+WC_Nyan_skilltitle_4
+WC_Nyan_skilltitle_5
+WC_Nyan_skilltitle_6
+WC_Nyan_skilltitle_7
+WC_Nyan_skilltitle_8
+WC_Nyan_skilltitle_9
+WC_Nyan_skilltitle_10
+WC_Nyan_skilltitle_11
+WC_Nyan_skilltitle_12
+WC_Nyan_skilltitle_14
+WC_Nyan_skilltitle_15
+WC_Nyan_skilltitle_16
+WC_Nyan_skilltitle_17
+WC_Nyan_skilltitle_18
+WC_Nyan_skilltitle_19
+WC_Nyan_skilltitle_20
+WC_HORN_skillnote_11_HD
+==========identifier end==========
+
+==========string start==========
+<SIZE 28><COL E6E6E6FF><ICON PAD_Y></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON PAD_X></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON PAD_B></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON PAD_A></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON PAD_L></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON PAD_R></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON KEY></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON ANALOG></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON KEY_U></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON KEY_R></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON KEY_D></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON KEY_L></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON KEY_UD></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON KEY_RL></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON PAD_START></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON PAD_SELECT></COL></SIZE>
+空中<SIZE 28><COL E6E6E6FF><ICON PAD_R></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON PAD_X></COL></SIZE>+<SIZE 28><COL E6E6E6FF><ICON PAD_A></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON ANALOG></COL></SIZE>+<SIZE 28><COL E6E6E6FF><ICON PAD_B></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON PAD_R></COL></SIZE>+<SIZE 28><COL E6E6E6FF><ICON PAD_X></COL></SIZE>+<SIZE 28><COL E6E6E6FF><ICON PAD_A></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON PAD_L></COL></SIZE>+<SIZE 28><COL E6E6E6FF><ICON PAD_X></COL></SIZE>/<SIZE 28><COL E6E6E6FF><ICON PAD_B></COL></SIZE>
+空中<SIZE 28><COL E6E6E6FF><ICON PAD_X></COL></SIZE>+<SIZE 28><COL E6E6E6FF><ICON PAD_A></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON PAD_R></COL></SIZE>+<SIZE 28><COL E6E6E6FF><ICON PAD_X></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON PAD_R></COL></SIZE>+<SIZE 28><COL E6E6E6FF><ICON PAD_A></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON PAD_R></COL></SIZE>+<SIZE 28><COL E6E6E6FF><ICON PAD_B></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON PAD_R></COL></SIZE>+<SIZE 28><COL E6E6E6FF><ICON PAD_Y></COL></SIZE>
+蓄力中<SIZE 28><COL E6E6E6FF><ICON PAD_R></COL></SIZE>射击
+移动中<SIZE 28><COL E6E6E6FF><ICON PAD_R></COL></SIZE>射击
+<SIZE 28><COL E6E6E6FF><ICON ANALOG></COL></SIZE>+<SIZE 28><COL E6E6E6FF><ICON PAD_X></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON ANALOG></COL></SIZE>+<SIZE 28><COL E6E6E6FF><ICON PAD_X></COL></SIZE>蓄力
+<SIZE 28><COL E6E6E6FF><ICON ANALOG></COL></SIZE>+<SIZE 28><COL E6E6E6FF><ICON PAD_A></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON ANALOG></COL></SIZE>↓+<SIZE 28><COL E6E6E6FF><ICON PAD_A></COL></SIZE>蓄力
+<SIZE 28><COL E6E6E6FF><ICON ANALOG></COL></SIZE>+<SIZE 28><COL E6E6E6FF><ICON PAD_X></COL></SIZE>+<SIZE 28><COL E6E6E6FF><ICON PAD_A></COL></SIZE>
+长按<SIZE 28><COL E6E6E6FF><ICON PAD_R></COL></SIZE>+<SIZE 28><COL E6E6E6FF><ICON PAD_A></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON PAD_R></COL></SIZE>+<SIZE 28><COL E6E6E6FF><ICON ANALOG></COL></SIZE>+<SIZE 28><COL E6E6E6FF><ICON PAD_X></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON PAD_A></COL></SIZE>蓄力
+<SIZE 28><COL E6E6E6FF><ICON PAD_R></COL></SIZE>蓄力
+<SIZE 28><COL E6E6E6FF><ICON PAD_R></COL></SIZE>蓄力中<SIZE 28><COL E6E6E6FF><ICON PAD_A></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON PAD_R></COL></SIZE>射击
+<SIZE 28><COL E6E6E6FF><ICON PAD_X></COL></SIZE>蓄力
+<SIZE 28><COL E6E6E6FF><ICON PAD_X></COL></SIZE>蓄力中<SIZE 28><COL E6E6E6FF><ICON PAD_A></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON PAD_X></COL></SIZE>射击
+长按<SIZE 28><COL E6E6E6FF><ICON PAD_R></COL></SIZE>
+连击<SIZE 28><COL E6E6E6FF><ICON PAD_X></COL></SIZE>
+特殊攻击
+空中<SIZE 28><COL E6E6E6FF><ICON PAD_X></COL></SIZE>
+攻击后<SIZE 28><COL E6E6E6FF><ICON ANALOG></COL></SIZE>+<SIZE 28><COL E6E6E6FF><ICON PAD_B></COL></SIZE>
+长按<SIZE 28><COL E6E6E6FF><ICON PAD_X></COL></SIZE>
+收刀时<SIZE 28><COL E6E6E6FF><ICON ANALOG></COL></SIZE>+<SIZE 28><COL E6E6E6FF><ICON PAD_X></COL></SIZE>
+输入追加音色
+空中<SIZE 28><COL E6E6E6FF><ICON PAD_A></COL></SIZE>
+命中后发动
+<SIZE 28><COL E6E6E6FF><ICON ANALOG></COL></SIZE>↓+<SIZE 28><COL E6E6E6FF><ICON PAD_X></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON ANALOG></COL></SIZE>+<SIZE 28><COL E6E6E6FF><ICON PAD_R></COL></SIZE>+<SIZE 28><COL E6E6E6FF><ICON PAD_A></COL></SIZE>
+空中长按<SIZE 28><COL E6E6E6FF><ICON PAD_X></COL></SIZE>
+长按<SIZE 28><COL E6E6E6FF><ICON PAD_A></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON ANALOG></COL></SIZE>↓+<SIZE 28><COL E6E6E6FF><ICON PAD_A></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON PAD_R></COL></SIZE>+<SIZE 28><COL E6E6E6FF><ICON ANALOG></COL></SIZE>+<SIZE 28><COL E6E6E6FF><ICON PAD_A></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON PAD_X></COL></SIZE>/<SIZE 28><COL E6E6E6FF><ICON PAD_A></COL></SIZE>
+长按<SIZE 28><COL E6E6E6FF><ICON PAD_B></COL></SIZE>
+长按<SIZE 28><COL E6E6E6FF><ICON PAD_Y></COL></SIZE>
+当身技成功时
+<SIZE 28><COL E6E6E6FF><ICON PAD_Y></COL></SIZE>/<SIZE 28><COL E6E6E6FF><ICON PAD_B></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON PAD_A></COL></SIZE>/<SIZE 28><COL E6E6E6FF><ICON PAD_B></COL></SIZE>
+连击<SIZE 28><COL E6E6E6FF><ICON PAD_A></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON ANALOG></COL></SIZE>+<SIZE 28><COL E6E6E6FF><ICON PAD_R></COL></SIZE>
+回斩
+横斩
+突进斩
+直斩
+捞斩
+前滚闪避
+空中闪避
+收刀
+特殊拔刀
+格挡
+横扫斩
+前滚闪避
+装填
+选择弹药
+收刀状态装填
+发射
+瞄准镜：短按　简易瞄准：长按
+后跳
+突刺
+斧：捞斩
+盾攻击
+飞踏斩
+收刀（可长按）/闪避
+前滚闪避（垫步：英勇状态）
+劈斩
+水平斩
+使用道具（附加刃药）
+格挡斩
+气刃斩
+跳跃气刃斩
+左移斩
+踏步斩
+纵斩
+移动斩
+特殊拔刀（仅限空中时）
+纵斩：仅限英勇状态
+移动斩：仅限英勇状态
+跳跃蓄力斩
+强蓄力斩：仅限英勇状态
+连续捞斩
+操虫【采集精华】
+操虫【引虫】
+跳跃
+前方跳跃
+印弹
+跳跃：仅限英勇状态
+二连斩（车轮斩：鬼人化）
+右二连斩（右二回旋斩：鬼人化）
+挥斩（乱舞：鬼人化）
+鬼人化/解除鬼人化
+前滚闪避（鬼人闪避：鬼人化）
+空中闪避（鬼人空中闪避：鬼人化）
+挥斩（鬼人突进连斩：鬼人化）
+鬼人冲刺
+前滚闪避（鬼人闪避：鬼人强化）
+挥斩（鬼人突进连斩：鬼人强化）
+拉紧弓弦（松开后发射）
+近身攻击
+近身攻击（空中：跳跃向下发射）
+选择瓶
+装备瓶（空中：近身攻击）
+瞄准目标
+跳跃发射
+装备瓶
+瞄准目标（空中：近身攻击）
+斧：直斩
+斧：横斩
+斧：突进斩
+变形（装填：槽为紫色时）
+剑：直斩
+剑：横斩
+剑：属性解放突刺
+变形
+剑：跳跃属性解放突刺
+空中垫步
+前方突刺
+炮击
+捞斩
+上方突刺
+蓄力炮击
+炮击（英勇炮击：英勇状态）
+迅速装填
+英勇龙击炮：仅限英勇状态
+中段突刺
+上段突刺
+反击突刺
+格挡前进
+突进
+挥盾攻击：仅限英勇状态
+左挥：音色1
+前方攻击：音色1
+把柄攻击：音色2
+右挥：音色2
+后方攻击：音色3
+敲打：音色3
+连音攻击
+演奏
+右挥：音色1
+直挥
+横挥
+蓄力（空中亦可）
+出招蓄力
+蓄力
+跳跃敲打
+跳跃连续敲打
+侧滚闪避
+侧滚闪避（垫步：英勇状态）
+剑：牵制斩
+剑：蓄力
+剑：突进斩
+剑：填充
+剑：格挡
+剑：捞斩
+剑：精准格挡
+剑：格挡蓄力
+斧：变形斩
+剑：变形斩
+斧：属性解放斩
+斧：突进属性解放斩
+斧：高输出属性解放斩
+剑：蓄力二连斩
+剑：变形斩（仅限英勇状态）
+斧：变形斩（仅限英勇状态）
+装填（空中亦可）
+蹲下射击
+蹲下射击（空中：向下发射）
+前滚闪避（解除蹲下射击）
+空中闪避（解除蹲下射击）
+发射（空中：跳跃发射）
+收刀填装子弹（空中：向下发射）
+蹲下射击：仅限英勇状态
+强力冲刺：仅限英勇状态
+跳跃向下发射
+<COL 008000FF>【收刀】</COL><BR/>･<COL FF0000FF>长按Y键，能持续收刀动作</COL><BR/>　收刀持续中，以消耗体力和耐力为代价<BR/>　可<COL FF0000FF>抵挡来自怪物的攻击</COL><BR/>･<COL FF0000FF>收刀持续中通过按下各攻击键</COL>来<BR/>　使出<COL FF0000FF>容易累积英勇槽的动作</COL><BR/><COL 008000FF>【英勇状态】</COL><BR/>･累积完英勇槽后，会变成<COL FF0000FF>英勇状态</COL><BR/>　在英勇状态中一定期间内，能使出专属技能
+<COL 008000FF>【收刀】</COL><BR/>･<COL FF0000FF>长按Y键，能持续收刀动作</COL><BR/>　收刀持续中，以消耗体力和耐力为代价<BR/>　可<COL FF0000FF>抵挡来自怪物的攻击</COL><BR/>･<COL FF0000FF>收刀持续中通过按下装填键</COL>来<BR/>　使出<COL FF0000FF>英勇装填</COL><BR/><COL 008000FF>【英勇状态】</COL><BR/>･累积完英勇槽后，会变成<COL FF0000FF>英勇状态</COL><BR/>　在英勇状态中一定期间内，能使出专属技能
+<COL 008000FF>【收刀】</COL><BR/>･<COL FF0000FF>长按Y键，能持续收刀动作</COL><BR/>　收刀持续中，以消耗体力和耐力为代价<BR/>　可<COL FF0000FF>抵挡来自怪物的攻击</COL><BR/>･<COL FF0000FF>收刀持续中通过按下发射键</COL>来<BR/>　使出<COL FF0000FF>容易累积英勇槽的动作</COL><BR/><COL 008000FF>【英勇状态】</COL><BR/>･累积完英勇槽后，会变成<COL FF0000FF>英勇状态</COL><BR/>　在英勇状态中一定期间内，能使出专属技能
+<COL 008000FF>【练气槽】</COL><BR/>･命中怪物即可<COL FF0000FF>提升练气槽</COL><BR/>･达到MAX后锋利度会暂时变得<COL FF0000FF>锋利</COL><BR/>･消耗练气槽来使出强力的<COL FF0000FF>气刃斩</COL><BR/><COL 008000FF>【练气】</COL><BR/>･<COL FF0000FF>气刃大回旋斩</COL>命中后练气槽颜色会产生变化<BR/>　并根据不同阶段的颜色来<COL FF0000FF>提升攻击力</COL><BR/>･练气槽在白色以上时，<BR/>　能在空中使出<COL FF0000FF>跳跃气刃二连斩</COL>
+<COL 008000FF>【练气槽】</COL><BR/>･命中怪物即可<COL FF0000FF>提升练气槽</COL><BR/>･达到MAX后锋利度会暂时变得<COL FF0000FF>锋利</COL><BR/>･消耗练气槽来使出强力的<COL FF0000FF>气刃斩</COL><BR/>･在空中使出气刃斩会变成<COL FF0000FF>跳跃气刃斩</COL><BR/><COL 008000FF>【练气】</COL><BR/>･<COL FF0000FF>气刃大回旋斩</COL>命中后练气槽颜色会产生变化<BR/>　并根据不同阶段的颜色来<COL FF0000FF>提升攻击力</COL>
+<COL 008000FF>【练气槽】</COL><BR/>･命中怪物即可<COL FF0000FF>提升练气槽</COL><BR/>･达到MAX后锋利度会暂时变得<COL FF0000FF>锋利</COL><BR/>･消耗练气槽来使出强力的<COL FF0000FF>气刃斩</COL><BR/>･踩踏跳跃后使出的<COL FF0000FF>连段跳跃气刃斩</COL>威力非常强<BR/><COL 008000FF>【练气】</COL><BR/>･<COL FF0000FF>气刃大回旋斩</COL>命中后练气槽颜色会产生变化<BR/>　并根据不同阶段的颜色来<COL FF0000FF>提升攻击力</COL><BR/>･练气槽在白色以上时，能使出<COL FF0000FF>跳跃气刃三连斩</COL>
+<COL 008000FF>【练气槽】</COL><BR/>･命中怪物即可<COL FF0000FF>提升练气槽</COL><BR/>･达到MAX后锋利度会暂时变得<COL FF0000FF>锋利</COL><BR/>･消耗练气槽来使出强力的<COL FF0000FF>气刃斩</COL><BR/>･精准闪避成功时能瞄准使出<COL FF0000FF>气刃无双斩</COL><BR/><COL 008000FF>【练气】</COL><BR/>･<COL FF0000FF>气刃无双斩</COL>命中后练气槽颜色会产生变化<BR/>　并根据不同阶段的颜色来<COL FF0000FF>提升攻击力</COL>
+<COL 008000FF>【练气槽】</COL><BR/>･命中怪物即可<COL FF0000FF>提升练气槽</COL><BR/>･达到MAX后锋利度会暂时变得<COL FF0000FF>锋利</COL><BR/>･消耗练气槽来使出强力的<COL FF0000FF>气刃斩</COL><BR/><COL 008000FF>【练气】</COL><BR/>･<COL FF0000FF>气刃大回旋斩</COL>命中后练气槽颜色会产生变化<BR/>　并根据不同阶段的颜色来<COL FF0000FF>提升攻击力</COL><BR/>･练气槽在白色以上时，<BR/>　能在空中使出<COL FF0000FF>跳跃气刃二连斩</COL>
+<COL 008000FF>【容易累积炼金槽的动作】</COL><BR/>･<COL FF0000FF>气刃斩Ⅱ</COL>、<COL FF0000FF>气刃斩Ⅲ</COL>和<COL FF0000FF>气刃大回旋斩</COL><BR/>　容易累积炼金槽
+<COL 008000FF>【练气槽】</COL><BR/>･命中怪物即可<COL FF0000FF>提升练气槽</COL><BR/>･达到MAX后锋利度会暂时变得<COL FF0000FF>锋利</COL><BR/>･消耗练气槽来使出强力的<COL FF0000FF>气刃斩</COL><BR/><COL 008000FF>【练气】</COL><BR/>･狩技“樱花气刃斩”命中后练气槽颜色<BR/>　会<COL FF0000FF>变成白色</COL>，<COL FF0000FF>并提升攻击力</COL><BR/>･英勇状态中，通常练气槽的颜色<BR/>　<COL FF0000FF>固定为蓝色</COL>，<COL FF0000FF>攻击力比白色还要高</COL>
+<COL 008000FF>【刚･气刃斩：英勇状态（需要练气槽）】</COL><BR/>･英勇状态中，刚开始使出气刃斩Ⅰ时<BR/>　受到前方攻击，即可使出<COL FF0000FF>刚･气刃斩Ⅰ</COL><BR/>･英勇状态中<COL FF0000FF>气刃斩Ⅱ</COL>或是<COL FF0000FF>刚･气刃斩Ⅰ</COL><BR/>　到<COL FF0000FF>刚･气刃斩Ⅱ</COL>都能进一步和<COL FF0000FF>刚･气刃斩Ⅲ</COL>连段<BR/>･刚･气刃斩Ⅱ在输入L摇杆后<BR/>　能一边使出斩击<COL FF0000FF>一边往前方冲刺</COL>
+<COL 008000FF>【蓄力斩】</COL><BR/>･<COL FF0000FF>长按</COL>直斩可蓄更多力<BR/>･根据蓄力时间长短提升威力，<COL FF0000FF>看准时机</COL><BR/>　放开按键，来使出高威力的蓄力斩<BR/><COL 008000FF>【强蓄力斩】</COL><BR/>･连段使出<COL FF0000FF>强力的蓄力斩</COL><BR/>･强蓄力斩后，输入追加攻击来使出<COL FF0000FF>强横扫斩</COL>
+<COL 008000FF>【蓄力斩】</COL><BR/>･<COL FF0000FF>长按</COL>直斩可蓄更多力<BR/>･根据蓄力时间长短<COL FF0000FF>提升蓄力斩的威力</COL><BR/>･强袭不会因为过度蓄力而<COL FF0000FF>降低威力</COL>
+<COL 008000FF>【跳跃蓄力斩】</COL><BR/>･能<COL FF0000FF>在空中</COL>蓄直斩的力<BR/>･根据蓄力时间长短提升威力，<BR/>　能使出高威力的<COL FF0000FF>跳跃蓄力斩</COL><BR/>･跳跃蓄力斩，不会因为过度蓄力而<COL FF0000FF>降低威力</COL><BR/><COL 008000FF>【强横扫斩】</COL><BR/>･跳跃蓄力斩后，使出<COL FF0000FF>强横扫斩</COL><BR/>･跳跃蓄力斩不会受蓄力阶段影响，<BR/>　<COL FF0000FF>是固定威力</COL>
+<COL 008000FF>【蓄力斩】</COL><BR/>･<COL FF0000FF>长按</COL>直斩可蓄更多力<BR/>･根据蓄力时间长短提升威力，<COL FF0000FF>看准时机</COL><BR/>　放开按键，来使出高威力的蓄力斩<BR/><COL 008000FF>【冲刺捞斩】</COL><BR/>･精准闪避后，能使出<COL FF0000FF>冲刺捞斩</COL><BR/>　<COL FF0000FF>长按</COL>冲刺捞斩，可蓄更多力<BR/><COL 008000FF>【高速强蓄力斩】</COL><BR/>･使出冲刺捞斩后<COL FF0000FF>能使出</COL>高速强蓄力斩
+<COL 008000FF>【蓄力斩】</COL><BR/>･<COL FF0000FF>长按</COL>直斩可蓄更多力<BR/>･根据蓄力时间长短提升威力，<COL FF0000FF>看准时机</COL><BR/>　放开按键，来使出威力高的蓄力斩<BR/><COL 008000FF>【强横扫斩】</COL><BR/>･横扫斩后，使出<COL FF0000FF>强横扫斩</COL><BR/><COL 008000FF>【容易累积炼金槽的行动】</COL><BR/>･<COL FF0000FF>蓄力斩</COL>、<COL FF0000FF>强横扫斩</COL>容易累积炼金槽
+<COL 008000FF>【强横扫斩：英勇状态】</COL><BR/>･强蓄力斩后，使出<COL FF0000FF>强横扫斩</COL><BR/>　强蓄力斩根据蓄力阶段<COL FF0000FF>而改变威力</COL><BR/><COL 008000FF>【强蓄力移动斩：英勇状态】</COL><BR/>･长按强蓄力斩中，<BR/>　按下A键使出<COL FF0000FF>强蓄力移动斩</COL><BR/><COL 008000FF>【高速强蓄力斩（拔刀攻击）：英勇状态】</COL><BR/>･英勇状态中，能在收刀状态下<BR/>　使出<COL FF0000FF>高速强蓄力斩</COL>
+<COL 008000FF>【附加刃药】</COL><BR/>･使用道具<COL FF0000FF>附加刃药</COL><BR/>　使武器的性能暂时<COL FF0000FF>提升</COL><BR/><COL 008000FF>【利用高低差攻击】</COL><BR/>･对着高低差使出突进斩，<BR/>　能使出<COL FF0000FF>特殊跳跃攻击</COL><BR/><COL 008000FF>【突进斩后使用道具】</COL><BR/>･使出突近斩后暂时不会胆怯，能接着<COL FF0000FF>使用道具</COL>
+<COL 008000FF>【附加刃药】</COL><BR/>･使用道具<COL FF0000FF>附加刃药</COL><BR/>　使武器的性能暂时<COL FF0000FF>提升</COL><BR/><COL 008000FF>【利用高低差攻击】</COL><BR/>･对着高低差使出突进斩，<BR/>　能使出<COL FF0000FF>特殊跳跃攻击</COL><BR/><COL 008000FF>【踩踏跳跃后的攻击】</COL><BR/>･拔刀状态中成功使出踩踏跳跃<BR/>　能在踩踏怪物的同时发动<COL FF0000FF>斩击</COL>
+<COL 008000FF>【附加刃药】</COL><BR/>･使用道具<COL FF0000FF>附加刃药</COL><BR/>　使武器的性能暂时<COL FF0000FF>提升</COL><BR/><COL 008000FF>【利用高低差攻击】</COL><BR/>･对着高低差使出突进斩，<BR/>　能使出<COL FF0000FF>特殊跳跃攻击</COL><BR/><COL 008000FF>【精准闪避后的攻击】</COL><BR/>･使出后跳也能<COL FF0000FF>精准闪避</COL><BR/>･精准闪避后使出<COL FF0000FF>特殊跳跃攻击</COL>
+<COL 008000FF>【使用道具】</COL><BR/>･拔刀中，除了道具<COL FF0000FF>奇异炼金桶</COL>可以使用之外<BR/>　使用<COL FF0000FF>附加刃药</COL>可使武器的性能暂时<COL FF0000FF>提升</COL><BR/>･使出突近斩后暂时不会胆怯，能接着<COL FF0000FF>使用道具</COL><BR/><COL 008000FF>【利用高低差攻击】</COL><BR/>･对着高低差使出突进斩，<BR/>　能使出<COL FF0000FF>特殊跳跃攻击</COL><BR/><COL 008000FF>【容易累积炼金槽的行动】</COL><BR/>･<COL FF0000FF>回旋斩</COL>容易累积炼金槽
+<COL 008000FF>【附加刃药】</COL><BR/>･使用道具<COL FF0000FF>附加刃药</COL><BR/>　使武器的性能暂时<COL FF0000FF>提升</COL><BR/><COL 008000FF>【利用高低差攻击】</COL><BR/>･对着高低差使出突进斩，<BR/>　能使出<COL FF0000FF>特殊跳跃攻击</COL><BR/><COL 008000FF>【突进斩后使用道具】</COL><BR/>･使出突近斩后暂时不会胆怯，能接着<COL FF0000FF>使用道具</COL>
+<COL 008000FF>【后跳连击：英勇状态】</COL><BR/>･特定攻击后按下X+A键，能使出利用后跳<BR/>　来同时进行闪避和攻击的<COL FF0000FF>后跳连击</COL><BR/>･后跳后，输入按键使出<COL FF0000FF>捞斩</COL><BR/>　或是接着<COL FF0000FF>闪避</COL>，如果没有输入按键<BR/>　会接着使出突进攻击<BR/>･在后跳前后，输入L摇杆<BR/>　能够<COL FF0000FF>往任意方向旋转</COL><BR/>･突进攻击后能接着<COL FF0000FF>跳跃连击</COL>、<COL FF0000FF>真回旋斩</COL>
+<COL 008000FF>【附加刃药】</COL><BR/>･使用道具<COL FF0000FF>附加刃药</COL>使<BR/>　武器的性能暂时<COL FF0000FF>提升</COL><BR/><COL 008000FF>【利用高低差攻击】</COL><BR/>･对着高低差使出突进斩，<BR/>　能使出<COL FF0000FF>特殊跳跃攻击</COL><BR/><COL 008000FF>【拔刀状态下使用道具】</COL><BR/>･在强袭风格中，<COL FF0000FF>拔刀状态下</COL><BR/>　使用道具后，暂时不会胆怯，能<COL FF0000FF>使用道具</COL>
+<COL 008000FF>【操虫】</COL><BR/>･对着怪物使出猎虫采集<COL FF0000FF>强化精华</COL><BR/>･强化精华分为红、白、橘、绿<COL FF0000FF>4种</COL>，<BR/>　采集的颜色根据各怪物的部位而<COL FF0000FF>不同</COL><BR/>･能使出<COL FF0000FF>引虫来回收</COL>采集的强化精华<BR/>･回收精华时，红：改变攻击性能、白：提升<BR/>　移动速度、橘：攻击时硬直无效、绿：回复<BR/>　等等<COL FF0000FF>能获得和颜色相对的效果</COL>
+<COL 008000FF>【操虫】</COL><BR/>･对着怪物使出猎虫采集<COL FF0000FF>强化精华</COL><BR/>･强化精华分为红、白、橘、绿<COL FF0000FF>4种</COL>，<BR/>　采集的颜色根据各怪物的部位而<COL FF0000FF>不同</COL><BR/>･回收精华时，红：改变攻击性能、白：提升<BR/>　移动速度、橘：攻击时硬直无效、绿：回复<BR/>　等等<COL FF0000FF>能获得和颜色相对的效果</COL><BR/>･精准闪避后的攻击能和采集精华<COL FF0000FF>同时</COL>进行
+<COL 008000FF>【强化精华槽】</COL><BR/>･能在<COL FF0000FF>强化精华槽</COL>确认吸收的精华效果<BR/>･<COL FF0000FF>猎虫所采集的精华</COL>显示在强化精华槽内的虫标记里，<BR/>　<COL FF0000FF>吸收的精华</COL>会显示在左边的3条强化精华槽里<BR/>･吸收复数的颜色来组合，会得到攻击力提升或是<BR/>　防御力提升等等<COL FF0000FF>各种效果</COL>
+<COL 008000FF>【操虫】</COL><BR/>･对着怪物使出猎虫采集<COL FF0000FF>强化精华</COL><BR/>･强化精华分为红、白、橘、绿<COL FF0000FF>4种</COL>，<BR/>　采集的颜色根据各怪物的部位而不同<BR/>･能使出<COL FF0000FF>引虫来回收</COL>采集的强化精华<BR/>･回收精华时，红：改变攻击性能、白：提升<BR/>　移动速度、橘：攻击时硬直无效、绿：回复<BR/>　等等<COL FF0000FF>能获得和颜色相对的效果</COL>
+<COL 008000FF>【强化精华槽】</COL><BR/>･能在<COL FF0000FF>强化精华槽</COL>确认吸收的精华效果<BR/>･<COL FF0000FF>猎虫所采集的精华</COL>显示在强化精华槽内的虫标记里，<BR/>　<COL FF0000FF>吸收的精华</COL>会显示在左边的3条强化精华槽<BR/>･吸收复数的颜色来组合，会得到攻击力提升或是<BR/>　防御力提升等等<COL FF0000FF>各种效果</COL><BR/><COL 008000FF>【容易累积炼金槽的动作】</COL><BR/>･<COL FF0000FF>二连斩</COL>容易累积炼金槽
+<COL 008000FF>【操虫】</COL><BR/>･对着怪物使出猎虫采集<COL FF0000FF>强化精华</COL><BR/>･强化精华分为红、白、橘、绿<COL FF0000FF>4种</COL>，<BR/>　采集的颜色根据各怪物的部位而不同<BR/>･能使出<COL FF0000FF>引虫来回收</COL>采集的强化精华<BR/>･回收精华时，红：改变攻击性能、白：提升<BR/>　移动速度、橘：攻击时硬直无效、绿：回复<BR/>　等等<COL FF0000FF>能获得和颜色相对的效果</COL>
+<COL 008000FF>【强化精华槽】</COL><BR/>･能在<COL FF0000FF>强化精华槽</COL>确认吸收的精华效果<BR/>･<COL FF0000FF>猎虫所采集的精华</COL>显示在强化精华槽内的虫标记里，<BR/>　<COL FF0000FF>吸收的精华</COL>会显示在左边的3条强化精华槽里<BR/>･吸收复数的颜色来组合，会得到攻击力提升或是<BR/>　防御力提升等等<COL FF0000FF>各种效果</COL>
+<COL 008000FF>【猎虫回应攻击：英勇状态】</COL><BR/>･英勇状态中，使出飞踏斩、敲打、<BR/>　跳跃斩、标记、印弹等部分攻击<BR/>　<COL FF0000FF>猎虫会回应进行攻击</COL><BR/><COL 008000FF>【猎虫返回攻击：英勇状态】</COL><BR/>･英勇状态中，使出横扫斩<COL FF0000FF>猎虫会回应返回</COL>
+<COL 008000FF>【操虫：（蓄力）】</COL><BR/>･操虫【采集精华】，以<COL FF0000FF>长按</COL>来蓄力<BR/>･完成蓄力后<COL FF0000FF>放开X键</COL>就能使出<COL FF0000FF>虫回旋攻击</COL>
+<COL 008000FF>【操虫：（蓄力）】</COL><BR/>･操虫【采集精华】，以<COL FF0000FF>长按</COL>来蓄力<BR/>･完成蓄力后<COL FF0000FF>放开A键</COL>就能使出<COL FF0000FF>虫回旋攻击</COL>
+<COL 008000FF>【鬼人化】</COL><BR/>･能获得攻击力提升、<COL FF0000FF>硬直无效</COL>的效果<BR/>･发动中会渐渐<COL FF0000FF>消耗</COL>耐力<BR/>･能使出乱舞和右二回旋斩等<COL FF0000FF>特殊攻击</COL><BR/>･闪避能变成闪避行动速度快的<COL FF0000FF>鬼人闪避</COL><BR/>･实行解除鬼人化、耐力降为0、<BR/>　被打飞、受到咆哮等等会<COL FF0000FF>解除</COL>鬼人化
+<COL 008000FF>【鬼人化】</COL><BR/>･能获得攻击力提升、<COL FF0000FF>硬直无效</COL>的效果<BR/>･发动中会渐渐<COL FF0000FF>消耗</COL>耐力<BR/>･能使出鬼人突进连斩和右二回旋斩等<COL FF0000FF>特殊攻击</COL><BR/>･空中闪避能变成<COL FF0000FF>鬼人空中闪避</COL>，<BR/>　踩踏跳跃成功时能使出<COL FF0000FF>鬼人回天连斩</COL><BR/>･实行解除鬼人化、耐力降为0、<BR/>　被打飞、受到咆哮等等会<COL FF0000FF>解除</COL>鬼人化
+<COL 008000FF>【鬼人化】</COL><BR/>･能获得攻击力提升、<COL FF0000FF>硬直无效</COL>的效果<BR/>･发动中会渐渐<COL FF0000FF>消耗</COL>耐力<BR/>･能使出乱舞和右二回旋斩等<COL FF0000FF>特殊攻击</COL><BR/>･闪避能变成<COL FF0000FF>鬼人闪避</COL>，精准闪避成功后<BR/>　能<COL FF0000FF>一口气拉近距离</COL>，容易追击<BR/>･实行解除鬼人化、耐力降为0、<BR/>　被打飞、受到咆哮等等会<COL FF0000FF>解除</COL>鬼人化
+<COL 008000FF>【鬼人槽】</COL><BR/>･<COL FF0000FF>鬼人化时</COL>攻击命中会增加，随着时间流逝减少，<BR/>　集满后，会成为<COL FF0000FF>鬼人强化状态</COL><BR/><COL 008000FF>【鬼人强化】</COL><BR/>･鬼人强化时，会<COL FF0000FF>提升</COL>攻击速度<BR/>･能使出鬼人连斩和鬼人突进连斩等<COL FF0000FF>特殊攻击</COL><BR/>･使出鬼人连斩等特殊攻击动作，<BR/>　<COL FF0000FF>会消耗鬼人槽</COL>
+<COL 008000FF>【鬼人槽】</COL><BR/>･<COL FF0000FF>鬼人化时</COL>攻击命中会增加，随着时间流逝减少，<BR/>　集满后，会成为<COL FF0000FF>鬼人强化状态</COL><BR/>･<COL FF0000FF>鬼人化时</COL>使出精准闪避，<COL FF0000FF>会增加鬼人槽</COL><BR/><COL 008000FF>【鬼人强化】</COL><BR/>･鬼人强化时，会<COL FF0000FF>提升</COL>攻击速度<BR/>･能使出鬼人连斩和鬼人突进连斩等<COL FF0000FF>特殊攻击</COL><BR/>･使出鬼人连斩等特殊攻击动作，<BR/>　<COL FF0000FF>会消耗鬼人槽</COL>
+<COL 008000FF>【鬼人化】</COL><BR/>･能获得攻击力提升、<COL FF0000FF>硬直无效</COL>的效果<BR/>･发动中会渐渐<COL FF0000FF>消耗</COL>耐力<BR/>･能使出乱舞和右二回旋斩等<COL FF0000FF>特殊攻击</COL><BR/>･闪避能变成闪避行动速度快的<COL FF0000FF>鬼人闪避</COL><BR/>･实行解除鬼人化、耐力降为0、<BR/>　被打飞、受到咆哮等等会<COL FF0000FF>解除</COL>鬼人化
+<COL 008000FF>【鬼人槽】</COL><BR/>･<COL FF0000FF>鬼人化时</COL>攻击命中会增加，随着时间流逝减少，<BR/>　集满后，会成为<COL FF0000FF>鬼人强化状态</COL><BR/><COL 008000FF>【鬼人强化】</COL><BR/>･鬼人强化时，会<COL FF0000FF>提升</COL>攻击速度<BR/>･能使出鬼人连斩等<COL FF0000FF>特殊攻击</COL><BR/>･使出鬼人连斩等特殊攻击动作，<BR/>　<COL FF0000FF>会消耗鬼人槽</COL>
+<COL 008000FF>【容易累积炼金槽的动作】</COL><BR/>･<COL FF0000FF>乱舞</COL>、<COL FF0000FF>鬼人连斩</COL>容易累积炼金槽
+<COL 008000FF>【鬼人强化（英勇）：英勇状态】</COL><BR/>･英勇状态下，经常处于鬼人强化（英勇）<BR/>･鬼人强化（英勇）时，会提升攻击速度，<BR/>　能使出鬼人突进连斩和真鬼人乱舞等<COL FF0000FF>特殊攻击</COL><BR/><COL 008000FF>【真鬼人冲刺：英勇状态】</COL><BR/>･英勇状态下，鬼人冲刺<BR/>　会变成<COL FF0000FF>真鬼人冲刺</COL><BR/>･刚开始使出真鬼人冲刺时受到前方攻击，<BR/>　会使出磨砺挥斩<COL FF0000FF>回复锋利度</COL>
+<COL 008000FF>【变形】</COL><BR/>･斩击槽能在<COL FF0000FF>橘色时</COL>变形为剑<BR/><COL 008000FF>【斩击槽】</COL><BR/>･<COL FF0000FF>剑模式时</COL>进行攻击会消耗斩击槽，<BR/>　内藏在武器里的<COL FF0000FF>瓶的效果会附加攻击</COL><BR/>･斩击槽在<COL FF0000FF>剑以外的状态时</COL>会随着时间流逝累积<BR/>･斩击槽很少会无法变形为剑，<BR/>　使出<COL FF0000FF>装填</COL>来填充斩击槽
+<COL 008000FF>【变形】</COL><BR/>･斩击槽能在<COL FF0000FF>橘色时</COL>变形为剑<BR/><COL 008000FF>【斩击槽】</COL><BR/>･<COL FF0000FF>剑模式时</COL>进行攻击会消耗斩击槽，<BR/>　内藏在武器里的<COL FF0000FF>瓶的效果会附加攻击</COL><BR/>･斩击槽在<COL FF0000FF>剑以外的状态时</COL>会随着时间流逝累积<BR/>･斩击槽很少会无法变形为剑，<BR/>　使出<COL FF0000FF>装填</COL>来填充斩击槽<BR/>･斩击槽短时间内<COL FF0000FF>在装填后</COL>使出变形斩
+<COL 008000FF>【容易累积炼金槽的动作】</COL><BR/>･<COL FF0000FF>斧：直斩</COL>、<COL FF0000FF>剑：二连斩<BR/>　</COL>容易累积炼金槽
+<COL 008000FF>【变形】</COL><BR/>･斩击槽能在<COL FF0000FF>橘色时</COL>变形为剑<BR/><COL 008000FF>【斩击槽】</COL><BR/>･<COL FF0000FF>剑模式时</COL>进行攻击会消耗斩击槽，<BR/>　内藏在武器里的<COL FF0000FF>瓶的效果会附加攻击</COL><BR/>･斩击槽在<COL FF0000FF>剑以外的状态时</COL>会随着时间流逝累积，<BR/>　在英勇状态中更加容易累积<BR/>･斩击槽很少会无法变形为剑，<BR/>　使出<COL FF0000FF>装填</COL>来填充斩击槽
+<COL 008000FF>【强变形斩：英勇状态】</COL><BR/>･英勇状态时，变形斩<BR/>　会变成<COL FF0000FF>强变形斩</COL><BR/><COL 008000FF>【属性解放二连终结：英勇状态】</COL><BR/>･英勇状态时，剑：属性解放终结，<BR/>　会变成<COL FF0000FF>剑：属性解放二连终结</COL><BR/>･终结后，有剩余斩击槽，<BR/>　能<COL FF0000FF>维持剑状态</COL>
+<COL 008000FF>【蓄力】</COL><BR/>･消耗耐力，拉紧弓弦会<COL FF0000FF>提升箭威力</COL><BR/>･根据蓄力阶段射出对应的<COL FF0000FF>箭类型</COL><BR/><COL 008000FF>【箭类型】</COL><BR/>･连射：<COL FF0000FF>往纵向</COL>分别发射的箭<BR/>･贯穿：<COL FF0000FF>贯穿</COL>怪物的箭<BR/>･扩散：<COL FF0000FF>往横向</COL>分别发射的箭<BR/>･重射：容易瞄准<COL FF0000FF>胆怯和破坏部位</COL>的重箭
+<COL 008000FF>【瓶】</COL><BR/>･装备瓶后，能射出<COL FF0000FF>附加瓶效果的箭</COL><BR/><COL 008000FF>【曲射】</COL><BR/>･对着空中放箭，将对处在特定范围内的怪物<BR/>　<COL FF0000FF>从头顶</COL>进行攻击<BR/>･有<COL FF0000FF>放射型</COL>、<COL FF0000FF>集中型</COL>、<COL FF0000FF>爆裂型</COL>等3种曲射类型<BR/>･曲射也会<COL FF0000FF>附加瓶的效果</COL>，<BR/>　但装填近战瓶时仅限受到近战瓶强化的影响
+<COL 008000FF>【瓶】</COL><BR/>･装备瓶后，能射出<COL FF0000FF>附加瓶效果的箭</COL><BR/><COL 008000FF>【曲射】</COL><BR/>･对着空中放箭，将对处在特定范围内的怪物<BR/>　<COL FF0000FF>从头顶</COL>进行攻击<BR/>･有<COL FF0000FF>放射型</COL>、<COL FF0000FF>集中型</COL>、<COL FF0000FF>爆裂型</COL>等3种曲射类型<BR/>･曲射也会<COL FF0000FF>附加瓶的效果</COL>，<BR/>　但装填近战瓶时仅限受到近战瓶强化的影响
+<COL 008000FF>【瓶】</COL><BR/>･装备瓶后，能射出<COL FF0000FF>附加瓶效果的箭</COL><BR/><COL 008000FF>【踩踏跳跃后的空中攻击】</COL><BR/>･成功使出踩踏跳跃后，<COL FF0000FF>最多连续2次</COL><BR/>　使出跳跃向下发射<BR/>･由跳跃向下发射，衍生出跳跃发射<BR/>　或是跳跃近身攻击的<COL FF0000FF>2种空中攻击</COL>
+<COL 008000FF>【瓶】</COL><BR/>･装备瓶后，能射出<COL FF0000FF>附加瓶效果的箭</COL><BR/><COL 008000FF>【刚射】</COL><BR/>･放箭后，能接着射出比蓄力阶段<BR/>　还要<COL FF0000FF>高1阶段的箭</COL>（消耗耐力）<BR/><COL 008000FF>【精准闪避后的攻击】</COL><BR/>･精准闪避后发射<BR/>　就能射出<COL FF0000FF>蓄力阶段3</COL>的箭
+<COL 008000FF>【蓄力】</COL><BR/>･消耗耐力，拉紧弓弦会<COL FF0000FF>提升箭威力</COL><BR/>･根据蓄力阶段射出对应的<COL FF0000FF>箭类型</COL><BR/><COL 008000FF>【箭类型】</COL><BR/>･连射：<COL FF0000FF>往纵向</COL>分别发射的箭<BR/>･贯穿：<COL FF0000FF>贯穿</COL>怪物的箭<BR/>･扩散：<COL FF0000FF>往横向</COL>分别发射的箭<BR/>･重射：容易瞄准<COL FF0000FF>胆怯和破坏部位</COL>的重箭
+<COL 008000FF>【蓄力】</COL><BR/>･消耗耐力，拉紧弓弦会<COL FF0000FF>提升箭威力</COL><BR/>　更加容易累积炼金槽<BR/>･根据蓄力阶段射出对应的<COL FF0000FF>箭类型</COL><BR/><COL 008000FF>【箭类型】</COL><BR/>･连射：<COL FF0000FF>往纵向</COL>分别发射的箭<BR/>･贯穿：<COL FF0000FF>贯穿</COL>怪物的箭<BR/>･扩散：<COL FF0000FF>往横向</COL>分别发射的箭<BR/>･重射：容易瞄准<COL FF0000FF>胆怯和破坏部位</COL>的重箭
+<COL 008000FF>【瓶】</COL><BR/>･装备瓶后，能射出<COL FF0000FF>附加瓶效果的箭</COL><BR/>･炼金狩技瓶的效果和其他风格比起来<BR/>　<COL FF0000FF>较高</COL>、<COL FF0000FF>适当距离</COL>下箭命中时狩技槽提升率较高<BR/>･和其他风格比起来瓶的<COL FF0000FF>装填速度较快</COL>
+<COL 008000FF>【蓄力】</COL><BR/>･消耗耐力，拉紧弓弦会<COL FF0000FF>提升箭威力</COL><BR/>･根据蓄力阶段射出对应的<COL FF0000FF>箭类型</COL><BR/>･<COL FF0000FF>停止移动蓄力</COL>会更容易提升蓄力阶段<BR/><COL 008000FF>【箭类型】</COL><BR/>･连射：<COL FF0000FF>往纵向</COL>分别发射的箭<BR/>･贯穿：<COL FF0000FF>贯穿</COL>怪物的箭<BR/>･扩散：<COL FF0000FF>往横向</COL>分别发射的箭<BR/>･重射：容易瞄准<COL FF0000FF>胆怯和破坏部位</COL>的重箭
+<COL 008000FF>【瓶】</COL><BR/>･装备瓶后，能射出<COL FF0000FF>附加瓶效果的箭</COL><BR/><COL 008000FF>【刚蓄力】</COL><BR/>･在收刀持续中继续蓄力，<COL FF0000FF>射出专用箭</COL><BR/>･射出的专用箭根据<COL FF0000FF>曲射类型</COL>而产生变化，<BR/>　根据蓄力阶段<COL FF0000FF>增加英勇槽的提升量</COL><BR/>･英勇状态的情况下，能提升刚蓄力阶段
+<COL 008000FF>【刚蓄力发射专用箭】</COL><BR/>･放射型：箭命中后<COL FF0000FF>于大范围内</COL>撒上复数碎石<BR/>　　　　　和属性攻击及状态异常攻击非常搭<BR/>･集中型：箭在一定距离的<COL FF0000FF>狭小范围内</COL>破裂碎石<BR/>　　　　　使目标容易昏厥，容易累积狩技槽<BR/>･爆裂型：<COL FF0000FF>命中时</COL>箭将爆开装满碎石的袋子<BR/>　　　　　集中命中时威力高<BR/>･也会附加刚蓄力发射专用箭<COL FF0000FF>瓶的效果</COL>，<BR/>　但装填近战瓶时仅限受到近战瓶强化的影响
+<COL 008000FF>【刚射】</COL><BR/>･放箭后，能接着射出比蓄力阶段<BR/>　还要<COL FF0000FF>高1阶段的箭</COL>（消耗耐力）
+<COL 008000FF>【刚射】</COL><BR/>･英勇状态下，放箭后，能接着射出比蓄力阶段<BR/>　还要<COL FF0000FF>高1阶段的箭</COL>（消耗耐力）<BR/><COL 008000FF>【刚连射】</COL><BR/>･通常蓄力时发射刚射后<BR/>　接着使出刚连射（消耗耐力）<BR/>･刚连射发射和刚射<COL FF0000FF>相同蓄力阶段下</COL>的箭
+<COL 008000FF>【曲射】</COL><BR/>･对着空中放箭，将对处在特定范围内的怪物<BR/>　<COL FF0000FF>从头顶</COL>进行攻击<BR/>･有<COL FF0000FF>放射型</COL>、<COL FF0000FF>集中型</COL>、<COL FF0000FF>爆裂型</COL>等3种曲射类型<BR/>･曲射也会<COL FF0000FF>附加瓶的效果</COL>，<BR/>　但装填近战瓶时仅限受到近战瓶强化的影响
+<COL 008000FF>【热量槽】</COL><BR/>･热量槽的指针会根据<COL FF0000FF>炮击和斩击发生变动</COL><BR/>･发射炮击指针会提升<COL FF0000FF>并且攻击力提升</COL><BR/>･使出斩击和突刺指针会<COL FF0000FF>下降</COL><BR/>･指针的位置离<COL FF0000FF>红色</COL>越近，攻击力越高<BR/>･热量槽达到MAX后射出龙击炮<BR/>　会过热，<COL FF0000FF>热量槽将无法产生变化</COL><BR/><COL 008000FF>【全弹发射】</COL><BR/>･<COL FF0000FF>一口气发射</COL>所有装填弹药的攻击
+<COL 008000FF>【热量槽】</COL><BR/>･热量槽的指针会根据<COL FF0000FF>炮击和斩击发生变动</COL><BR/>･发射炮击指针会提升<COL FF0000FF>并且攻击力提升</COL><BR/>･使出斩击和突刺指针会<COL FF0000FF>下降</COL><BR/>･指针的位置离<COL FF0000FF>红色</COL>越近，攻击力越高<BR/>･热量槽达到MAX后射出龙击炮<BR/>　会过热，<COL FF0000FF>热量槽将无法产生变化</COL>
+<COL 008000FF>【炮击类型】</COL><BR/>･炮击类型分为<COL FF0000FF>通常</COL>･<COL FF0000FF>放射</COL>･<COL FF0000FF>扩散</COL>等3种炮击<BR/>　通常型：装填数多，<COL FF0000FF>全弹发射</COL>的威力高<BR/>　放射型：射程长，<COL FF0000FF>龙击炮</COL>的威力高<BR/>　扩散型：攻击范围广，<COL FF0000FF>蓄力炮击</COL>的威力高
+<COL 008000FF>【炮击类型】</COL><BR/>･炮击类型分为<COL FF0000FF>通常</COL>･<COL FF0000FF>放射</COL>･<COL FF0000FF>扩散</COL>等3种炮击<BR/>　通常型：装填数多，<COL FF0000FF>全弹发射</COL>的威力高<BR/>　放射型：射程长，<COL FF0000FF>龙击炮</COL>的威力高<BR/>　扩散型：攻击范围广，<COL FF0000FF>蓄力炮击</COL>的威力高<BR/><COL 008000FF>【上突刺装填】</COL><BR/>･精准格挡后的专用攻击　边攻击边装填<COL FF0000FF>全部</COL>弹药
+<COL 008000FF>【炮击类型】</COL><BR/>･炮击类型分为<COL FF0000FF>通常</COL>･<COL FF0000FF>放射</COL>･<COL FF0000FF>扩散</COL>等3种炮击<BR/>　通常型：装填数<COL FF0000FF>多</COL><BR/>　放射型：射程长，<COL FF0000FF>龙击炮</COL>的威力高<BR/>　扩散型：攻击范围广，<COL FF0000FF>蓄力炮击</COL>的威力高
+<COL 008000FF>【热量槽】</COL><BR/>･热量槽的指针会根据<COL FF0000FF>炮击和斩击发生变动</COL><BR/>･发射炮击指针会提升<COL FF0000FF>并且攻击力提升</COL><BR/>･使出斩击和突刺指针会<COL FF0000FF>下降</COL><BR/>･指针的位置离<COL FF0000FF>红色</COL>越近，攻击力越高<BR/>･热量槽达到MAX后射出龙击炮<BR/>　会过热，<COL FF0000FF>热量槽将无法产生变化</COL>
+<COL 008000FF>【炮击类型】</COL><BR/>･炮击类型分为<COL FF0000FF>通常</COL>･<COL FF0000FF>放射</COL>･<COL FF0000FF>扩散</COL>等3种炮击<BR/>　通常型：装填数多<BR/>　放射型：射程长，<COL FF0000FF>龙击炮</COL>的威力高<BR/>　扩散型：攻击范围广<BR/><COL 008000FF>【龙击炮】</COL><BR/>･炼金风格的龙击炮，<BR/>　通过抑制威力，来缩短<COL FF0000FF>发射时间</COL>，<BR/>　并进一步缩短过热后的<COL FF0000FF>热量槽固定时间</COL>
+<COL 008000FF>【容易累积炼金槽的行动】</COL><BR/>･<COL FF0000FF>敲打</COL>容易累积炼金槽
+<COL 008000FF>【炮击类型】</COL><BR/>･炮击类型分为<COL FF0000FF>通常</COL>･<COL FF0000FF>放射</COL>･<COL FF0000FF>扩散</COL>等3种炮击<BR/>　通常型：装填数多，<COL FF0000FF>全弹发射</COL>的威力高<BR/>　放射型：射程长，<COL FF0000FF>龙击炮</COL>的威力高<BR/>　扩散型：攻击范围广
+<COL 008000FF>【迅速装填】</COL><BR/>･开始英勇风格的迅速装填时，<BR/>　有<COL FF0000FF>格挡判定</COL>，弹药<COL FF0000FF>装填1发</COL><BR/><COL 008000FF>【迅速装填：英勇状态】</COL><BR/>･英勇状态中，装填弹数发生变化<BR/>　可装填数根据炮击类型而不同<BR/>　通常型：装填4发<BR/>　放射型：装填3发<BR/>　扩散型：装填2发
+<COL 008000FF>【英勇炮击：英勇状态】</COL><BR/>･英勇状态下，如果在特定攻击后使出炮击<BR/>　炮击爆炸会变成蓝色的<COL FF0000FF>英勇炮击</COL><BR/>･英勇炮击后接着按下A键能<COL FF0000FF>连续发射</COL>，<BR/>　连续发射的次数越多<BR/>　<COL FF0000FF>各弹药命中后的威力越高</COL><BR/>･收刀持续中也能使出英勇炮击
+<COL 008000FF>【英勇全弹发射：英勇状态】</COL><BR/>･英勇状态中，全弹发射爆炸变成蓝色的<BR/>　<COL FF0000FF>英勇全弹发射</COL><BR/>･英勇全弹发射，在发射时<BR/>　装填弹数越多<COL FF0000FF>各弹药命中后的威力越高</COL><BR/><COL 008000FF>【英勇龙击炮：英勇状态】</COL><BR/>･英勇状态下，射出<COL FF0000FF>英勇龙击炮</COL><BR/>･英勇龙击炮的威力和热量槽固定时间<BR/>　与普通的龙击炮一样，但<COL FF0000FF>发射时间变短</COL>
+<COL 008000FF>【格挡前进】</COL><BR/>･边维持格挡状态边<COL FF0000FF>迅速前进</COL><BR/>･格挡前进时除了<COL FF0000FF>减轻格挡硬直</COL>外<BR/>　能接着使出<COL FF0000FF>盾攻击</COL>，瞄准昏厥怪物<BR/><COL 008000FF>【格挡突刺】</COL><BR/>･<COL FF0000FF>格挡中</COL>能使出中段突刺<BR/>･突刺后，<COL FF0000FF>马上回到格挡状态</COL>
+<COL 008000FF>【格挡突刺】</COL><BR/>･<COL FF0000FF>格挡中</COL>能使出中段突刺<BR/>･突刺后，<COL FF0000FF>马上回到格挡状态</COL><BR/><COL 008000FF>【反击突刺】</COL><BR/>･<COL FF0000FF>边举着盾</COL>边蓄力进行攻击<BR/>･蓄力中受到前方攻击<COL FF0000FF>会使出及时反击</COL><BR/>･不长按R键<COL FF0000FF>短按后</COL><BR/>　能使出破绽小的<COL FF0000FF>取消突刺</COL>
+<COL 008000FF>【反击突刺】</COL><BR/>･<COL FF0000FF>边举着盾</COL>边蓄力进行攻击<BR/>･蓄力中受到前方攻击会<COL FF0000FF>使出及时反击</COL><BR/>･不长按R键<COL FF0000FF>短按后</COL><BR/>　能使出破绽小的<COL FF0000FF>取消突刺</COL><BR/><COL 008000FF>【突进】</COL><BR/>･举起武器，使出<COL FF0000FF>突进攻击</COL>直到消耗完耐力<BR/>･锋利度槽在绿色以上时，能<COL FF0000FF>不被弹开</COL>持续突进
+<COL 008000FF>【突进】</COL><BR/>･举起武器，使出<COL FF0000FF>突进攻击</COL>直到消耗完耐力<BR/>･锋利度槽在绿色以上时，能<COL FF0000FF>不被弹开</COL>持续突进<BR/><COL 008000FF>【跳跃强突刺】</COL><BR/>･空中垫步后使出<COL FF0000FF>跳跃强突刺</COL>
+<COL 008000FF>【突进】</COL><BR/>･举起武器，使出<COL FF0000FF>突进攻击</COL>直到消耗完耐力<BR/>･锋利度槽在绿色以上时，能<COL FF0000FF>不被弹开</COL>持续突进<BR/><COL 008000FF>【十字扫】</COL><BR/>･精准格挡后，用枪来横扫十字可使出<COL FF0000FF>十字扫</COL>
+<COL 008000FF>【格挡前进】</COL><BR/>･边维持格挡状态边<COL FF0000FF>迅速前进</COL><BR/>･格挡前进时除了<COL FF0000FF>减轻格挡硬直</COL>外<BR/>　能接着使出<COL FF0000FF>盾攻击</COL>，瞄准昏厥怪物<BR/><COL 008000FF>【格挡突刺】</COL><BR/>･<COL FF0000FF>格挡中</COL>能使出中段突刺<BR/>･突刺后，能<COL FF0000FF>接着使出突刺</COL>
+<COL 008000FF>【突进】</COL><BR/>･举起武器，使出<COL FF0000FF>突进攻击</COL>直到消耗完耐力<BR/>･锋利度槽在绿色以上时，能<COL FF0000FF>不被弹开</COL>持续突进<BR/><COL 008000FF>【容易累积炼金槽的行动】</COL><BR/>･<COL FF0000FF>中段强突刺</COL>、<COL FF0000FF>上段强突刺<BR/>　</COL>容易累积炼金槽
+<COL 008000FF>【格挡前进】</COL><BR/>･边维持格挡状态边<COL FF0000FF>迅速前进</COL><BR/>･格挡前进时除了<COL FF0000FF>减轻格挡硬直</COL>外<BR/>　能接着使出<COL FF0000FF>盾攻击</COL>，瞄准昏厥怪物<BR/><COL 008000FF>【格挡突刺】</COL><BR/>･<COL FF0000FF>格挡中</COL>能使出中段突刺<BR/>･突刺后，<COL FF0000FF>马上回到格挡状态</COL>
+<COL 008000FF>【突进】</COL><BR/>･英勇风格中，能从收刀持续使出突进<BR/>･举起武器，使出<COL FF0000FF>突进攻击</COL>直到消耗完耐力<BR/>･锋利度槽在绿色以上，<COL FF0000FF>能不被弹开</COL>持续突进<BR/><COL 008000FF>【挥盾攻击：英勇状态】</COL><BR/>･能在英勇状态中使出，<BR/>　挥盾攻击时有<COL FF0000FF>格挡判定</COL><BR/>･挥盾攻击后，能接着使出<COL FF0000FF><BR/>　反击突刺</COL>或<COL FF0000FF>突进</COL>
+<COL 008000FF>【反击突刺】</COL><BR/>･<COL FF0000FF>边举着盾</COL>边蓄力进行攻击<BR/>･蓄力中受到前方攻击会<COL FF0000FF>使出及时反击</COL><BR/>･不长按R键<COL FF0000FF>短按后</COL><BR/>　能使出破绽小的<COL FF0000FF>取消突刺</COL><BR/>･<COL FF0000FF>连段使出</COL>包括强突刺的特定攻击<BR/><COL 008000FF>【突进】</COL><BR/>･举起武器，使出<COL FF0000FF>突进攻击</COL>直到消耗完耐力<BR/>･锋利度槽在绿色以上，能<COL FF0000FF>不被弹开</COL>持续突进
+<COL 008000FF>【反击突刺：英勇状态】</COL><BR/>･挥盾攻击后，使出<COL FF0000FF>反击突刺</COL><BR/>･<COL FF0000FF>边举着盾</COL>边蓄力进行攻击<BR/>･蓄力中受到前方攻击会<COL FF0000FF>使出及时反击</COL><BR/>･不长按R键<COL FF0000FF>短按后</COL><BR/>　能使出破绽小的<COL FF0000FF>取消突刺</COL>
+<COL 008000FF>【跳跃敲打】</COL><BR/>･在空中攻击能使出<COL FF0000FF>跳跃敲打</COL><BR/><COL 008000FF>【演奏】</COL><BR/>･使出攻击，以特定顺序将音色转化为乐谱槽<BR/>　统一演奏，<COL FF0000FF>发动旋律效果</COL><BR/>･<COL FF0000FF>重复演奏</COL>相同旋律效果<BR/>　能<COL FF0000FF>延长</COL>旋律效果时间或<COL FF0000FF>强化</COL>旋律效果等<BR/>･仅限任务中，在菜单按下R键，<BR/>　会显示<COL FF0000FF>旋律效果一览</COL>
+<COL 008000FF>【演奏】</COL><BR/>･使出攻击，以特定顺序将音色转化为乐谱槽<BR/>　统一演奏，<COL FF0000FF>发动旋律效果</COL><BR/>･<COL FF0000FF>重复演奏</COL>相同旋律效果<BR/>　能<COL FF0000FF>延长</COL>旋律效果时间或<COL FF0000FF>强化</COL>旋律效果等<BR/>･仅限任务中，在菜单按下R键，<BR/>　会显示<COL FF0000FF>旋律效果一览</COL><BR/><COL 008000FF>【把柄攻击】</COL><BR/>･按下特殊攻击键使出<COL FF0000FF>把柄攻击</COL><BR/>　可发出音色2
+<COL 008000FF>【重音色】</COL><BR/>･攻击命中后音色会<COL FF0000FF>变成重音色</COL><BR/>･齐声演奏重音色，<COL FF0000FF>之前一次发动</COL>的<BR/>　旋律效果也能<COL FF0000FF>同时</COL>获得<BR/><COL 008000FF>【把柄攻击】</COL><BR/>･按下特殊攻击键使出<COL FF0000FF>把柄攻击</COL><BR/>　可发出音色2
+<COL 008000FF>【重音色】</COL><BR/>･攻击命中后音色会<COL FF0000FF>变成重音色</COL><BR/>･齐声演奏重音色，<COL FF0000FF>之前一次发动</COL>的<BR/>　旋律效果也能<COL FF0000FF>同时</COL>获得
+<COL 008000FF>【重音色】</COL><BR/>･攻击命中后音色会<COL FF0000FF>变成重音色</COL><BR/>･齐声演奏重音色，<COL FF0000FF>之前一次发动</COL>的<BR/>　旋律效果也能<COL FF0000FF>同时</COL>获得<BR/><COL 008000FF>【跳跃连音攻击】</COL><BR/>･在空中进行攻击会变成<COL FF0000FF>跳跃连音攻击</COL><BR/>･跳跃连音攻击中可输入<COL FF0000FF>2次</COL>音色
+<COL 008000FF>【重音色】</COL><BR/>･攻击命中后音色会<COL FF0000FF>变成重音色</COL><BR/>･齐声演奏重音色，<COL FF0000FF>之前一次发动</COL>的<BR/>　旋律效果也能<COL FF0000FF>同时</COL>获得<BR/><COL 008000FF>【把柄攻击】</COL><BR/>･按下特殊攻击键使出<COL FF0000FF>把柄攻击</COL><BR/>　可发出音色2<BR/><COL 008000FF>【三连音攻击】</COL><BR/>･精准闪避后，能<COL FF0000FF>连续3次</COL>输入音色
+<COL 008000FF>【跳跃敲打】</COL><BR/>･在空中攻击能使出<COL FF0000FF>跳跃敲打</COL><BR/><COL 008000FF>【演奏】</COL><BR/>･使出攻击，以特定顺序将音色转化为乐谱槽<BR/>　统一演奏，<COL FF0000FF>发动旋律效果</COL><BR/>･<COL FF0000FF>重复演奏</COL>相同旋律效果<BR/>　能<COL FF0000FF>延长</COL>旋律效果时间或<COL FF0000FF>强化</COL>旋律效果等<BR/>･仅限任务中，在菜单按下R键，<BR/>　会显示<COL FF0000FF>旋律效果一览</COL>
+<COL 008000FF>【重音色】</COL><BR/>･攻击命中后音色会<COL FF0000FF>变成重音色</COL><BR/>･齐声演奏重音色，<COL FF0000FF>之前一次发动</COL>的<BR/>　旋律效果也能<COL FF0000FF>同时</COL>获得<BR/><COL 008000FF>【把柄攻击】</COL><BR/>･按下特殊攻击键使出<COL FF0000FF>把柄攻击</COL><BR/>　可发出音色2<BR/><COL 008000FF>【容易累积炼金槽的行动】</COL><BR/>･<COL FF0000FF>敲打</COL>容易累积炼金槽
+<COL 008000FF>【演奏】</COL><BR/>･使出攻击，以特定顺序将音色转化为乐谱槽<BR/>　统一演奏，<COL FF0000FF>发动旋律效果</COL><BR/>･<COL FF0000FF>重复演奏</COL>相同旋律效果<BR/>　能<COL FF0000FF>延长</COL>旋律效果时间或<COL FF0000FF>强化</COL>旋律效果等<BR/>･仅限任务中，在菜单按下R键，<BR/>　会显示<COL FF0000FF>旋律效果一览</COL><BR/>･仅限收刀持续中继续演奏，<BR/>　或是英勇状态中的演奏能<COL FF0000FF>重复演奏</COL>
+<COL 008000FF>【跳跃敲打】</COL><BR/>･在空中攻击能使出<COL FF0000FF>跳跃敲打</COL><BR/><COL 008000FF>【重音色】</COL><BR/>･攻击命中后音色会<COL FF0000FF>变成重音色</COL><BR/>･齐声演奏重音色，<COL FF0000FF>之前一次发动</COL>的<BR/>　旋律效果也能<COL FF0000FF>同时</COL>获得
+<COL 008000FF>【蓄力】</COL><BR/>･<COL FF0000FF>长按</COL>蓄力键消耗耐力、累积力量<BR/>･根据蓄力时间，攻击类型变成<COL FF0000FF>3阶段</COL><BR/>･蓄力中能使怪物的<COL FF0000FF>风压无效</COL>
+<COL 008000FF>【蓄力】</COL><BR/>･<COL FF0000FF>长按</COL>蓄力键消耗耐力、累积力量<BR/>･根据蓄力时间，攻击类型变成<COL FF0000FF>3阶段</COL><BR/>･蓄力中能使怪物的<COL FF0000FF>风压无效</COL><BR/>･<COL FF0000FF>蓄力速度变快，</COL>容易使出蓄力Ⅲ攻击
+<COL 008000FF>【蓄力】</COL><BR/>･<COL FF0000FF>长按</COL>蓄力键消耗耐力、累积力量<BR/>･能<COL FF0000FF>在空中蓄力</COL><BR/>根据蓄力时间，攻击类型变成<COL FF0000FF>3阶段</COL><BR/>･蓄力中能使怪物的<COL FF0000FF>风压无效</COL><BR/><COL 008000FF>【跳跃连续敲打】</COL><BR/>･在空中，第1击命中后，接着使出第2击<BR/>　能使出<COL FF0000FF>跳跃连续敲打</COL>
+<COL 008000FF>【蓄力】</COL><BR/>･<COL FF0000FF>长按</COL>蓄力键消耗耐力、累积力量<BR/>根据蓄力时间，攻击类型变成<COL FF0000FF>3阶段</COL><BR/>･蓄力中能使怪物的<COL FF0000FF>风压无效</COL><BR/><COL 008000FF>【强蓄力】</COL><BR/>･精准闪避后蓄力<BR/>　能使出<COL FF0000FF>更强力的蓄力攻击</COL>
+<COL 008000FF>【蓄力】</COL><BR/>･<COL FF0000FF>长按</COL>蓄力键消耗耐力、累积力量<BR/>･根据蓄力时间，攻击类型变成<COL FF0000FF>3阶段</COL><BR/>･蓄力中能使怪物的<COL FF0000FF>风压无效</COL><BR/><COL 008000FF>【容易累积炼金槽的行动】</COL><BR/>･<COL FF0000FF>蓄力Ⅲ攻击</COL>容易累积炼金槽
+<COL 008000FF>【蓄力】</COL><BR/>･<COL FF0000FF>长按</COL>蓄力键消耗耐力、累积力量<BR/>･根据蓄力时间，攻击类型变成<COL FF0000FF>2阶段</COL><BR/>･蓄力中能使怪物的<COL FF0000FF>风压无效</COL><BR/><COL 008000FF>【刚蓄力：英勇状态】</COL><BR/>･英勇状态下，能从蓄力攻击进一步使出<COL FF0000FF>刚蓄力</COL><BR/>･根据蓄力时间，攻击类型变成<COL FF0000FF>2阶段</COL><BR/>･蓄力中能使怪物的<COL FF0000FF>风压无效</COL>
+<COL 008000FF>【真蓄力：英勇状态】</COL><BR/>･英勇状态下，能从刚蓄力攻击<BR/>　进一步使出<COL FF0000FF>真蓄力</COL><BR/>･根据蓄力时间，攻击类型变成<COL FF0000FF>2阶段</COL><BR/>･蓄力中能使怪物的<COL FF0000FF>风压无效</COL>
+<COL 008000FF>【填充槽】</COL><BR/>･在黄色以上时，使出填充<COL FF0000FF>能累积瓶</COL><BR/>･斧状态时使用累积好的瓶能使出<COL FF0000FF>强力的攻击</COL><BR/><COL 008000FF>【属性强化】</COL><BR/>･在瓶有一个以上的状态下使出属性强化回旋斩<BR/>　能<COL FF0000FF>强化盾属性</COL>，攻击力及格挡性能提升<BR/>･属性强化状态时，能使出<COL FF0000FF>超高输出属性解放斩</COL>
+<COL 008000FF>【填充槽】</COL><BR/>･在黄色以上时，使出填充<COL FF0000FF>能累积瓶</COL><BR/>･斧状态时使用累积好的瓶能使出<COL FF0000FF>强力的攻击</COL><BR/><COL 008000FF>【属性强化】</COL><BR/>･在瓶有一个以上的状态下使出属性强化回旋斩<BR/>　能<COL FF0000FF>强化盾属性</COL>，攻击力及格挡性能提升<BR/><COL 008000FF>【空中使出属性解放斩】</COL><BR/>･斧状态时，能<COL FF0000FF>在空中</COL>使出高输出属性解放斩，<BR/>　或是超高输出属性解放斩
+<COL 008000FF>【填充槽】</COL><BR/>･在黄色以上时，使出填充<COL FF0000FF>能累积瓶</COL><BR/>･斧状态时使用累积好的瓶能使出<COL FF0000FF>强力的攻击</COL><BR/><COL 008000FF>【属性强化】</COL><BR/>･在瓶有一个以上的状态下使出属性强化回旋斩<BR/>　能<COL FF0000FF>强化盾属性</COL>，攻击力及格挡性能提升<BR/><COL 008000FF>【精准格挡与精准闪避】</COL><BR/>･剑状态下能使出<COL FF0000FF>精准格挡</COL><BR/>･斧状态下能使出<COL FF0000FF>精准闪避</COL>
+<COL 008000FF>【填充槽】</COL><BR/>･在黄色以上时，使出填充<COL FF0000FF>能累积瓶</COL><BR/>･斧状态时使用累积好的瓶能使出<COL FF0000FF>强力的攻击</COL><BR/><COL 008000FF>【属性强化】</COL><BR/>･在瓶有一个以上的状态下使出属性强化回旋斩<BR/>　能<COL FF0000FF>强化盾属性</COL>，攻击力及格挡性能提升<BR/><COL 008000FF>【容易累积炼金槽的行动】</COL><BR/>･<COL FF0000FF>斧：高输出属性解放斩<BR/>　</COL>容易累积炼金槽
+<COL 008000FF>【填充槽】</COL><BR/>･在黄色以上时，使出填充<COL FF0000FF>能累积瓶</COL><BR/>･斧状态时使用累积好的瓶能使出<COL FF0000FF>强力的攻击</COL><BR/><COL 008000FF>【属性强化（英勇）：英勇状态】</COL><BR/>･英勇状态下，经常处于<COL FF0000FF>属性强化状态（英勇），</COL><BR/>　攻击力和<COL FF0000FF>格挡判定时</COL>的格挡性能提升<BR/>･英勇状态下，剑模式时<BR/>　开始垫步时会追加<COL FF0000FF>格挡判定</COL>
+<COL 008000FF>【属性解放斩Ⅲ：英勇状态】</COL><BR/>･英勇状态下，使出属性解放斩Ⅱ后<BR/>　接着使出<COL FF0000FF>属性解放斩Ⅲ</COL>
+<COL 008000FF>【武器内藏弹】</COL><BR/>･各弩炮，能在任务中射出<BR/>　事先装好的特定<COL FF0000FF>武器内藏弹</COL><BR/><COL 008000FF>【蹲下射击】</COL><BR/>･弹药装填数<COL FF0000FF>飞速提升</COL>，可连续发射<BR/>･在蹲下射击中<COL FF0000FF>不会硬直</COL>，但会无法移动
+<COL 008000FF>【武器内藏弹】</COL><BR/>･各弩炮，能在任务中射出<BR/>　事先装好的特定<COL FF0000FF>武器内藏弹</COL>
+<COL 008000FF>【武器内藏弹】</COL><BR/>･各弩炮，能在任务中射出<BR/>　事先装好的特定<COL FF0000FF>武器内藏弹</COL><BR/><COL 008000FF>【蹲下射击】</COL><BR/>･弹药装填数<COL FF0000FF>飞速提升</COL>，可连续发射<BR/>･在蹲下射击中<COL FF0000FF>不会硬直</COL>，但会无法移动<BR/><COL 008000FF>【能在空中使出的特殊行动】</COL><BR/>･踩踏跳跃后，能<COL FF0000FF>自动装填</COL><BR/>･向下发射蹲下射击对应弹时，会变成<COL FF0000FF>连射</COL>
+<COL 008000FF>【武器内藏弹】</COL><BR/>･各弩炮，能在任务中射出<BR/>　事先装好的特定<COL FF0000FF>武器内藏弹</COL><BR/><COL 008000FF>【蹲下射击】</COL><BR/>･弹药装填数<COL FF0000FF>飞速提升</COL>，可连续发射<BR/>･在蹲下射击中<COL FF0000FF>不会硬直</COL>，但会无法移动<BR/><COL 008000FF>【精准闪避后的特殊行动】</COL><BR/>･强力装填：一定时间内各弹药<COL FF0000FF>攻击力提升</COL><BR/>･强力冲刺：冲刺时能暂时<COL FF0000FF>不消耗耐力</COL>
+<COL 008000FF>【武器内藏弹】</COL><BR/>･各弩炮，能在任务中射出<BR/>　事先装好的特定<COL FF0000FF>武器内藏弹</COL><BR/><COL 008000FF>【装填速度和炼金狩技弹】</COL><BR/>･和其他风格比起来弹药的<COL FF0000FF>装填速度较快</COL><BR/>･炼金狩技弹的装填数和其他风格比起来<COL FF0000FF>较多</COL><BR/><COL 008000FF>【容易累积炼金槽的行动】</COL><BR/>･<COL FF0000FF>弹药在适当距离命中</COL>容易累积炼金槽
+<COL 008000FF>【英勇装填】</COL><BR/>･使出英勇装填后，在一定时间内，<BR/>　弹药命中时会<COL FF0000FF>容易累积英勇槽</COL><BR/>･<COL FF0000FF>英勇状态中</COL>，使出英勇装填后，<BR/>　添加通常效果，弹药<COL FF0000FF>攻击力提升</COL><BR/>･收刀持续中在弩枪<COL FF0000FF>冒出火花的时候</COL><BR/>　使出英勇装填，能<COL FF0000FF>减少破绽</COL><BR/>･英勇状态中，英勇装填能接<BR/>　<COL FF0000FF>闪避</COL>或是<COL FF0000FF>强力冲刺</COL>
+<COL 008000FF>【武器内藏弹】</COL><BR/>･各弩炮，能在任务中射出<BR/>　事先装好的特定<COL FF0000FF>武器内藏弹</COL><BR/><COL 008000FF>【蹲下射击：英勇状态】</COL><BR/>･弹药装填数<COL FF0000FF>飞速提升</COL>，可连续发射<BR/>･在蹲下射击中<COL FF0000FF>不会硬直</COL>，但会无法移动<BR/>･在蹲下射击时如果<COL FF0000FF>持续连续发射</COL>，<BR/>　发射间隔将逐渐变短，能使出<COL FF0000FF>倾泻射击</COL>
+<COL 008000FF>【武器内藏弹】</COL><BR/>･各弩炮，能在任务中射出<BR/>　事先装好的特定<COL FF0000FF>武器内藏弹</COL><BR/><COL 008000FF>【速射】</COL><BR/>･使用速射对应弹，消耗1发弹药能<COL FF0000FF>自动连射</COL>
+<COL 008000FF>【武器内藏弹】</COL><BR/>･各弩炮，能在任务中射出<BR/>　事先装好的特定<COL FF0000FF>武器内藏弹</COL><BR/><COL 008000FF>【速射】</COL><BR/>･使用速射对应弹，消耗1发弹药能<COL FF0000FF>自动连射</COL><BR/><COL 008000FF>【跳跃向下发射】</COL><BR/>･<COL FF0000FF>在空中</COL>向下发射<BR/>･用速射对应弹使出跳跃向下发射，<BR/>　就能向下<COL FF0000FF>速射</COL>
+<COL 008000FF>【武器内藏弹】</COL><BR/>･各弩炮，能在任务中射出<BR/>　事先装好的特定<COL FF0000FF>武器内藏弹</COL><BR/><COL 008000FF>【速射】</COL><BR/>･使用速射对应弹，消耗1发弹药能<COL FF0000FF>自动连射</COL><BR/><COL 008000FF>【精准闪避后的特殊行动】</COL><BR/>･强力装填：一定时间内各弹药<COL FF0000FF>攻击力提升</COL><BR/>･强力冲刺：冲刺时能暂时<COL FF0000FF>不消耗耐力</COL>
+<COL 008000FF>【武器内藏弹】</COL><BR/>･各弩炮，能在任务中射出<BR/>　事先装好的特定<COL FF0000FF>武器内藏弹</COL><BR/><COL 008000FF>【速射】</COL><BR/>･使用速射对应弹，消耗1发弹药能<COL FF0000FF>自动连射</COL><BR/>･炼金道具的<COL FF0000FF>炼金狩技弹能变成速射对应</COL><BR/><COL 008000FF>【容易累积炼金槽的动作】</COL><BR/>･<COL FF0000FF>弹药在适当距离命中</COL>容易累积炼金槽
+<COL 008000FF>【英勇装填】</COL><BR/>･使出英勇装填后，在一定时间内，<BR/>　弹药命中时会<COL FF0000FF>容易累积英勇槽</COL>，<BR/>　并<COL FF0000FF>减轻发射时的后坐力</COL>。<BR/>･收刀持续中在弩枪<COL FF0000FF>冒出火花的时候</COL><BR/>　使出英勇装填，<BR/>　能<COL FF0000FF>减少英勇装填的破绽</COL>
+<COL 008000FF>【武器内藏弹】</COL><BR/>･各弩炮，能在任务中射出<BR/>　事先装好的特定<COL FF0000FF>武器内藏弹</COL><BR/><COL 008000FF>【速射】</COL><BR/>･使用速射对应弹，消耗1发弹药能<COL FF0000FF>自动连射</COL><BR/><COL 008000FF>【垫步发射：英勇状态】</COL><BR/>･英勇状态中，攻击后的闪避能变成<COL FF0000FF>垫步发射</COL>，<BR/>　并射出内藏在弩枪里的<COL FF0000FF>特殊弹</COL><BR/>･特殊弹<COL FF0000FF>没有弹药数</COL>，能<COL FF0000FF>最多连续发射3次</COL>
+【精准闪避后迅速拉开距离】
+【发射后的闪避】
+【发射后的闪避垫步】
+【发射后的闪避垫步Ⅱ】
+【空中闪避后的连续射击】
+【跳跃向下发射后空中装填】
+【精准闪避后的连段】
+【发射后使用奇异炼金桶】
+【高低差跳跃中装填】
+【高低差跳跃中装填：装填数为0时】
+【累积英勇槽的连段】
+【英勇状态中搭配垫步发射的连段】
+【通常发射后往蹲下射击的连段】
+【空中闪避后的蹲下射击】
+【跳跃向下发射接着蹲下射击】
+【精准闪避后的蹲下射击】
+【解除蹲下射击后立刻蹲下射击】
+【搭配收刀闪避的连段】
+【英勇状态中搭配蹲下射击的连段】
+【剑：累积填充槽的连段】
+【斧：瞄准位置较高部位的连段】
+【剑：连接属性强化（黄）的连段（使用瓶）】
+【剑：连接属性强化（红）的连段（使用瓶）】
+【剑：高火力连段（使用瓶･属性强化状态）】
+【剑：踩踏跳跃后累积填充槽的连段】
+【斧：于空中的属性解放斩（使用瓶）】
+【斧：精准闪避后的属性解放斩（使用瓶）】
+【斧：连接属性强化（红）的连段（使用瓶）】
+【斧：累积炼金槽的连段（使用瓶）】
+【剑：英勇状态中搭配垫步的连段】
+【斧：英勇状态中的连段】
+【抓住机会的连段攻击】
+【回旋攻击】
+【造成昏厥的连段攻击】
+【空中闪避后的连段】
+【使用强蓄力的高火力连段】
+【英勇状态中搭配收刀持续的连段】
+【临时连段】
+【抓住机会的高火力连段】
+【搭配自我强化演奏的连段和重复演奏】
+【抓住机会的高火力连段】
+【连接三连续把柄攻击的连段】
+【空中闪避后的连音攻击】
+【三连音攻击】
+【英勇状态中搭配垫步的连段】
+【格挡状态中拉近距离的连段】
+【连续不断突刺的连段】
+【闪避怪物的攻击后反击的连段】
+【使出跳跃强突刺的连段】
+【跳跃突进后的连段】
+【精准格挡后的连段】
+【英勇状态中搭配挥盾攻击的连段】
+【英勇状态中搭配突进的连段】
+【垫步后使用奇异炼金桶】
+【英勇状态中搭配取消突刺的连段】
+【拉近距离的基本连段】
+【累积热量槽的炮击中心连段】
+【累积热量槽的高火力连段】
+【搭配龙击炮的连段】
+【累积热量槽的炮击中心连段】
+【空中垫步后的连段】
+【连接全弹发射的连段】
+【英勇状态中搭配英勇炮击的连段】
+【英勇炮击后搭配垫步的连段】
+【曲射】
+【刚射】
+【利用后滚的蓄力发射】
+【空中闪避后的连续发射】
+【精准闪避后的连续发射】
+【蓄力中闪避】
+【英勇状态中的连段Ⅰ】
+【英勇状态中的连段Ⅱ】
+【英勇状态时蓄力中闪避】
+【斧：基本连段】
+【斧：高火力连段】
+【剑：抓住机会的连段攻击】
+【剑：空中闪避后的连段】
+【斧：精准闪避后的连段】
+【斧：变形为剑模式的连段】
+【斧：空中闪避后变形为剑模式的连段】
+【英勇状态中的高火力连段】
+【斧：搭配收刀持续的基本连段】
+【剑：搭配收刀持续的基本连段】
+【斧：累积英勇槽的连段】
+【剑：累积英勇槽的连段】
+【剑、斧都可：累积英勇槽的连段】
+【斧：英勇状态中搭配强变形斩的连段】
+【剑：英勇状态中垫步后的高火力连段】
+【斧：搭配挥舞的连段】
+【斧：累积炼金槽的连段】
+【剑、斧都可：闪避后使用奇异炼金桶】
+【剑：变形为斧模式的连段】
+【拉近距离瞄准高部位的连段】
+【鬼人化状态的连段】
+【鬼人强化中的连段】
+【鬼人化中，瞄准脚下的连段】
+【拉近距离瞄准乱舞的连段】
+【鬼人强化中搭配鬼人连斩的连段】
+【鬼人化中的高火力连段】
+【搭配鬼人化中空中回旋乱舞的连段】
+【累积炼金槽的连段（鬼人强化中）】
+【英勇状态中的连段】
+【英勇状态中搭配真鬼人冲刺的连段】
+【怪物破绽较小时的连段】
+【红色精华积蓄时：基本连段】
+【红色精华积蓄时：高火力连段】
+【红色精华积蓄时：于空中的连段】
+【猎虫同步斩】
+【英勇状态中搭配猎虫回应･返回的连段Ⅰ】
+【英勇状态中搭配猎虫回应･返回的连段Ⅱ】
+【累积英勇槽的连段Ⅲ】
+【搭配剑盾连击的连段】
+【搭配蓄力斩的连段】
+【于硬直无效状态使用道具】
+【从突进斩起手的连段】
+【精准闪避后的连段】
+【搭配后跳的连段】
+【搭配强蓄力斩的连段】
+【搭配强蓄力斩的连段Ⅱ】
+【不改变位置持续攻击的连段】
+【以打击（横拍）为起手的连段】
+【瞄准位置较高部位的连段】
+【基本连段】
+【空中闪避后的连段】
+【空中闪避后的连段Ⅱ】
+【累积炼金槽的连段】
+【累积英勇槽的连段Ⅰ】
+【累积英勇槽的连段Ⅱ】
+【搭配蓄力斩的连段】
+【英勇状态中的连段】
+【英勇状态中拉近距离的连段】
+【搭配收刀持续的基本连段】
+【闪避后使用奇异炼金桶】
+【气刃斩（需要练气槽）】
+【移动斩连段（需要练气槽）】
+【空中闪避后的连段（需要练气槽）】
+【空中闪避后的连段Ⅱ（练气槽白色以上）】
+【精准闪避后的连段（需要练气槽）】
+【移动斩的连段】
+【英勇状态中的连段（需要练气槽）】
+【累积炼金槽的连段（需要练气槽）】
+【英勇状态中搭配移动斩的连段】
+空中闪避后<BR/>踩踏跳跃
+精准闪避
+精准格挡
+使用<BR/>奇异炼金桶
+收刀持续
+侧跳<BR/>（左右方向）
+侧滚闪避<BR/>（左右方向）
+空中装填
+强力装填
+强力冲刺
+前滚闪避<BR/>（高低差开始）
+英勇<BR/>装填
+垫步发射<BR/>（左右方向）
+垫步发射<BR/>（后方方向）
+蹲下射击<BR/>（连续发射）
+滑行<BR/>（前方）
+闪避
+闪避拔刀
+变形斩
+蓄力二连斩
+回旋斩
+敲打
+盾突击
+属性强化<BR/>回旋斩
+格挡突进斩
+跳跃<BR/>挥斩
+属性解放斩Ⅱ
+高输出<BR/>属性解放斩
+超高输出<BR/>属性解放斩
+属性压缩
+牵制斩
+简易属性<BR/>强化回旋斩
+属性解放斩Ⅲ
+垫步
+填充
+撩击
+回旋攻击<BR/>（蓄力阶段3）
+回旋攻击Ⅱ
+蓄力Ⅱ攻击
+跳跃连续<BR/>敲打第2击
+跳跃连续<BR/>敲打
+强蓄力Ⅱ攻击
+挥舞攻击
+刚蓄力
+真蓄力
+蓄力Ⅲ攻击
+刚蓄力Ⅱ攻击
+蓄力Ⅰ攻击
+刚蓄力Ⅰ攻击
+右挥
+左挥
+后方攻击
+前方攻击
+把柄攻击
+跳跃<BR/>连音攻击
+跳跃<BR/>连音攻击第2击
+三连音攻击<BR/>第1击
+三连音攻击<BR/>第2击
+三连音攻击<BR/>第3击
+强演奏攻击
+重复演奏
+连音攻击
+连音攻击<BR/>第2击
+中段突刺Ⅰ
+中段突刺Ⅱ
+中段强突刺
+盾攻击<BR/>格挡前进
+取消突刺
+终结<BR/>突刺
+跳跃突进
+回头攻击
+十字扫
+上段突刺Ⅱ
+跳跃强突刺
+中段突刺Ⅲ
+空中垫步后<BR/>踩踏跳跃
+上段突刺Ⅰ
+挥盾攻击
+格挡突刺
+上段强突刺
+踏步<BR/>上突刺
+踏步炮击
+迅速<BR/>装填
+敲打
+全弹发射
+龙击炮
+跳跃<BR/>敲打
+跳跃炮击
+强敲打
+上突刺<BR/>装填
+英勇炮击<BR/>第1发
+英勇炮击<BR/>第2发
+前方突刺Ⅰ
+前方突刺Ⅱ
+前方突刺Ⅲ
+英勇<BR/>全弹发射
+拉紧弓弦
+曲射
+后滚
+发射<BR/>（蓄力阶段3）
+刚射<BR/>（迅速输入）
+刚蓄力发射
+刚连射
+刚射
+后滚<BR/>（任意方向）
+真刚射
+挥舞
+横扫斩<BR/>终结
+二连斩
+属性解放突刺
+属性解放<BR/>终结
+空中闪避后<BR/>踩踏斩
+跳跃<BR/>属性解放突刺
+剑：二连斩
+斧：强变形斩
+剑：强变形斩
+属性解放二连<BR/>终结
+二连回斩
+右回旋斩
+车轮斩
+六连斩
+乱舞
+鬼人突进连斩
+鬼人闪避
+右二回旋斩
+鬼人突进连斩<BR/>（迅速输入）
+鬼人化
+空中闪避后<BR/>鬼人回天连斩
+回旋乱舞<BR/>终结
+鬼人连斩
+二连斩
+挥斩
+右二连斩
+空中回旋乱舞<BR/>（自动发动）
+鬼人突进连斩<BR/>（高低差开始）
+真鬼人乱舞
+真鬼人冲刺
+磨砺挥斩
+斜斩
+闪避斩
+强化<BR/>飞踏斩
+强化<BR/>连续捞斩
+飞圆斩
+强化<BR/>斜斩
+强化<BR/>二连斩
+猎虫同步斩
+强化跳跃<BR/>回旋斩
+强化<BR/>横扫斩
+剑盾连击
+蓄力斩
+反打
+使用道具<BR/>（附加刃药）
+跳跃<BR/>捞斩
+跳跃<BR/>突进二连斩
+跳跃斩
+跳跃连击
+后跳<BR/>连击
+真回旋斩
+横拍
+强蓄力斩
+强横扫斩
+踢
+直斩<BR/>（蓄力斩）
+飞踏斩<BR/>（收刀时）
+跳跃<BR/>蓄力斩
+冲刺<BR/>捞斩
+高速强蓄力斩
+高速强蓄力斩<BR/>（拔刀攻击）
+强蓄力移动斩
+拔刀攻击<BR/>（收刀时）
+垫步<BR/>（左右方向）
+气刃<BR/>大回旋斩
+气刃斩Ⅰ
+气刃斩Ⅱ
+气刃斩Ⅲ
+气刃<BR/>踏步斩
+跳跃<BR/>气刃斩
+跳跃<BR/>气刃三连斩
+气刃<BR/>大回旋斩
+一字斩
+气刃无双斩
+移动斩<BR/>（左右方向）
+刚･气刃斩Ⅰ
+刚･气刃斩Ⅱ
+刚･气刃斩Ⅲ
+<COL FF0000FF>【武器内藏弹】</COL><BR/><COL 008000FF>龙击弹　</COL>研究龙击炮构造所制成的弹药<BR/><COL 008000FF>斩裂弹</COL>　于命中位置飞散刀片的切断属性弹药<BR/><COL 008000FF>爆破弹</COL>　拥有爆破属性的弹药<BR/><COL 008000FF>强装弹</COL>　后坐力强但威力大的弹药<BR/><COL 008000FF>重击弹</COL>　在适当距离击中容易使怪物胆怯的弹药<BR/><COL 008000FF>痛击弹</COL>　击中肉质柔软的部位非常有效的弹药<BR/><COL 008000FF>大炮弹</COL>　命中后会爆炸的弹药<BR/><COL 008000FF>远击弹</COL>　适当距离较远的弹药
+<COL 008000FF>LV2火炎弹</COL>　属性效果高的火炎弹<BR/><COL 008000FF>LV2水冷弹</COL>　属性效果高的水冷弹<BR/><COL 008000FF>LV2电击弹</COL>　属性效果高的电击弹<BR/><COL 008000FF>LV2冰结弹</COL>　属性效果高的冰结弹<BR/><COL 008000FF>LV2灭龙弹</COL>　属性效果高的灭龙弹<BR/><COL 008000FF>贯穿火炎弹</COL>　火属性贯穿弹<BR/><COL 008000FF>贯穿水冷弹</COL>　水属性贯穿弹<BR/><COL 008000FF>贯穿电击弹</COL>　雷属性贯穿弹<BR/><COL 008000FF>贯穿冰结弹</COL>　冰属性贯穿弹
+<COL 008000FF>碎石弹</COL>　　　没有突出的性能，但内藏量多的弹药<BR/><COL 008000FF>连爆榴弹</COL>　　命中点会发生3次爆炸<BR/><COL 008000FF>榴散弹</COL>　　　命中点会发生和散弹相同效果<BR/><COL 008000FF>烈光弹</COL>　　　高速发射光弹<BR/><COL 008000FF>毒烟弹</COL>　　　命中时，散发毒烟<BR/><COL 008000FF>鬼人弹</COL>　　　提升中弹者攻击力的弹药<BR/><COL 008000FF>鬼人会心弹</COL>　鬼人弹的上位版本　也会提升会心率<BR/><COL 008000FF>硬化弹</COL>　　　提升中弹者的防御力<BR/><COL 008000FF>硬化强韧弹</COL>　硬化弹的上位版本　赋予硬直无效
+<COL 008000FF>闪光弹</COL>　　　和闪光球拥有相同效果的弹药<BR/><COL 008000FF>异臭弹</COL>　　　和异臭球拥有相同效果<BR/><COL 008000FF>治愈活力弹</COL>　能回复状态异常，提升自然回复力<BR/><COL 008000FF>广域回复弹</COL>　回复领域内友方全员的回复弹<BR/><COL 008000FF>鬼人硬化弹</COL>　同时拥有鬼人弹和硬化弹的效果<BR/><BR/><COL FF0000FF>【奇异炼金桶所制成的特殊弹】</COL><BR/><COL 008000FF>炼金狩技弹</COL>　容易累积狩技槽的弹药<BR/>　　　　　　所有弩炮都可以装
+<SIZE 28><COL E6E6E6FF><ICON PAD_L></COL></SIZE>+<SIZE 28><COL E6E6E6FF><ICON PAD_Y></COL></SIZE>/<SIZE 28><COL E6E6E6FF><ICON PAD_A></COL></SIZE>
+闪避后<SIZE 28><COL E6E6E6FF><ICON ANALOG></COL></SIZE>
+横挥
+回力标
+选择支援行动
+发动支援行动
+格挡
+闪避
+拔刀冲刺
+收刀
+钻地（仅限收刀时）
+踏步爪
+飞扑爪
+后翻闪避
+<COL 008000FF>【支援槽】</COL><BR/>･攻击或采集等行动，能<COL FF0000FF>增加槽</COL><BR/>･发动支援行动，会<COL FF0000FF>消耗槽</COL><BR/>･支援行动根据招式不同，<COL FF0000FF>所需的槽量不同</COL><BR/><COL 008000FF>【愤怒】</COL><BR/>･受到一定程度以上的伤害，会变成<COL FF0000FF>愤怒状态</COL><BR/>･也可能变成<COL FF0000FF>愤怒狂舞</COL><BR/>･<COL FF0000FF>容易增加</COL>支援槽<BR/>･会心率提升，<COL FF0000FF>受伤减弱</COL>
+<COL 008000FF>【倾向专属动作其一】</COL><BR/>･根据支援倾向，能够有特殊动作<BR/>･领袖：随从鼓舞之技强化时，<BR/>　　　　最初的闪避将变成<COL FF0000FF>空中闪避</COL><BR/>･战斗：处于愤怒状态时，<BR/>　　　　最初的闪避将变成<COL FF0000FF>空中闪避</COL><BR/>･格挡：能使出<COL FF0000FF>精准格挡</COL><BR/>･协助：回力标（第2击）后<BR/>　　　　接着使出<COL FF0000FF>回力标（第3击）</COL>
+<COL 008000FF>【倾向专属动作其二】</COL><BR/>･回复：　发动笛系的支援行动后，<BR/>　　　　　能接着发动<COL FF0000FF>回声回复笛之技</COL><BR/>　　　　　或是和<COL FF0000FF>回力标（第3击）</COL>连段<BR/>･爆破手：能够变成<COL FF0000FF>精准闪避</COL><BR/>･收集：　回力标（第2击）后<BR/>　　　　　接着使出<COL FF0000FF>回力标（第3击）</COL><BR/>･野兽：　根据支援行动、<COL FF0000FF>野兽变身之技</COL><BR/>　　　　　能变成<COL FF0000FF>野兽状态</COL>
+<COL 008000FF>【野兽状态】</COL><BR/>･将武器更改为<COL FF0000FF>野兽爪</COL>，<COL FF0000FF>攻击会产生变化</COL><BR/>･野兽爪会继承原本装备的武器的攻击系统<BR/>　和属性值等<COL FF0000FF>武器性能</COL><BR/>･利爪终结每次命中时，<BR/>　猎喵最多能<COL FF0000FF>强化</COL>到3阶段为止<BR/>･在<COL FF0000FF>最大强化</COL>状态下利爪终结命中时，<BR/>　能使出<COL FF0000FF>烈･利爪终结</COL>来追击<BR/>･愤怒状态中，能使出<COL FF0000FF>野兽大风车</COL>
+【基本连段】
+【瞄准位置较高部位的连段】
+【攻击后拉远距离的连段】
+【回力标时拉近距离的连段】
+【愤怒状态的连段】
+【搭配利爪终结的连段】
+横挥
+回旋斩
+回力标连击
+敲打
+升喵一击
+猫咪大风车
+回力标
+回力标<BR/>（第2击）
+飞踏突刺
+愤怒狂舞
+愤怒狂舞<BR/>（连击）
+愤怒狂舞<BR/>终结
+拔刀冲刺
+三连爪攻击
+空翻<BR/>爪攻击
+回旋爪突击
+利爪终结
+侧面闪避<BR/>（左右方向）
+野兽<BR/>大风车
+<COL 008000FF>【强演奏攻击：英勇状态】</COL><BR/>･英勇状态中收刀持续和垫步时，<BR/>　能使出<COL FF0000FF>强演奏攻击</COL><BR/>　并且能够<COL FF0000FF>重复演奏</COL>
+==========string end==========

@@ -1,0 +1,157 @@
+==========identifier start==========
+title
+top_01
+top_02
+top_help_01
+top_help_02
+top_help_03
+top_help_04
+top_help_05
+item_help_03
+begin_renkin
+renkin_end
+item_help_09
+item_help_07
+item_help_08
+item_card_01
+item_card_02
+item_card_03
+other_01
+other_02
+other_03
+other_04
+other_05
+renkin
+renkin_00
+renkin_01
+renkin_02
+renkin_03
+reserve_possible
+receive_XXday_after
+selected_amulet
+renkin_complete
+renkin_progress
+renkin_request
+renkin_new_order
+receive_XXday_after1
+receive_XXday_after2
+renkin_nokori
+XX_kai
+renkin_help_00
+renkin_help_01
+renkin_help_02
+renkin_exp_00
+renkin_exp_01
+renkin_exp_02
+renkin_exp_03
+sort_name
+list_help_00
+list_help_01
+list_help_02
+list_help_03
+list_help_05
+list_help_04
+renkin_confirm
+reserve_complete
+kantei_box
+kantei_00
+kantei_01
+kantei_02
+kantei_help_00
+kantei_help_01
+kantei_help_02
+kantei_help_03
+kantei_help_04
+kantei_help_05
+other_06
+other_07
+other_08
+other_09
+other_10
+other_11
+other_12
+renkin_04
+renkin_05
+renkin_exp_04
+renkin_exp_05
+list_help_06
+==========identifier end==========
+
+==========string start==========
+奇异炼金仓库
+护石炼金
+收取护石
+将持有的护石<BR/>制作成新的护石。
+可以收取已完成炼金的护石。
+将持有的护石<BR/>制作成新的护石。<BR/><COL FF0000FF>（请收取护石）</COL>
+将持有的护石<BR/>制作成新的护石。<BR/><COL FF0000FF>（预约已满）</COL>
+可以收取已炼金完成的护石。<BR/><COL FF0000FF>（没有可收取的护石）</COL>
+炼金成功。
+开始炼金
+炼金结果
+停止炼金。
+停止炼金。<BR/><COL FF0000FF>（炼金素材不足）</COL>
+停止炼金。<BR/><COL FF0000FF>（道具箱已满）</COL>
+狞猛化狩猎之证Ⅰ
+狞猛化狩猎之证Ⅱ
+狞猛化狩猎之证Ⅲ
+请选择炼金术。<BR/><COL FF0000FF>（必须使用狞猛化狩猎之证才能进行）</COL>
+请选择炼金术。<BR/><COL FF0000FF>（龙历院点数不足）</COL>
+剩余1次
+剩余2次
+剩余3次
+炼金术
+谜之炼金术
+光明炼金术
+古代炼金术
+天运炼金术
+可以预约
+收取：%d天之后
+所选择的护石
+炼金完成
+炼金中
+已委托
+新委托
+预定下次炼金
+预定下下次炼金
+剩余预约次数
+%d次
+请选择炼金术。<BR/><COL FFFF50FF>（必须使用龙历院点数才能进行）</COL>
+请选择炼金术。<BR/><COL FF0000FF>（并未持有炼金所需的护石）</COL>
+请选择炼金术。<BR/><COL FF0000FF>（炼金的所需素材不足）</COL>
+消耗3个士兵･斗士护石，<BR/>炼金成1个谜之护符。
+消耗3个骑士･城塞护石，<BR/>炼金成1个发光护符。
+消耗3个女王･王･龙之护石，<BR/>炼金成1个陈旧护符。
+消耗3个特定种类的护石。<BR/>炼金成随机内容与数量的护符。
+可以使用
+请选择用于炼金的3个护石。
+请选择用于炼金的3个护石。<BR/><COL FF0000FF>（无法使用装备中的护石）</COL>
+请选择用于炼金的3个护石。<BR/><COL FF0000FF>（该护石无法使用）</COL>
+请选择用于炼金的3个护石。<BR/><COL FF0000FF>（卸除所选择的护石）</COL>
+请选择用于炼金的3个护石。<BR/><COL FF0000FF>（包含它的个人组合装备将被解除）</COL>
+<COL FF0000FF>（道具箱已满，<BR/>无法将装饰品送往道具箱）</COL>
+使用以上的内容进行护石炼金。<BR/>是否确定？
+已完成炼金的委托。
+鉴定箱
+鉴定
+送往道具箱
+结束
+鉴定未鉴定的道具。
+鉴定中。
+将装备送往道具箱。
+出售后结束。
+请选择想要送往道具箱的装备。
+请选择想要送往道具箱的装备。<BR/><COL FF0000FF>（道具箱已满）</COL>
+护石
+售价
+装备箱的空位
+支付龙历院点数%d点。<BR/>是否确定？
+<COL FF0000FF>龙历院点数不足。</COL>
+共计%d z。<BR/>是否出售？
+结束收取。
+传承炼金术
+不可思议炼金术
+消耗3个英雄･传说･天之护石，<BR/>炼金成1个风化护符。
+消耗3个特定种类的护石，<BR/>炼金成数个陈旧护符与<BR/>风化护符。
+请选择想要使用的3个护石。<BR/><COL FF0000FF>（装饰品将会送往道具箱）</COL>
+==========string end==========

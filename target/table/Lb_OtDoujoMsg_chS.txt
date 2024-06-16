@@ -1,0 +1,263 @@
+==========identifier start==========
+Denju
+Syugyou
+SupportActionDenju
+OtSkillDenju
+Forget
+SpTraining
+SpRest
+TargetChange
+SpMusya
+SyugyouStop
+DenjuMemberInfo
+Shihan
+DenjuContent
+Deshi_1
+Deshi_2
+Deshi_3
+DenjuList
+SyutokuList
+SyugyouMemberInfo
+SpTrainingPrepare
+SyugyouMember
+SyugyouTimes
+SpTrainingStart
+DenjuStop
+ShihanSelect
+DeshiSelect
+Result_Denju
+Result_Syugyou
+NowDenju
+NowSyugyou
+Complete
+NowBoost
+Denju_Help_001
+SupportActionDenju_Help_001
+SupportActionDenju_Help_002
+SupportActionDenju_Error_001
+SupportActionDenju_Error_002
+SupportActionDenju_Help_003
+SupportActionDenju_Error_003
+SupportActionDenju_Error_004
+SupportActionDenju_Error_005
+SupportActionDenju_Help_004
+SupportActionDenju_Error_006
+SupportActionDenju_Error_007
+SupportActionDenju_Error_008
+SupportActionDenju_Help_005
+SupportActionDenju_Help_006
+OtSkillDenju_Help_001
+OtSkillDenju_Help_002
+OtSkillDenju_Error_001
+OtSkillDenju_Error_002
+OtSkillDenju_Help_003
+OtSkillDenju_Error_003
+OtSkillDenju_Error_004
+OtSkillDenju_Help_004
+OtSkillDenju_Error_005
+OtSkillDenju_Error_006
+OtSkillDenju_Error_007
+OtSkillDenju_Help_005
+OtSkillDenju_Help_006
+Forget_Help_001
+Forget_Help_002
+Forget_Error_001
+Forget_Error_002
+Forget_Help_003
+Forget_Help_004
+Syugyou_Help_001
+SpTraining_Help_001
+SpTraining_Error_001
+SpTraining_Help_002
+SpTraining_Error_002
+SpTraining_Error_003
+SpTraining_Help_003
+SpTraining_Error_004
+SpTraining_Error_005
+SpTraining_Error_006
+SpTraining_Help_004
+SpTraining_Help_005
+SpTraining_Help_006
+SpRest_Help_001
+SpRest_Error_001
+SpRest_Help_002
+SpRest_Error_002
+SpRest_Error_003
+SpRest_Help_003
+TargetChange_Help_001
+TargetChange_Error_001
+TargetChange_Help_002
+TargetChange_Error_002
+TargetChange_Error_003
+TargetChange_Help_003
+TargetChange_Error_004
+TargetChange_Help_004
+SyugyouStop_Help_001
+SyugyouStop_Error_001
+SyugyouStop_Help_002
+SyugyouStop_Help_003
+OtRelease_Help
+Denju_Error_001
+Denju_Error_002
+Syugyou_Error_001
+Syugyou_Error_002
+Denju_Help_002
+Denju_Help_003
+Denju_Help_004
+Syugyou_Help_002
+SpTraining_Help_007
+SpMusyaPrepare
+SpMusyaType
+SpMusyaNext
+SpMusya_Help_001
+SpMusya_Help_001_b
+SpMusya_Help_002
+SpMusya_Help_002_a
+SpMusya_Help_002_b
+SpMusya_Help_003
+SpMusya_Help_004
+SpMusya_Help_005
+SpMusya_Help_005_b
+SpMusya_Help_006
+SpMusya_Help_006_b
+SpMusya_Help_007
+SpMusya_Help_008
+SpMusya_Help_008_b
+SpMusya_Help_009
+SpMusya_Help_010
+SpMusya_Help_002_c
+SupportActionDenju_Help_007
+SupportActionDenju_Error_009
+==========identifier end==========
+
+==========string start==========
+传授
+修行
+传授支援行动
+传授随从技能
+遗忘
+超特训
+超休息
+更改目标
+更改支援･技能
+停止修行
+传授成员信息
+师傅
+传授内容
+弟子1
+弟子2
+弟子3
+传授一览
+习得一览
+修行成员信息
+超特训的准备
+修行成员
+修行次数
+开始超特训
+停止传授
+选择师傅
+选择弟子
+传授结果
+修行结果
+传授中
+修行中
+完成
+效果提升！
+使其他随从学会<BR/>支援行动或随从技能。
+使其他随从学会<BR/>已习得的支援行动。
+请选择已习得<BR/>需传授的支援行动的随从。
+请选择已习得<BR/>需传授的支援行动的随从。<BR/><COL FF0000FF>（随从选用中无法选择）</COL>
+请选择已习得<BR/>需传授的支援行动的随从。<BR/><COL FFFF50FF>（该随从选用中）</COL>
+请选择想要传授的支援行动。
+请选择想要传授的支援行动。<BR/><COL FF0000FF>（无法传授未习得的行动）</COL>
+请选择想要传授的支援行动。<BR/><COL FF0000FF>（持有点数不足）</COL>
+请选择想要传授的支援行动。<BR/><COL FF0000FF>（无法传授特有的行动）</COL>
+请选择需要传授支援行动的随从。
+请选择需要传授支援行动的随从。<BR/><COL FF0000FF>（随从选用中无法选择）</COL>
+请选择需要传授支援行动的随从。<BR/><COL FFFF50FF>（该随从选用中）</COL>
+请选择需要传授支援行动的随从。<BR/><COL FF0000FF>（该随从已习得）</COL>
+选择中的传授格并非空栏。<BR/>是否覆盖？
+需要%d点点数。<BR/>是否开始传授？
+使其他随从记住<BR/>已习得的随从技能。
+请选择已习得用于传授的<BR/>随从技能的随从。
+请选择已习得用于传授的<BR/>随从技能的随从。<BR/><COL FF0000FF>（随从选用中无法选择）</COL>
+请选择已习得用于传授的<BR/>随从技能的随从。<BR/><COL FFFF50FF>（该随从选用中）</COL>
+请选择想要传授的随从技能。
+请选择想要传授的随从技能。<BR/><COL FF0000FF>（无法传授未习得的技能）</COL>
+请选择想要传授的随从技能。<BR/><COL FF0000FF>（持有点数不足）</COL>
+请选择需要传授随从技能的随从。
+请选择需要传授随从技能的随从。<BR/><COL FF0000FF>（随从选用中无法选择）</COL>
+请选择需要传授随从技能的随从。<BR/><COL FFFF50FF>（该随从选用中）</COL>
+请选择需要传授随从技能的随从。<BR/><COL FF0000FF>（该随从已习得）</COL>
+选择中的传授格并非空栏。<BR/>是否覆盖？
+需要%d点点数。<BR/>是否开始传授？
+使随从遗忘在传授中学到的<BR/>支援行动或随从技能。
+请选择需要进行遗忘的随从。
+请选择需要进行遗忘的随从。<BR/><COL FF0000FF>（无法选择正在使用的随从）</COL>
+请选择需要进行遗忘的随从。<BR/><COL FF0000FF>（没有可遗忘的行动或技能）</COL>
+请选择想要让它遗忘的<BR/>行动或技能。
+是否让它遗忘？
+通过一套精心安排的流程，<BR/>加快随从的成长与回复速度。
+在道场内进行特别的训练，<BR/>能获得更多经验值。
+在道场内进行特别的训练，<BR/>能获得更多经验值。<BR/><COL FF0000FF>（道场无空位）</COL>
+请选择要进行超特训的随从。
+请选择要进行超特训的随从。<BR/><COL FF0000FF>（随从选用中无法选择）</COL>
+请选择要进行超特训的随从。<BR/><COL FFFF50FF>（该随从选用中）</COL>
+请选择修行次数。<BR/><COL FFFF50FF>（上限次数由随从的情绪决定）</COL>
+请选择修行次数。<BR/><COL FF0000FF>（随从的情绪不够好）</COL>
+请选择修行次数。<BR/><COL FF0000FF>（持有点数不足）</COL>
+请选择修行次数。<BR/><COL FF0000FF>（随从的情绪不够好）<BR/>（持有点数不足）</COL>
+使用道具后，<BR/>能获得更多的经验值。
+开始进行已登记的修练内容。
+需要%d点点数。<BR/>是否开始修行？
+在道场内进行特别的休息，<BR/>能大大回复随从的情绪。
+在道场内进行特别的休息，<BR/>能大大回复随从的情绪。<BR/><COL FF0000FF>（道场无空位）</COL>
+请选择进行超休息的随从。
+请选择进行超休息的随从。<BR/><COL FF0000FF>（随从选用中无法选择）</COL>
+请选择进行超休息的随从。<BR/><COL FFFF50FF>（该随从选用中）</COL>
+是否开始修行？
+可以更改随从<BR/>攻击怪物的倾向。
+可以更改随从<BR/>攻击怪物的倾向。<BR/><COL FF0000FF>（道场无空位）</COL>
+请选择想要使之更改目标的随从。
+请选择想要使之更改目标的随从。<BR/><COL FF0000FF>（随从选用中无法选择）</COL>
+请选择想要使之更改目标的随从。<BR/><COL FFFF50FF>（该随从选用中）</COL>
+请选择目标。
+请选择目标。<BR/><COL FF0000FF>（这是当前的目标）</COL>
+是否开始修行？
+停止正在进行的修行。
+停止正在进行的修行。<BR/><COL FF0000FF>（无修行中的随从）</COL>
+请选择想要停止其修行的随从。
+是否停止修行？<BR/><COL FF0000FF>（不会归还已使用的道具）</COL>
+解除正在使用中的随从。<BR/>确认继续吗？
+使其他随从学会<BR/>支援行动或随从技能。<BR/><COL FF0000FF>（修行中无法进行传授）</COL>
+使其他随从学会<BR/>支援行动或随从技能。<BR/><COL FF0000FF>（设施尚未开放）</COL>
+通过一套精心安排的流程，<BR/>加快随从的成长与回复速度。<BR/><COL FF0000FF>（传授中无法修行）</COL>
+通过一套精心安排的流程，<BR/>加快随从的成长与回复速度。<BR/><COL FF0000FF>（设施尚未开放）</COL>
+停止进行中的传授。
+是否停止传授？
+传授已完成。
+修行已完成。<BR/><COL FFFF50FF>（尚未完成的修行将会继续）</COL>
+开始进行已登记的修练内容。<BR/><COL FF0000FF>（持有点数不足）</COL>
+可重拾项目一览
+项目
+移动至详细信息
+进行修行，重拾曾学会的<BR/>支援行动或随从技能。
+进行修行，重拾曾学会的<BR/>支援行动或随从技能。<BR/><COL FF0000FF>（道场无空位）</COL>
+请选择想要修行的随从。
+请选择想要修行的随从。<BR/><COL FF0000FF>（随从选用中无法选择）</COL>
+请选择想要修行的随从。<BR/><COL FFFF50FF>（该随从选用中）</COL>
+请选择想要修行的项目。
+使用道具后，<BR/>就可以选择重拾的内容。
+选择详细内容。
+选择详细内容。<BR/><COL FF0000FF>（持有点数不足）</COL>
+请选择想要重拾的支援行动。
+请选择想要重拾的支援行动。<BR/><COL FF0000FF>无法选择该支援行动</COL>
+请选择想要令它<BR/>学会的支援行动。
+请选择想要重拾的随从技能。
+请选择想要重拾的随从技能。<BR/><COL FF0000FF>无法选择该随从技能</COL>
+请选择想要令它<BR/>学会的随从技能。
+修行准备
+请选择想要修行的随从。<BR/><COL FF0000FF>（无法选择该随从）</COL>
+请选择传授格。
+请选择传授格。<BR/><COL FFFF50FF>（该传授格已有技能）</COL>
+==========string end==========

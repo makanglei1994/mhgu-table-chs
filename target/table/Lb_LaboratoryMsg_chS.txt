@@ -1,0 +1,163 @@
+==========identifier start==========
+Labo_Top_Sd
+Labo_Top_Cc
+Labo_Top_Lr
+Labo_001
+Labo_002
+Labo_003
+Labo_Sd_Top_Dem
+Labo_Sd_Top_DemNo
+Labo_Sd_Dem_IW
+Labo_Sd_Dem_LW
+Labo_Sd_001
+Labo_Sd_002
+Labo_Sd_003
+Labo_Sd_004
+Labo_Sd_005
+Labo_Sd_Dem_001
+Labo_Sd_Dem_002
+Labo_Sd_Dem_003
+Labo_Sd_Dem_004
+cc_menu_head_h_reg
+cc_menu_head_h_lift
+cc_menu_head_o_reg
+cc_menu_head_o_lift
+cc_base
+cc_base_error_00
+cc_base_error_01
+cc_base_error_02
+cc_base_error_03
+cc_base_error_04
+cc_base_sup
+cc_vis
+cc_vis_error_00
+cc_vis_error_01
+cc_vis_error_02
+cc_vis_error_03
+cc_vis_error_04
+cc_vis_error_05
+cc_vis_error_06
+cc_vis_error_07
+cc_vis_sup_00
+cc_vis_sup_01
+cc_vis_sup_02
+cc_vis_sup_03
+cc_mix_00
+cc_mix_01
+cc_mix_02
+cc_mix_03
+cc_mix_error_00
+cc_mix_error_01
+cc_mix_error_02
+cc_otomo_base_00
+cc_otomo_base_01
+cc_otomo_vis_00
+cc_otomo_vis_01
+Rr_submenu_mes_01
+Rr_submenu_mes_02
+Rr_select_01
+Rr_select_02
+Rr_select_04
+Rr_select_Confirm
+Rr_select_Exe
+cc_lift
+cc_lift_error_00
+cc_otomo_lift_error_00
+cc_lift_conf
+cc_lift_result
+cc_otomo_lift_result
+cc_vis_error_08
+cc_base_sup_01
+cc_base_sup_02
+cc_vis_sup_04
+cc_vis_sup_05
+Labo_Sd_006
+cc_menu_down_00
+cc_menu_down_01
+cc_menu_down_02
+cc_menu_down_03
+cc_vis_error_09
+Rr_select_05
+==========identifier end==========
+
+==========string start==========
+道具补给队
+防具合成
+扩展研究室
+将道具运送给任务中的猎人。
+合成防具以更改防具外观。
+通过进行新的研究<BR/>强化研究室、扩展功能。
+申请补给
+放弃申请补给
+发送中的道具包
+补给道具包
+申请补给道具包。
+取消已申请的补给道具包。<BR/><COL FFFF50FF>（取消申请后<BR/>会归还已支付的龙历院点数）</COL>
+取消已申请的补给道具包。<BR/><COL FF0000FF>（尚未申请，无法选择）</COL>
+取消已申请的补给道具包。<BR/>是否确定？
+已取消所申请的补给道具包。
+请选择想要申请的补给道具包。
+请选择想要申请的补给道具包。<BR/><COL FF0000FF>（点数不足无法选择）</COL>
+申请补给道具包。<BR/>是否确定？
+已申请补给道具包。
+进行防具合成
+解除合成的防具
+合成随从防具
+解除合成的随从防具
+请选择作为基础的防具。
+请选择作为基础的防具。<BR/><COL FF0000FF>（无法选择武器）</COL>
+请选择作为基础的防具。<BR/><COL FF0000FF>（无法选择护石）</COL>
+请选择作为基础的防具。<BR/><COL FF0000FF>（部分联动装备无法合成）</COL>
+请选择作为基础的防具。<BR/><COL FF0000FF>（此装备尚未开放合成。<BR/>满足条件后便能在研究室开放）</COL>
+请选择作为基础的防具。<BR/><COL FF0000FF>（无法选择已合成的装备）</COL>
+请选择作为基础的防具。<BR/><COL FF0000FF>（猎人类型不同）</COL>
+请选择作为外观的防具。
+请选择作为外观的防具。<BR/><COL FF0000FF>（无法选择武器）</COL>
+请选择作为外观的防具。<BR/><COL FF0000FF>（无法选择护石）</COL>
+请选择作为外观的防具。<BR/><COL FF0000FF>（部分联动装备无法合成）</COL>
+请选择作为外观的防具。<BR/><COL FF0000FF>（此装备尚未开放合成。<BR/>满足条件后便能在研究室开放）</COL>
+请选择作为外观的防具。<BR/><COL FF0000FF>（无法选择与效果防具<BR/>不同猎人类型的装备）</COL>
+请选择作为外观的防具。<BR/><COL FF0000FF>（无法选择效果防具）</COL>
+请选择作为外观的防具。<BR/><COL FF0000FF>（无法选择<BR/>与效果防具同种类的装备）</COL>
+请选择作为外观的防具。<BR/><COL FF0000FF>（道具箱已满。<BR/>无法卸除装饰品）</COL>
+请选择作为外观的防具。<BR/><COL FF0000FF>（猎人类型不同）</COL>
+请选择作为外观的防具。<BR/><COL FF0000FF>（装备中的装饰品将被卸除。<BR/>包含它的个人组合装备将被解除）</COL>
+请选择作为外观的防具。<BR/><COL FF0000FF>（包含它的个人组合装备将被解除）</COL>
+请选择作为外观的防具。<BR/><COL FF0000FF>（装备中的装饰品将被卸除）</COL>
+需要防具合成材料%2d个与%2dz。<BR/>是否确定？
+当前的猎人类型无法装备。<BR/>是否确定？
+是否直接装备？
+装备已送往装备箱。
+<COL FF0000FF>防具合成材料与持有金额不足。<BR/>需要防具合成材料%2d个与%2dz。</COL>
+<COL FF0000FF>防具合成材料不足。<BR/>需要防具合成材料%2d个与%2dz。</COL>
+<COL FF0000FF>持有金额不足。<BR/>需要防具合成材料%2d个与%2dz。</COL>
+请选择作为基础的防具。<BR/><COL FF0000FF>（选择中的随从正在装备）</COL>
+请选择作为基础的防具。<BR/><COL FF0000FF>（其他随从正在装备）</COL>
+请选择作为外观的防具。<BR/><COL FF0000FF>（选择中的随从正在装备）</COL>
+请选择作为外观的防具。<BR/><COL FF0000FF>（其他随从正在装备）</COL>
+扩展费用
+龙历院点数
+请选择要扩展的内容。
+请选择要扩展的内容。<BR/><COL FF0000FF>（龙历院点数或素材不足）</COL>
+请选择要扩展的内容。<BR/><COL FF0000FF>（此功能目前无法扩展）</COL>
+将扩展研究室。<BR/>是否确定？
+研究室已扩展。
+请选择想要解除的防具。
+请选择想要解除的防具。<BR/><COL FF0000FF>（装备箱已满。<BR/>无法解除合成防具）</COL>
+请选择想要解除的防具。<BR/><COL FF0000FF>（随从装备箱已满。<BR/>无法解除合成防具）</COL>
+解除合成防具。<BR/>是否确定？
+解除合成的防具<BR/>已送往装备箱。
+解除合成的防具<BR/>已送往随从装备箱。
+请选择作为外观的防具。<BR/><COL FF0000FF>（无法选择已合成的防具）</COL>
+请选择作为基础的防具。<BR/><COL FF0000FF>（其他随从正在装备）</COL>
+请选择作为基础的防具。<BR/><COL FF0000FF>（选择中的随从正在装备）</COL>
+请选择作为外观的防具。<BR/><COL FF0000FF>（其他随从正在装备）</COL>
+请选择作为外观的防具。<BR/><COL FF0000FF>（选择中的随从正在装备）</COL>
+申请补给道具包。<BR/><COL FF0000FF>（已申请完毕）</COL>
+合成2个防具，<BR/>更改防具外观。
+解除合成防具，<BR/>分离成2个防具。
+合成2个随从防具，<BR/>更改防具外观。
+解除随从的合成防具，<BR/>分离成2个防具。
+请选择作为外观的防具。<BR/><COL FF0000FF>（无法选择与效果防具<BR/>不同部位的装备）</COL>
+请选择想要扩展的内容。<BR/><COL FF0000FF>（已扩展完毕）</COL>
+==========string end==========

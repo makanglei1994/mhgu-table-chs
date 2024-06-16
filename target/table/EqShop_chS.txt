@@ -1,0 +1,71 @@
+==========identifier start==========
+Sign
+TopMenu_WeaponBuy
+TopMenu_ArmorBuy
+TopMenu_Sell
+Index_Type
+Index_swordsman
+Index_Gunner
+WeaponBuy_01
+WeaponBuy_02
+WeaponBuy_03
+WeaponBuy_Error01
+WeaponBuy_Error02
+BuyCheck
+WearCheck
+WearCheck_Error01
+WearCheck_Error02
+TeqCheck
+NoWear
+TypeCheck
+ArmorBuy_01
+ArmorBuy_02
+ArmorBuy_03
+ArmorBuy__Error01
+ArmorBuy__Error02
+Sell_01
+Sell_02
+Sell_03
+SortCheck
+SellCheck
+SellCheck_Error
+Cat_Error
+WearCheck_Error03
+Sell_04
+==========identifier end==========
+
+==========string start==========
+武具店
+买武器
+买防具
+出售
+现在的类型
+剑士
+枪手
+购买武器。
+请选择武器的种类。
+请选择要购买的武器。
+请选择要购买的武器。<BR/><COL FF0000FF>（持有金额不足）</COL>
+请选择要购买的武器。<BR/><COL FF0000FF>（装备箱已满）</COL>
+共计%d z。<BR/>是否确定？
+是否直接装备？
+是否直接装备？<BR/><COL FF0000FF>（更改武器可能会移除防具或狩技）</COL>
+是否直接装备？<BR/><COL FF0000FF>（部分狩技可能因更改武器而无法使用）</COL>
+部分狩技将无法使用，<BR/>是否确定？
+已将装备送往装备箱。
+当前的猎人类型无法装备。<BR/>是否确定？
+购买防具。
+请选择防具的种类。
+请选择要购买的防具
+请选择要购买的防具<BR/><COL FF0000FF>（持有金额不足）</COL>
+请选择要购买的防具<BR/><COL FF0000FF>（装备箱已满）</COL>
+出售装备。
+请选择要出售的装备。
+请选择要出售的装备。<BR/><COL FF0000FF>（无法出售使用中的装备）</COL>
+排序装备。<BR/>是否确定？
+共计%d z。<BR/>是否确定？
+<COL FF0000FF>包含装饰品</COL>共计%d z。<BR/>是否确定？
+<COL FF0000FF>猎喵无法使用此装备。<BR/>是否送往装备箱？</COL>
+是否直接装备？<BR/><COL FF0000FF>（更改武器可能会移除防具或狩技）</COL>
+请选择要出售的装备。<BR/><COL FF0000FF>（合成防具无法出售）</COL>
+==========string end==========

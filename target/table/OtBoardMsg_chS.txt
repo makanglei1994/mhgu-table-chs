@@ -1,0 +1,267 @@
+==========identifier start==========
+OtBoard
+OtSelect
+TrainingMemberSelect
+Hunter_NyanterChange
+ModeChange
+NyanterSelect
+InnerChange
+OtomoInfo
+EqOtInfo
+OtEqMyset
+TrainingMemberInfo
+SupportActionManagement
+OtSkillManagement
+DismissalOtomoSelect
+MysetContent
+OtEqBox
+Hunter_NyanterChange_Help_001
+Hunter_NyanterChange_Error_001
+ModeChange_Help_001
+ModeChange_Help_002
+NyanterSelect_Help_001
+NyanterSelect_Help_002
+NyanterSelect_Error_001
+NyanterSelect_Error_002
+NyanterSelect_Help_003
+OtSelect_Help_001
+OtSelect_Error_001
+OtSelect_Help_002
+OtSelect_Error_002
+OtSelect_Error_003
+OtSelect_Error_004
+SupportAction_Help_001
+SupportAction_Error_001
+SupportAction_Help_002
+SupportAction_Error_002
+SupportAction_Help_003
+SupportAction_Error_003
+SupportAction_Help_004
+SupportAction_Help_005
+SupportAction_Error_004
+SupportAction_Help_006
+SupportAction_Error_005
+SupportAction_Help_007
+OtSkill_Help_001
+OtSkill_Error_001
+OtSkill_Help_002
+OtSkill_Error_002
+OtSkill_Help_003
+OtSkill_Error_003
+OtSkill_Error_004
+EqChange_Sale_Help_001
+EqChange_Sale_Error_001
+EqSelect_Help_001
+EqSelect_Help_002
+EqSelect_Error_001
+EqSelect_Help_003
+EqSelect_Error_002
+EqSelect_Error_003
+EqSelect_Error_004
+Replacement_Help_001
+Replacement_Help_002
+EqSale_Help_001
+EqSale_Help_002
+EqSale_Error_001
+EqSale_Help_003
+InnerChange_Help_001
+InnerChange_Help_002
+InnerChange_Help_003
+InnerChange_Help_004
+EqMySet_Help_001
+EqMySet_Error_001
+MySetSelect_Help_001
+MySetSelect_Error_001
+MySetSelect_Help_002
+MySetSelect_Error_002
+MySetSelect_Help_003
+MySetSelect_Error_003
+MySetSelect_Help_004
+MySetSelect_Help_005
+MySetEntry_Help_001
+MySetEntry_Help_002
+MySetEntry_Help_003
+MySetEntry_Help_004
+MySetMove_Help_001
+MySetMove_Error_001
+MySetMove_Help_002
+MySetRelease_Help_001
+MySetRelease_Error_001
+MySetRelease_Help_002
+MySetRelease_Error_002
+MySetRelease_Help_003
+TrainingMemberSelect_Help_001
+TrainingMemberSelect_Error_001
+TrainingMemberSelect_Help_002
+TrainingMemberSelect_Error_002
+TrainingMemberSelect_Error_003
+OtDismissal_Help_001
+OtDismissal_Error_001
+OtDismissal_Help_002
+OtDismissal_Error_002
+OtDismissal_Error_003
+OtDismissal_Error_004
+OtDismissal_Help_003
+OtDismissal_Help_004
+OtRelease_Help
+OtEqBoxSort_Help
+OtSkill_Error_005
+TrainingMemberSelect_Error_004
+MySetEntry_Error_001
+TrainingMemberSelect_Error_005
+OtSortMsg_Help_001
+OtSortMsg_Help_002
+OtSortMsg_Help_003
+OtSortMsg_Help_004
+OtSortMsg_Help_005
+OtSortMsg_Help_006
+OtSortMsg_Help_007
+OtSortMsg_Error_001
+OtSortMsg_Error_002
+OtSortMsg_Error_003
+SortieState
+OtRelease_Help_002
+OtSkill_Help_004
+OtEquip_ColorChange_Help
+Equip_ColorChange
+MySetColorChange_Help
+MySetColorChange_Help_002
+EqSale_Error_002
+OtEquip_ColorChange_Help0
+OtEquip_ColorChange_Help02
+ColorPalette_OtBoard_HD
+==========identifier end==========
+
+==========string start==========
+随从看板
+选择随从
+选择特训队员
+切换猎人/猎喵
+切换模式
+选择猎喵
+更改内衬
+随从艾露猫信息
+装备中随从信息
+随从装备个人组合
+特训队员信息
+支援行动管理
+随从技能管理
+选择要解雇的随从
+个人组合内容
+随从装备箱
+切换操作模式或选择猎喵。
+切换操作模式或选择猎喵。<BR/><COL FF0000FF>（没有雇用中的随从）</COL>
+切换玩家的猎人模式和猎喵模式。
+是否切换操作模式？
+选择猎喵模式下操作的随从。
+选择猎喵模式下操作的随从。
+选择猎喵模式下操作的随从。<BR/><COL FF0000FF>（正在使用中，无法选择）</COL>
+选择猎喵模式下操作的随从。<BR/><COL FFFF50FF>（正在使用中的随从）</COL>
+将无法切换模式。<BR/>是否确定？
+选择带去进行任务的随从。
+选择带去进行任务的随从。<BR/><COL FF0000FF>（没有雇用中的随从）</COL>
+请选择随从。<BR/><COL FFFF50FF>（线上游戏时只能带上随从1）</COL>
+请选择随从。<BR/><COL FF0000FF>（正在使用中，无法选择）</COL>
+请选择随从。<BR/><COL FFFF50FF>（正在使用中的随从）</COL>
+请选择随从。<BR/><COL FFFF50FF>（解除已登记的随从）</COL>
+更改随从已装备的支援行动。
+更改随从已装备的支援行动。<BR/><COL FF0000FF>（没有雇用中的随从）</COL>
+管理支援行动。
+管理支援行动。<BR/><COL FF0000FF>（正在使用中，无法选择）</COL>
+请选择要更改的支援行动。
+请选择要更改的支援行动。<BR/><COL FF0000FF>（无法解除固有的行动）</COL>
+是否排序？
+请选择要装备的支援行动。
+请选择要装备的支援行动。<BR/><COL FFFF50FF>（解除支援行动）</COL>
+请选择要装备的支援行动。<BR/><COL FFFF50FF>（替换支援行动）</COL>
+请选择要装备的支援行动。<BR/><COL FF0000FF>（无法选择未习得的行动）</COL>
+请选择要替换的位置。
+更改随从已装备的随从技能。
+更改随从已装备的随从技能。<BR/><COL FF0000FF>（没有雇用中的随从）</COL>
+管理随从技能。
+管理随从技能。<BR/><COL FF0000FF>（正在使用中，无法选择）</COL>
+请选择要装备的随从技能。
+请选择要装备的随从技能。<BR/><COL FF0000FF>（无法选择未习得的技能）</COL>
+请选择要装备的随从技能。<BR/><COL FF0000FF>（记忆力不足）</COL>
+更改、整理或出售随从的装备。
+更改、整理或出售随从的装备。<BR/><COL FF0000FF>（没有雇用中的随从）</COL>
+更改随从的装备
+请选择需要更改装备的随从。
+请选择需要更改装备的随从。<BR/><COL FF0000FF>（正在使用中，无法选择）</COL>
+请选择装备。
+请选择装备。<BR/><COL FFFF50FF>（解除装备）</COL>
+请选择装备。<BR/><COL FF0000FF>（无法解除武器）</COL>
+请选择装备。<BR/><COL FFFF50FF>（其他随从正在装备中）</COL>
+更改随从装备箱内装备的位置。
+请选择要替换的装备。
+出售随从装备箱内的装备。
+请选择要出售的装备。
+请选择要出售的装备。<BR/><COL FF0000FF>（无法出售正在装备中的物品）</COL>
+共计%d z。<BR/>是否确定？
+更改随从的内衬。
+请选择要更改内衬的随从。
+请选择内衬的类型。
+请选择内衬的颜色。
+登记随从武器、防具或编辑个人组合。
+登记随从武器、防具或编辑个人组合。<BR/><COL FF0000FF>（没有雇用中的随从）</COL>
+装备已登记的个人组合。
+装备已登记的个人组合。<BR/><COL FF0000FF>（未登记套装）</COL>
+请选择要装备个人组合的随从。
+请选择要装备个人组合的随从。<BR/><COL FF0000FF>（正在使用中，无法选择）</COL>
+请选择个人组合。
+请选择个人组合。<BR/><COL FF0000FF>（未登记组合）</COL>
+装备个人组合。<BR/>是否确定？
+<COL FFFF50FF>%s正在装备中。</COL><BR/>是否互换装备？
+登记装备的个人组合。
+请选择要登记或更改登记内容的个人组合。
+请选择要登记的装备。<BR/><COL FFFF50FF>（必须要登记武器）</COL>
+登记个人组合。<BR/>是否确定？
+更换已登记的个人组合的位置。
+更换已登记的个人组合的位置。<BR/><COL FF0000FF>（未登记套装）</COL>
+请选择想要更换的个人组合。
+解除已登记的个人组合。
+解除已登记的个人组合。<BR/><COL FF0000FF>（未登记套装）</COL>
+请选择想要解除的个人组合。
+请选择想要解除的个人组合。<BR/><COL FF0000FF>（未登记套装）</COL>
+解除个人组合。<BR/>是否确定？
+选择要进行特训的随从。
+选择要进行特训的随从。<BR/><COL FF0000FF>（没有雇用中的随从）</COL>
+请选择要进行特训的随从。
+请选择要进行特训的随从。<BR/><COL FF0000FF>（正在使用中，无法选择）</COL>
+请选择要进行特训的随从。<BR/><COL FFFF50FF>（正在使用中的随从）</COL>
+解雇随从。
+解雇随从。<BR/><COL FF0000FF>（没有雇用中的随从）</COL>
+请选择要解雇的随从。
+请选择要解雇的随从。<BR/><COL FF0000FF>（无法解雇更多）</COL>
+请选择要解雇的随从。<BR/><COL FF0000FF>（正在使用中，无法选择）</COL>
+请选择要解雇的随从。<BR/><COL FFFF50FF>（正在使用中的随从）</COL>
+是否确定解雇？<BR/><COL FFFF50FF>（解雇后将自动卸除装备）</COL>
+……真的要解雇喵？
+解除正在使用中的随从。<BR/>是否确定？
+排序装备。<BR/>是否确定？
+请选择要装备的随从技能。<BR/><COL FFFF50FF>（解除随从技能）</COL>
+请选择要进行特训的随从。<BR/><COL FFFF50FF>（解除已登记的随从）</COL>
+请选择要登记的装备。<BR/><COL FF0000FF>（未登记武器）</COL>
+请选择要特训的随从。<BR/><COL FF0000FF>（无法登记更多）</COL>
+替换随从的位置
+请选择要替换位置的随从。
+请选择要替换的位置。
+可以手动排序随从。
+以出击状态顺序排列随从。
+以等级高低顺序排列随从。
+以支援倾向顺序排列随从。
+以出击状态顺序排列随从。<BR/><COL FFFF50FF>（选择中的排序方法）</COL>
+以等级高低顺序排列随从。<BR/><COL FFFF50FF>（选择中的排序方法）</COL>
+以支援倾向顺序排列随从。<BR/><COL FFFF50FF>（选择中的排序方法）</COL>
+【%s】
+替换使用中的随从。<BR/>是否确定？
+解除一部分支援行动。<BR/>是否确定？
+请选择要更改防具色彩设置的随从。
+更改防具的上色
+是否进行上色设置？
+结束上色设置。<BR/>是否确定？
+请选择要出售的装备。<BR/><COL FF0000FF>（合成防具无法出售）</COL>
+更改防具的色彩设置。<BR/><COL FF0000FF>（现在还无法使用）</COL>
+请选择要更改防具色彩设置的随从。<BR/><COL FF0000FF>（此防具无法上色）</COL>
+正在选择调色盘。<BR/>按住L键或R键时可以快速移动选色标识。
+==========string end==========

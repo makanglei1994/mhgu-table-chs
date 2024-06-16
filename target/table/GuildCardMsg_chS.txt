@@ -1,0 +1,583 @@
+==========identifier start==========
+Help_001
+Help_002
+Help_003
+Help_004
+Help_005
+Help_006
+Edit_Help_001
+HunterRank
+Village
+MeetingPlace_LowLevel
+MeetingPlace_HighLevel
+AllowQuest
+Tournament
+StreetPass_Num
+Num
+FriendshipLevel
+WeaponFrequency
+Synthesis
+Hundred
+FiveHundred
+Thousand
+FiveThousand
+HunterDiary
+TotalTime
+TotalTime_Num
+Date
+Clear
+Failure
+Retire
+Creating
+GreatSword_PowerUp
+TACHI_PowerUp
+SwordShield_PowerUp
+DualBlades_PowerUp
+Hammer_PowerUp
+HuntingHorn_PowerUp
+Lance_PowerUp
+Gunlance_PowerUp
+SwitchAxe_PowerUp
+ChargeBlade_PowerUp
+InsectGlaive_PowerUp
+LightBowgun_PowerUp
+HeavyBowgun_PowerUp
+Bow_PowerUp
+GreatSword_Production
+TACHI_Production
+SwordShield_Production
+DualBlades_Production
+Hammer_Production
+HuntingHorn_Production
+Lance_Production
+Gunlance_Production
+SwitchAxe_Production
+ChargeBlade_Production
+InsectGlaive_Production
+LightBowgun_Production
+HeavyBowgun_Production
+Bow_Production
+AllMedal
+Employment
+PlayerName_GreatSword
+PlayerName_TACHI
+PlayerName_SwordShield
+PlayerName_DualBlades
+PlayerName_Hammer
+PlayerName_HuntingHorn
+PlayerName_Lance
+PlayerName_Gunlance
+PlayerName_SwitchAxe
+PlayerName_ChargeBlade
+PlayerName_InsectGlaive
+PlayerName_LightBowgun
+PlayerName_HeavyBowgun
+PlayerName_Bow
+PlayerName_GreatSword_Otomo1
+PlayerName_TACHI_Otomo1
+PlayerName_SwordShield_Otomo1
+PlayerName_DualBlades_Otomo1
+PlayerName_Hammer_Otomo1
+PlayerName_HuntingHorn_Otomo1
+PlayerName_Lance_Otomo1
+PlayerName_Gunlance_Otomo1
+PlayerName_SwitchAxe_Otomo1
+PlayerName_ChargeBlade_Otomo1
+PlayerName_InsectGlaive_Otomo1
+PlayerName_LightBowgun_Otomo1
+PlayerName_HeavyBowgun_Otomo1
+PlayerName_Bow_Otomo1
+PlayerName_GreatSword_Otomo1_2
+PlayerName_TACHI_Otomo1_2
+PlayerName_SwordShield_Otomo1_2
+PlayerName_DualBlades_Otomo1_2
+PlayerName_Hammer_Otomo1_2
+PlayerName_HuntingHorn_Otomo1_2
+PlayerName_Lance_Otomo1_2
+PlayerName_Gunlance_Otomo1_2
+PlayerName_SwitchAxe_Otomo1_2
+PlayerName_ChargeBlade_Otomo1_2
+PlayerName_InsectGlaive_Otomo1_2
+PlayerName_LightBowgun_Otomo1_2
+PlayerName_HeavyBowgun_Otomo1_2
+PlayerName_Bow_Otomo1_2
+NyanterName
+VillageQuest_Lv1_Clear
+VillageQuest_Lv2_Clear
+VillageQuest_Lv3_Clear
+VillageQuest_Lv4_Clear
+VillageQuest_Lv5_Clear
+VillageQuest_Lv6_Clear
+MeetingPlaceQuest_Lv1_Clear
+MeetingPlaceQuest_Lv2_Clear
+MeetingPlaceQuest_Lv3_Clear
+MeetingPlaceQuest_Lv4_Clear
+MeetingPlaceQuest_Lv5_Clear
+MeetingPlaceQuest_Lv6_Clear
+MeetingPlaceQuest_Lv7_Clear
+AllowQuest_Clear
+NyanterQuest_Lv1_Clear
+NyanterQuest_Lv2_Clear
+NyanterQuest_Lv3_Clear
+NyanterQuest_Lv4_Clear
+NyanterQuest_Lv5_Clear
+NyanterQuest_Lv6_Clear
+NyanterQuest_Lv7_Clear
+HunterRank_LvUp
+Retire_Num
+Monster_KillNumber_Information
+PlayTime_Information
+Hunting_Information
+QuestRetire_Information
+Obtaining_Information
+PlayerDeath_Information_1
+PlayerDeath_Information_2
+NoEquipmentClear
+ShortTimeClear
+MortalCombatClear
+GreatSword_Used
+TACHI_Used
+SwordShield_Used
+DualBlades_Used
+Hammer_Used
+HuntingHorn_Used
+Lance_Used
+Gunlance_Used
+SwitchAxe_Used
+ChargeBlade_Used
+InsectGlaive_Used
+LightBowgun_Used
+HeavyBowgun_Used
+Bow_Used
+Maximum_Information
+Minimum_Information
+Otomo_Information_1
+Otomo_Information_2
+Otomo_Information_3
+Otomo_Information_4
+Otomo_Information_5
+Otomo_Information_6
+Otomo_Information_7
+Otomo_Information_8
+Otomo_Information_9
+Otomo_Information_10
+Otomo_Record
+OtomoSortie_Record
+Sortie_Num
+Medal
+Achievement
+Percent
+GetMedalNumber
+Medal_Information_1
+MonsterHuntingRecord
+MonsterName
+Unknown
+Hyphen
+No_Numerical
+Size
+Hunting
+Capture
+No_Size
+Point
+Tournament_Record
+Ranking
+FastestTime
+UseWeapons
+NoTime
+Time
+ScreenEditing
+Title
+SelfIntroduction
+PauseDisplay
+Background
+EquipmentRegistration
+Registration_No
+Registration_In
+GuildCardSending
+Send_Individual
+Send_All
+Type
+IndividualFriendshipLevel
+Number_Order
+HR_Order
+Update_Order
+IndividualFriendshipLevel_Order
+Type_Order
+Name_Order
+Card_Movement
+Card_CommentsInput
+Card_CommentsDelete
+Card_ChangeType
+CardList_Information_1
+CardList_Information_2
+CardList_Fellow
+CardList_Friend
+CardList_Class
+CardList_Club
+CardList_School
+CardList_CramSchool
+CardList_Family
+CardList_Special
+CardList_Company
+CardList_External
+CardList_Vip
+CardList_Rival
+CardList_Elite
+CardList_Acquaintance
+CardList_RealMeetingPlace
+CardList_MHfesta
+CardList_Guild
+CardList_HuntingTeam
+CardList_RoyalScrivenerCorps
+CardList_Team1
+CardList_Team2
+CardList_Team3
+CardList_unacquaintedPeople
+CardList_Love
+Pause_Stand
+Pause_Shout
+Pause_Step
+Pause_decided
+Pause_Greetings
+Pause_Relax
+Pause_Announcement
+Pause_Jidanda
+Pause_Provocation
+Pause_Run
+Pause_ShakeTheNeck
+Pause_Boy
+Pause_Shadow
+Pause_ArmsFolded
+Pause_Guts
+Pause_Girl
+Pause_Shoryuken
+Pause_GetItems
+Pause_Megaman
+Pause_Fight
+Pause_MarioJump
+Pause_Beam
+NyanterName_Otomo1
+NyanterName_Otomo2
+Nyanter_Used
+Nyanter_Clear_Village
+Nyanter_Clear_MeetingPlace_Low
+Nyanter_Clear_MeetingPlace_High
+CardList_Passing
+Friendship_Point
+Otomo
+CardList_Help_001
+HunterRank_LvUp_002
+Village_LowLevel
+Village_HiLevel
+MeetingPlace_G_Level
+Tournament_Short
+Diary_NewGame
+Diary_InheritGame
+VillageQuest_Lv7_Clear
+VillageQuest_Lv8_Clear
+VillageQuest_Lv9_Clear
+VillageQuest_Lv10_Clear
+MeetingPlaceQuest_LvG1_Clear
+MeetingPlaceQuest_LvG2_Clear
+MeetingPlaceQuest_LvG3_Clear
+MeetingPlaceQuest_LvG4_Clear
+Nyanter_Clear_Village_High
+Nyanter_Clear_MeetingPlace_LvG
+AllowQuest_Last_Clear
+ListMenu_HD
+Number_HD
+LastUPdate_HD
+Otomo1_2_HD
+==========identifier end==========
+
+==========string start==========
+可确认、编辑以及发送公会卡片。
+可确认自己的公会卡片。
+可编辑自己公会卡片的信息。
+可将自己的公会卡片<BR/>发送给其他玩家。
+可确认或删除<BR/>已保存的公会卡片。
+请选择<BR/>要递交公会卡片的对象。
+编辑公会卡片。
+HR：
+村庄
+集会所下位
+集会所上位
+特殊许可任务
+斗技大会
+‐
+%d次
+友好度
+武器使用情况
+综合
+100
+500
+1000
+5000
+猎人生活日记
+总游戏时间
+%d：%02d
+%d/%d/%d
+【完成了 '%s' 】
+【 '%s' 失败】
+【放弃 '%s' 】
+【承接 '%s' 】
+ 【强化<ICON GreatSword>共 %d 次！】
+ 【强化<ICON TACHI>共 %d 次！】
+ 【强化<ICON SwordShield>共 %d 次！】
+ 【强化<ICON DualBlades>共 %d 次！】
+ 【强化<ICON Hammer>共 %d 次！】
+ 【强化<ICON HuntingHorn>共 %d 次！】
+ 【强化<ICON Lance>共 %d 次！】
+ 【强化<ICON Gunlance>共 %d 次！】
+ 【强化<ICON SwitchAxe>共 %d 次！】
+ 【强化<ICON ChargeBlade>共 %d 次！】
+ 【强化<ICON InsectGlaive>共 %d 次！】
+ 【强化<ICON LightBowgun>共 %d 次！】
+ 【强化<ICON HeavyBowgun>共 %d 次！】
+ 【强化<ICON Bow>共 %d 次！】
+ 【生产了第 %d 把<ICON GreatSword>！】
+ 【生产了第 %d 把<ICON TACHI>！】
+ 【生产了第 %d 把<ICON SwordShield>！】
+ 【生产了第 %d 把<ICON DualBlades>！】
+ 【生产了第 %d 把<ICON Hammer>！】
+ 【生产了第 %d 把<ICON HuntingHorn>！】
+ 【生产了第 %d 把<ICON Lance>！】
+ 【生产了第 %d 把<ICON Gunlance>！】
+ 【生产了第 %d 把<ICON SwitchAxe>！】
+ 【生产了第 %d 把<ICON ChargeBlade>！】
+ 【生产了第 %d 把<ICON InsectGlaive>！】
+ 【生产了第 %d 把<ICON LightBowgun>！】
+ 【生产了第 %d 把<ICON HeavyBowgun>！】
+ 【生产了第 %d 把<ICON Bow>！】
+【获得 '%s' 的全部勋章！】
+【雇用了 '%s' ！】
+　<ICON GreatSword>%s
+　<ICON TACHI>%s
+　<ICON SwordShield>%s
+　<ICON DualBlades>%s
+　<ICON Hammer>%s
+　<ICON HuntingHorn>%s
+　<ICON Lance>%s
+　<ICON Gunlance>%s
+　<ICON SwitchAxe>%s
+　<ICON ChargeBlade>%s
+　<ICON InsectGlaive>%s
+　<ICON LightBowgun>%s
+　<ICON HeavyBowgun>%s
+　<ICON Bow>%s
+　<ICON GreatSword>%s　<ICON OT_MARK>%s
+　<ICON TACHI>%s　<ICON OT_MARK>%s
+　<ICON SwordShield>%s　<ICON OT_MARK>%s
+　<ICON DualBlades>%s　<ICON OT_MARK>%s
+　<ICON Hammer>%s　<ICON OT_MARK>%s
+　<ICON HuntingHorn>%s　<ICON OT_MARK>%s
+　<ICON Lance>%s　<ICON OT_MARK>%s
+　<ICON Gunlance>%s　<ICON OT_MARK>%s
+　<ICON SwitchAxe>%s　<ICON OT_MARK>%s
+　<ICON ChargeBlade>%s　<ICON OT_MARK>%s
+　<ICON InsectGlaive>%s　<ICON OT_MARK>%s
+　<ICON LightBowgun>%s　<ICON OT_MARK>%s
+　<ICON HeavyBowgun>%s　<ICON OT_MARK>%s
+　<ICON Bow>%s　<ICON OT_MARK>%s
+　<ICON GreatSword>%s　<ICON OT_MARK>%s　<ICON OT_MARK>%s
+　<ICON TACHI>%s　<ICON OT_MARK>%s　<ICON OT_MARK>%s
+　<ICON SwordShield>%s　<ICON OT_MARK>%s　<ICON OT_MARK>%s
+　<ICON DualBlades>%s　<ICON OT_MARK>%s　<ICON OT_MARK>%s
+　<ICON Hammer>%s　<ICON OT_MARK>%s　<ICON OT_MARK>%s
+　<ICON HuntingHorn>%s　<ICON OT_MARK>%s　<ICON OT_MARK>%s
+　<ICON Lance>%s　<ICON OT_MARK>%s　<ICON OT_MARK>%s
+　<ICON Gunlance>%s　<ICON OT_MARK>%s　<ICON OT_MARK>%s
+　<ICON SwitchAxe>%s　<ICON OT_MARK>%s　<ICON OT_MARK>%s
+　<ICON ChargeBlade>%s　<ICON OT_MARK>%s　<ICON OT_MARK>%s
+　<ICON InsectGlaive>%s　<ICON OT_MARK>%s　<ICON OT_MARK>%s
+　<ICON LightBowgun>%s　<ICON OT_MARK>%s　<ICON OT_MARK>%s
+　<ICON HeavyBowgun>%s　<ICON OT_MARK>%s　<ICON OT_MARK>%s
+　<ICON Bow>%s　<ICON OT_MARK>%s　<ICON OT_MARK>%s
+　<ICON OT_LOOT>%s
+完成了所有“LV★”的村庄任务！
+完成了所有“LV★★”的村庄任务！
+完成了所有“LV★★★”的村庄任务！
+完成了所有“LV★★★★”的村庄任务！
+完成了所有“LV★★★★★”的村庄任务！
+完成了所有“LV★★★★★★”的村庄任务！
+完成了所有“LV★”的集会所任务！
+完成了所有“LV★★”的集会所任务！
+完成了所有“LV★★★”的集会所任务！
+完成了所有“LV★★★★”的集会所任务！
+完成了所有“LV★★★★★”的集会所任务！
+完成了所有“LV★★★★★★”的集会所任务！
+完成了所有“LV★★★★★★★”的集会所任务！
+完成了特殊许可任务G5 '%s' ！
+@
+@
+@
+@
+@
+@
+@
+猎人等级升到了 '%d' ！
+总共放弃 '%d' 次！
+打倒了流浪怪物 '%s' ！
+游戏时间超过 '%d' 小时！
+狩猎 '%s' 共 '%d' 次！
+总共完成任务达到 '%d' 次！
+获得 '%s' ！
+ %s 力尽倒地次数总共超过 '%d' 次！
+ %s 力尽倒地%d次
+未装备防具完成任务！
+5分钟内完成任务！
+激战后完成任务！
+　使用了%d 次<ICON GreatSword>！
+　使用了%d 次<ICON TACHI>！
+　使用了%d 次<ICON SwordShield>！
+　使用了%d 次<ICON DualBlades>！
+　使用了%d 次<ICON Hammer>！
+　使用了%d 次<ICON HuntingHorn>！
+　使用了%d 次<ICON Lance>！
+　使用了%d 次<ICON Gunlance>！
+　使用了%d 次<ICON SwitchAxe>！
+　使用了%d 次<ICON ChargeBlade>！
+　使用了%d 次<ICON InsectGlaive>！
+　使用了%d 次<ICON LightBowgun>！
+　使用了%d 次<ICON HeavyBowgun>！
+　使用了%d 次<ICON Bow>！
+ '%s' 的最大尺寸获得更新！ %4.2f
+ '%s' 的最小尺寸获得更新！ %4.2f
+【%s……疯狂发射弩炮尽情破坏！】
+【%s……疯狂发射大炮尽情破坏！】
+【%s……设置了大量陷阱聪明地掩护战斗】
+【%s……使用大桶爆弹勇敢地突击！】
+【%s……大量吹笛在辅助上独当一面！】
+【%s……攻击次数之多可谓天下无双！】
+【%s……攻击次数之多有如饿虎扑食！】
+【%s……贪婪地采集了大量道具！】
+【%s……努力保存体力坚持到最后！】
+【%s……与随从发动合体技大展身手！】
+猎喵･随从信息
+随从出击记录
+出击数
+勋章
+完成度
+%d%%
+总获得勋章数
+选择大勋章后将按类别打开勋章列表。
+怪物狩猎记录
+怪物名
+？？？？
+～
+@
+尺寸
+狩猎
+捕获
+@
+%d.%d
+斗技大会记录
+名次
+最快时间
+@
+@
+%02d'%02d"%02d
+基本画面编辑
+称号
+自我介绍
+姿势显示
+背景
+登记装备
+未登记
+展示中
+发送公会卡片
+对个别发送
+向全员发送
+类型
+个别友好度
+编号顺序
+HR顺序
+最终更新日顺序
+个别友好度顺序
+类型顺序
+名字顺序
+移动卡片
+为卡片输入留言
+删除卡片留言
+更改卡片类型
+@
+@
+同伴
+朋友
+班级
+俱乐部
+学校
+进修
+家庭
+特别
+公司
+公司外
+VIP
+劲敌
+精英
+相识
+现实集会所
+MH祭典
+公会
+猎团
+王立书士队
+队伍1
+队伍2
+队伍3
+路人
+LOVE
+站姿
+呼喊
+垫步
+帅气姿势
+问好
+放松
+展示
+跺脚
+挑衅
+奔跑
+摇头
+男孩子姿势
+拳击
+双手抱胸
+挥拳姿势
+女孩子姿势
+升龙拳
+获得道具
+洛克人登场
+加油！
+马力欧跳
+发射光束
+　<ICON OT_LOOT>%s　<ICON OT_MARK>%s
+　<ICON OT_LOOT>%s　<ICON OT_MARK>%s　<ICON OT_MARK>%s
+使用<ICON OT_LOOT>的次数达到%d次！
+完成所有猎喵任务“村庄下位任务”！
+完成所有猎喵任务“集会所下位任务”！
+完成所有猎喵任务“集会所上位任务”！
+擦肩
+　%5d
+随从
+删除此公会卡片的留言。<BR/>是否确定？
+【猎人等级升到了 '%d' ！】
+村庄下位
+村庄上位
+集会所G级
+斗技大会
+【欢迎来到怪物猎人的世界！】
+【继承了MH Gen的存档！】
+完成了所有“LV★★★★★★★”的村庄任务！
+完成了所有“LV★★★★★★★★”的村庄任务！
+完成了所有“LV★★★★★★★★★”的村庄任务！
+完成了所有“LV★★★★★★★★★★”的村庄任务！
+完成了所有“LVG★”的集会所任务！
+完成了所有“LVG★★”的集会所任务！
+完成了所有“LVG★★★”的集会所任务！
+完成了所有“LVG★★★★”的集会所任务！
+完成了所有猎喵任务的“村庄上位任务”！
+完成了所有猎喵任务的“集会所G级任务”！
+完成超特殊许可任务'%s' ！
+列表菜单
+No.
+最终更新日期
+　<ICON OT_MARK>%s　<ICON OT_MARK>%s
+==========string end==========

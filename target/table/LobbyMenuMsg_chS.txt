@@ -1,0 +1,157 @@
+==========identifier start==========
+GUILDCARD_GUILDCARD
+GUILDCARD_VIEW
+GUILDCARD_EDIT
+GUILDCARD_SEND
+GUILDCARD_CARDLIST
+FRIEND_FRIEND_LIST
+FRIEND_SEND_REQUEST
+FRIEND_BLOCKLIST
+FRIEND_REGISTER_BLOCKLIST
+FRIEND_BLOCK_SETTING
+Friend
+Chat
+Communication
+MeetingPlace_Information
+RemoveMembers
+SpecialPermitTicket
+GameEnd
+Otomo_Window_001
+Otomo_Window_002
+Otomo_Window_003
+Otomo_Window_004
+Otomo_Window_005
+Otomo_Window_006
+Otomo_Window_007
+Otomo_Window_008
+Otomo_Window_009
+GuildCard_Window_001
+GuildCard_Window_002
+GuildCard_Window_003
+GuildCard_Window_004
+GuildCard_Window_005
+GuildCard_Window_006
+GuildCard_Window_007
+GuildCard_Window_008
+GuildCard_Window_009
+CardList_Window_001
+CardList_Window_002
+CardList_Window_003
+CardList_Window_004
+Window_Button_001
+OtMenuMsg_Help_003
+OtMenuMsg_Help_004
+OtMenuMsg_Error_002
+OtMenuMsg_Help_005
+OtMenuMsg_Error_003
+GuildCard_Window_010
+GameEnd_Help_001
+Friend_Help_001
+Chat_Help_001
+Communication_Help_001
+SpecialPermitTicket_Help_001
+SendingOtomo
+PlayerList
+TouchInStatus
+SwitchingInTouch
+Ready
+GuildCard_Window_011
+GameEnd_Help_002
+GameEnd_Help_003
+Otomo_Window_010
+Chat_Sub1
+Chat_Sub2
+Chat_Help_002
+Chat_Help_003
+Chat_Reset_title
+Chat_Reset_menu1
+Chat_Reset_menu2
+Chat_Reset_Type1
+Chat_Reset_Type2
+Chat_Reset_Type3
+Chat_Reset_Type4
+Chat_Reset_Help_001
+Chat_Reset_Help_002
+Chat_Reset_Check
+Switching
+disconnection
+==========identifier end==========
+
+==========string start==========
+公会卡片
+确认
+编辑
+发送
+卡片列表
+好友名单
+好友登记申请
+拒绝列表
+登记至拒绝列表
+信息拒收设置
+好友
+聊天
+连接设置
+集会所信息
+移除成员
+确认特殊许可券
+结束游戏
+发送随从艾露猫。<BR/>是否确定？
+发送中。
+已发送至<BR/>%s。
+已发送至<BR/>%s<BR/>%s。
+已发送至<BR/>%s<BR/>%s<BR/>%s。
+%s<BR/>送来了随从。<BR/><BR/>目前送来的随从：%d只<BR/><COL FF0000FF>还可以雇用%d只。</COL><BR/><BR/><ICON PAD_A>雇用　<ICON PAD_Y>查看　<ICON PAD_B>删除
+已雇用随从艾露猫。<BR/><BR/>可以在随从看板确认<BR/>已雇用的随从艾露猫。
+随从雇用数量已满。<BR/><BR/><COL FF0000FF>可以在随从菜单中选择<BR/>“解雇”来解雇随从</COL>
+不收取该随从。<BR/>是否确定？
+线上模式下<BR/>无法编辑留言。
+是否将目前的装备<BR/>登记在公会卡片上？<BR/><BR/><COL FF0000FF>登记装备后，<BR/>卡片中显示的猎人或随从的外观与部分信息<BR/>会固定在登记时的状态。</COL>
+发送公会卡片。<BR/>是否确定？
+已发送至<BR/>%s。
+已发送至<BR/>%s<BR/>%s。
+已发送至<BR/>%s<BR/>%s<BR/>%s。
+%s<BR/>送来了公会卡片。<BR/><BR/>目前送来的卡片：%d张<BR/><COL FF0000FF>还可以登记%d张。</COL><BR/><BR/><ICON PAD_A>登记　<ICON PAD_Y>查看　<ICON PAD_B>删除
+已登记。<BR/><BR/>在床铺等处存档后，<BR/>已登记的公会卡片将保存在存档数据中。
+删除此公会卡片。<BR/>是否确定？
+无公会卡片。
+是否登记？
+已删除公会卡片。
+已登记至信息拒收设置，<BR/>并删除了公会卡片。
+雇用
+请选择想要发送的随从。<BR/>发送之后随从并不会消失。
+请选择想要发送随从的指定玩家。
+请选择随从。<BR/><COL FF0000FF>（尚未选择随从）</COL>
+请选择随从。
+请选择想要发送的随从。<BR/><COL FF0000FF>（无法发送此随从）</COL>
+公会卡片已满。<BR/><COL FF0000FF>可以从卡片列表中删除</COL>
+结束游戏。
+登记好友、确认清单或设置拒绝列表。<BR/><COL FFFF50FF>（仅限线上游戏时<BR/>才能进行登记与确认拒绝列表）</COL>
+对其他玩家发送<BR/>聊天文字。
+进行连接设置。
+确认特殊许可任务券的张数。
+发送随从
+玩家一览表
+确认所选择<BR/>玩家的能力值。
+‐
+准备完毕！
+是否确定解除<BR/>登记在公会卡片上的装备？<BR/><BR/><COL FF0000FF>更改装备后，<BR/>将会更新公会卡片上的信息。</COL>
+结束游戏。<BR/><COL FF0000FF>线上游戏中无法结束。</COL>
+结束游戏。<BR/><COL FF0000FF>已承接任务时无法结束。</COL>
+随从装备箱已满。<BR/><BR/><COL FF0000FF>可以在随从看板选择“更改･出售装备”<BR/>来出售装备。</COL>
+聊天菜单
+个人组合初始化
+开启聊天菜单。
+开启聊天个人组合的<BR/>初始化菜单。
+聊天个人组合初始化
+初始化的范围
+将个人组合初始化
+所有组合
+组合1
+组合2
+组合3
+可以指定<BR/>将个人组合初始化的范围。
+将聊天的个人组合初始化。
+将以下的个人组合初始化。<BR/><COL FFFF50FF>【%s】</COL><BR/>是否确定？
+切换连接
+断开连接
+==========string end==========

@@ -1,0 +1,296 @@
+==========identifier start==========
+TradeShop
+ItemIncrease
+PointExchange
+DeliveryRequest
+TradeRequest
+TradeGoods
+SpecialGoods
+LimitedGoods
+PetClothes
+CartSelect
+Trading
+Waiting
+TradeFinish
+CartInfo
+TradeRequestContent
+ExpectedValue
+TradeStart
+ChargeOtomo
+OrderItem
+RequestTimes
+Chip
+TradingPlace
+PokapokaFarm
+JumboMushroomMountain
+MogaBeekeepingUnion
+TanjiaFishMarket
+OrderItemSelect
+ExchangeItemSelect
+DeliveryContent
+NumberOfDelivery
+DeliveryConfirmation
+SalePrice
+ItemReceive
+Pts
+ItemIncrease_Help_001
+TradeRequest_Help_001
+TradeRequest_Help_002
+TradeRequest_Help_003
+TradeRequest_Help_004
+TradeRequest_Help_005
+TradeRequest_Help_006
+TradeRequest_Help_007
+TradeRequest_Error_001
+TradeRequest_Error_002
+TradeRequest_Error_003
+TradeRequest_Error_004
+TradeRequest_Help_008
+TradeRequest_Help_009
+TradeRequest_Error_005
+TradeRequest_Error_006
+TradeRequest_Help_010
+TradeRequest_Help_011
+TradeRequest_Help_012
+TradeRequest_Error_007
+TradeRequest_Help_013
+TradeRequest_Error_008
+TradeRequest_Help_014
+Receive_Help_001
+Receive_Error_001
+Receive_Help_002
+Receive_Help_003
+Receive_Help_004
+Receive_Help_005
+PointExchange_Help_001
+TradeGoods_Help_001
+TradeGoods_Help_002
+TradeGoods_Error_001
+TradeGoods_Help_003
+SpecialGoods_Help_001
+LimitedGoods_Help_001
+LimitedGoods_Error_001
+Title_Help_001
+Title_Error_001
+Title_Help_002
+Title_Error_002
+Wallpaper_Help_001
+Wallpaper_Error_001
+Wallpaper_Help_002
+Wallpaper_Error_002
+PetClothes_Help_001
+PetClothes_Error_001
+PetClothes_Help_002
+PetClothes_Error_002
+DeliveryRequest_Help_001
+DeliveryRequest_Help_002
+DeliveryRequest_Error_001
+DeliveryRequest_Help_003
+PointUse_Help_001
+PokapokaFarm_Help
+JumboMushroomMountain_Help
+MogaBeekeepingUnion_Help
+TanjiaFishMarket_Help
+SpQuestTicket_Help_001
+SpQuestTicket_Error_001
+SpQuestTicket_Help_002
+SpQuestTicket_Error_002
+Receive_Help_006
+Receive_Error_002
+Receive_Error_003
+Receive_Help_007
+Receive_Error_004
+Receive_Error_005
+TradeGoods_Error_002
+TradeGoods_Error_003
+TradeGoods_Help_004
+Title_Help_003
+Wallpaper_Help_003
+PetClothes_Help_003
+SpQuestTicket_Help_003
+TradeRequest_Error_009
+DeliveryRequest_Error_002
+DeliveryRequest_01_01
+DeliveryRequest_01_02
+DeliveryRequest_02_01
+DeliveryRequest_02_02
+DeliveryRequest_03_01
+DeliveryRequest_03_02
+DeliveryRequest_04_01
+DeliveryRequest_04_02
+DeliveryRequest_05_01
+DeliveryRequest_05_02
+DeliveryRequest_06_01
+DeliveryRequest_06_02
+DeliveryRequest_07_01
+DeliveryRequest_07_02
+DeliveryRequest_08_01
+DeliveryRequest_08_02
+DeliveryRequest_09_01
+DeliveryRequest_09_02
+DeliveryRequest_10_01
+DeliveryRequest_10_02
+DeliveryRequest_11_01
+DeliveryRequest_11_02
+DeliveryRequest_12_01
+DeliveryRequest_12_02
+DeliveryRequest_13_01
+DeliveryRequest_13_02
+ItemIncrease_Error_001
+TradeRequest_Error_010
+SpQuestTicket_Error_003
+CoinTrade_Select_001
+CoinTrade_Select_002
+CoinTrade_Select_003
+CoinTrade_Select_004
+CoinTrade_Select_005
+==========identifier end==========
+
+==========string start==========
+交易窗口
+增加道具
+兑换点数
+缴纳委托
+委托交易
+交易物品
+特别物品
+限定物品
+宠物服装
+选择手推车
+交易中
+待命中
+交易完成
+手推车信息
+交易委托
+期待值
+开始交易
+负责的随从
+订购的道具
+委托次数
+小费
+选择交易对象
+暖呼呼农场
+浆波菇菇山
+摩加养蜂联合
+丹治亚海鲜鱼市
+选择订购的道具
+选择兑换的道具
+缴纳内容
+缴纳数量
+缴纳上述的内容
+售价
+收取道具
+pts
+标题预留格10
+委托随从交易，<BR/>增加持有道具。
+委托随从交易。
+请选择手推车。
+将获得的道具<BR/>收取至道具袋。
+将获得的道具<BR/>送往道具箱。
+出售获得的道具后结束。
+是否停止交易？<BR/><COL FFFF50FF>（将会返还%d点点数）</COL>
+开始使用已登记的内容进行交易。
+开始使用已登记的内容进行交易。<BR/><COL FF0000FF>（尚未选择负责的随从）</COL>
+开始使用已登记的内容进行交易。<BR/><COL FF0000FF>（尚未选择订购的道具）</COL>
+开始使用已登记的内容进行交易。<BR/><COL FF0000FF>（持有点数不足）</COL>
+开始使用已登记的内容进行交易。<BR/><COL FF0000FF>（尚未选择负责的随从）<BR/>（持有点数不足）</COL>
+选择负责的随从。
+请选择负责的随从。
+请选择负责的随从。<BR/><COL FF0000FF>（随从选用中无法选择）</COL>
+请选择负责的随从。<BR/><COL FFFF50FF>（该随从选用中）</COL>
+选择想要订购的道具。
+请选择交易对象。
+请选择订购的道具。
+请选择订购的道具。<BR/><COL FF0000FF>（持有点数不足）</COL>
+选择交易次数。
+选择交易次数。<BR/><COL FF0000FF>（持有点数不足）</COL>
+提供作为小费的道具，<BR/>会提升交易的效率。
+收取通过交易获得的道具。
+收取通过交易获得的道具。<BR/><COL FF0000FF>（没有可收取的道具）</COL>
+将获得的道具<BR/>收取至道具袋。
+将获得的道具<BR/>送往道具箱。
+出售获得的道具后结束。
+结束收取。
+以龙历院点数兑换<BR/>交易窗口采购的道具。
+以龙历院点数兑换<BR/>对任务有帮助的道具。
+请选择想要兑换的道具。<BR/>兑换后将会送往道具箱。
+请选择想要兑换的道具。<BR/>兑换后将会送往道具箱。<BR/><COL FF0000FF>（持有点数不足）</COL>
+要兑换几个？
+以龙历院点数兑换<BR/>平常无法获得的特别道具。
+以龙历院点数兑换<BR/>称号、背景与宠物服装等。
+以龙历院点数兑换<BR/>称号、背景与宠物服装等。<BR/><COL FF0000FF>（售罄）</COL>
+以龙历院点数兑换<BR/>能设置在公会卡片上的称号。
+以龙历院点数兑换<BR/>能设置在公会卡片上的称号。<BR/><COL FF0000FF>（售罄）</COL>
+请选择想要兑换的称号。
+请选择想要兑换的称号。<BR/><COL FF0000FF>（持有点数不足）</COL>
+以龙历院点数兑换<BR/>能设置在公会卡片上的背景。
+以龙历院点数兑换<BR/>能设置在公会卡片上的背景。<BR/><COL FF0000FF>（售罄）</COL>
+请选择想要兑换的背景。
+请选择想要兑换的背景。<BR/><COL FF0000FF>（持有点数不足）</COL>
+以龙历院点数兑换<BR/>给宠物穿的服装。
+以龙历院点数兑换<BR/>给宠物穿的服装。<BR/><COL FF0000FF>（售罄）</COL>
+请选择想要兑换的服装。
+请选择想要兑换的服装。<BR/><COL FF0000FF>（持有点数不足）</COL>
+缴纳受委托的道具。
+请选择想要缴纳道具的委托。
+请选择想要缴纳道具的委托。<BR/><COL FF0000FF>（未达成缴纳条件）</COL>
+缴纳受委托的道具。<BR/>是否确定？
+需要%d点点数。<BR/>是否确定？
+位于艾露猫们悠闲生活的村庄中的农场。<BR/>经营着药草或果实等植物类道具。
+位于浆波村的高湿度山林有着<BR/>内行人都知道的丰富菇类。<BR/>经营着各种各样的菇类。
+位于孤岛的村庄中的养蜂所<BR/>发展出的联合组织。经营着蜂蜜与<BR/>可用于调和的虫素材、虫饵类。
+位于交易繁荣的港口丹治亚中<BR/>每天开张的鱼市场。<BR/>经营着可用于调和与万能烧烤的鱼类。
+以龙历院点数兑换<BR/>特殊的任务许可券。
+以龙历院点数兑换<BR/>特殊的任务许可券。<BR/><COL FF0000FF>（并无可兑换的物品）</COL>
+请选择想要兑换的特殊许可任务券。
+请选择想要兑换的特殊许可任务券。<BR/><COL FF0000FF>（持有点数不足）</COL>
+请选择想要收取的道具。
+请选择想要收取的道具。<BR/><COL FF0000FF>（无法持有更多该道具）</COL>
+请选择想要收取的道具。<BR/><COL FF0000FF>（道具袋无空位）</COL>
+请选择想要送往道具箱的道具。
+请选择想要送往道具箱的道具。<BR/><COL FF0000FF>（无法持有更多该道具）</COL>
+请选择想要送往道具箱的道具。<BR/><COL FF0000FF>（道具箱已满）</COL>
+请选择想要兑换的道具。<BR/>兑换后将会送往道具箱。<BR/><COL FF0000FF>（道具箱已满）</COL>
+请选择想要兑换的道具。<BR/>兑换后将会送往道具箱。<BR/><COL FF0000FF>（持有点数不足）</COL>
+已送往道具箱。
+已追加称号。
+已追加背景。
+已追加宠物服装。
+已获得特殊许可任务券。
+请选择负责的随从。<BR/><COL FFFF50FF>（解除登记中的随从）</COL>
+缴纳受委托的道具。<BR/><COL FF0000FF>（目前并无缴纳的委托）</COL>
+微醺啤酒
+女仆/休闲装备
+北极星/海渊装备
+－－－
+扫棍打磨
+支援者/治疗者装备
+七色蒲公英
+－－－
+燕雀猫尖刃刀
+橡子猫巨锤
+摩加蟹
+－－－
+摩加上等腹肉
+－－－
+石架核桃
+－－－
+浆波鱼
+噗吱猪服装
+五谷丰收米
+－－－
+聪慧装备
+－－－
+女仆X装备
+休闲X装备
+水手X装备
+水手X猫装备
+委托随从交易，<BR/>增加持有道具。<BR/><COL FF0000FF>（并未雇用随从）</COL>
+请选择交易对象。<BR/><COL FF0000FF>（并未获得<BR/>可增加的道具）</COL>
+请选择想要兑换的特殊许可任务券。<BR/><COL FF0000FF>（无法持有更多该许可券）</COL>
+请选择想要兑换的道具。
+请选择想要兑换的道具。<BR/><COL FF0000FF>（持有硬币不足）</COL>
+请选择想要兑换的道具。<BR/><COL FF0000FF>（道具箱已满）</COL>
+请选择想要兑换的道具个数。
+支付%d枚硬币。<BR/>是否确定？
+==========string end==========

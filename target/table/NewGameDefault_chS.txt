@@ -1,0 +1,11 @@
+==========identifier start==========
+PET_NAME_00
+PET_NAME_01
+GuildCard_00
+==========identifier end==========
+
+==========string start==========
+菲妮
+噗吱猪
+请多指教
+==========string end==========

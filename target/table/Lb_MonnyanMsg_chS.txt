@@ -1,0 +1,89 @@
+==========identifier start==========
+DeparturePrepare
+ExplorationPlace
+ExplorationPlaceSelect
+ForestArea
+SwampArea
+DesertArea
+SnowArea
+BeachArea
+VolcanoArea
+Member_1
+Member_2
+Member_3
+Member_4
+ExplorationStart
+MainMaterial
+Rare
+Warning
+Help
+ExplorationPlaceSelect_Help_001
+ExplorationPlaceSelect_Help_002
+ExplorationPlaceSelect_Error_001
+MemberSelect_Help_001
+MemberSelect_Help_002
+MemberSelect_Error_001
+MemberSelect_Error_002
+MemberSelect_Error_003
+MemberSelect_Help_003
+MemberSelect_Error_004
+ExplorationStart_Help_001
+ExplorationStart_Error_001
+ExplorationStart_Error_002
+ExplorationStart_Error_003
+ExplorationStart_Help_002
+OtRelease_Help
+ForestArea_Help
+SwampArea_Help
+DesertArea_Help
+SnowArea_Help
+BeachArea_Help
+VolcanoArea_Help
+Cancel
+Reward_HD
+==========identifier end==========
+
+==========string start==========
+出发准备
+探索地点
+选择探索地点
+森林地带
+湿原地带
+沙漠地带
+寒冷地带
+海岸地带
+火山地带
+成员1
+成员2
+成员3
+成员4
+开始探索
+主要素材
+RARE
+WARNING
+START：帮助
+选择探索地点。
+请选择探索地点。
+请选择探索地点。<BR/><COL FF0000FF>（持有点数不足）</COL>
+选择派往探索的随从。
+请选择派往探索的成员。
+请选择派往探索的成员。<BR/><COL FF0000FF>（随从选用中无法选择）</COL>
+请选择派往探索的成员。<BR/><COL FFFF50FF>（该随从选用中）</COL>
+请选择派往探索的成员。<BR/><COL FF0000FF>（随从的心情不够好）</COL>
+请选择派往探索的成员。<BR/><COL FFFF50FF>（解除选择）</COL>
+请选择派往探索的成员。<BR/><COL FFFF50FF>（替换成员）</COL>
+派遣猛喵队出发。
+派遣猛喵队出发。<BR/><COL FF0000FF>（尚未选择探索地点）</COL>
+派遣猛喵队出发。<BR/><COL FF0000FF>（尚未选择成员）</COL>
+派遣猛喵队出发。<BR/><COL FF0000FF>（尚未选择探索地点）<BR/>（尚未选择成员）</COL>
+需要%d点点数。<BR/>是否确定？
+解除正在使用中的随从。<BR/>确认继续吗？
+此为森林地带的说明123456<BR/>此为森林地带的说明<BR/>此为森林地带的说明
+此为湿原地带的说明123456<BR/>此为湿原地带的说明<BR/>此为湿原地带的说明
+此为沙漠地带的说明123456<BR/>此为沙漠地带的说明<BR/>此为沙漠地带的说明
+此为寒冷地带的说明123456<BR/>此为寒冷地带的说明<BR/>此为寒冷地带的说明
+此为海岸地带的说明123456<BR/>此为海岸地带的说明<BR/>此为海岸地带的说明
+此为火山地带的说明123456<BR/>此为火山地带的说明<BR/>此为火山地带的说明
+是否取消？<BR/><COL FFFF50FF>（登记内容将被清除）</COL>
+获得报酬一览表
+==========string end==========

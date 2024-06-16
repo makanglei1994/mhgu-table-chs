@@ -1,0 +1,255 @@
+==========identifier start==========
+KokotoVillageMove
+PokkeVillageMove
+YukumoVillageMove
+BelnaVillageMove
+OtomoGroundsMove
+Quit
+GatheringHallMove
+StandbyAreaMove
+NetworkChange
+WorldMap_Help_001
+WorldMap_Help_002
+WorldMap_Help_003
+WorldMap_Help_004
+Assign_Area_001
+Assign_Area_002
+Assign_Label_001
+Assign_Label_002
+Assign_Label_003
+Assign_Label_004
+Assign_Label_005
+Assign_Label_006
+Assign_Label_007
+Assign_Label_008
+Assign_Label_009
+Assign_Label_010
+Assign_Label_011
+Assign_Label_012
+Assign_Label_013
+Assign_Label_014
+Assign_Label_015
+Assign_Label_016
+Assign_Label_017
+Assign_Label_018
+Assign_Label_019
+Assign_Label_020
+Assign_Label_021
+Assign_Label_022
+Assign_Label_023
+Assign_Label_024
+Assign_Label_025
+Assign_Label_026
+Assign_Label_027
+Assign_Label_028
+Assign_Label_029
+Assign_Label_030
+Assign_Label_031
+Assign_Label_032
+Assign_Label_033
+Assign_Label_034
+Assign_Label_035
+Assign_Label_036
+Assign_Label_037
+Assign_Label_038
+Assign_Label_039
+Assign_Label_040
+Assign_Label_041
+Assign_Label_042
+Offline
+LocalCommunication
+InternetCommunication
+OverHeadName_001
+Shop_Index_Other01
+Shop_Index_Other02
+Shop_Index_Other03
+Shop_Index_Other04
+Shop_Index_Other05
+Shop_Index_Other06
+Shop_Index_Other07
+Shop_Index_Other08
+Shop_Index_Other09
+Shop_Index_Other10
+Shop_Index_Other11
+Shop_Index_Other12
+Shop_Index_Other13
+Shop_Index_Other14
+WorldMap_Help_005
+WorldMap_Help_006
+Assign_Label_043
+PlayerName_GreatSword
+PlayerName_TACHI
+PlayerName_SwordShield
+PlayerName_DualBlades
+PlayerName_Hammer
+PlayerName_HuntingHorn
+PlayerName_Lance
+PlayerName_Gunlance
+PlayerName_SwitchAxe
+PlayerName_ChargeBlade
+PlayerName_InsectGlaive
+PlayerName_LightBowgun
+PlayerName_HeavyBowgun
+PlayerName_Bow
+NyanterName
+Assign_Label_101
+Assign_Label_102
+Assign_Label_103
+Assign_Label_104
+Assign_Label_105
+MoveLaboMove
+RoomMove
+LaboMove
+GatheringBarMove
+HunterCalling
+Assign_Label_106
+Jukebox_Menu_001
+Jukebox_Menu_002
+Jukebox_Musiclist_001
+Jukebox_Musiclist_002
+Jukebox_Musiclist_003
+Jukebox_Musiclist_004
+Special_cross
+Assign_Label_107
+CoinTrade_Select_003
+CoinTrade_Top_001
+CoinTrade_Top_002
+HornsCoin_001_HD
+HornsCoin_002_HD
+HornsCoin_003_HD
+HornsCoin_004_HD
+HornsCoin_005_HD
+HornsCoin_006_HD
+HornsCoin_007_HD
+Assign_Label_108_HD
+Assign_Label_109_HD
+Assign_Label_110_HD
+==========identifier end==========
+
+==========string start==========
+移动至可可特村
+移动至波凯村
+移动至结云村
+移动至贝鲁纳村
+移动至随从广场
+停止
+移动至集会所
+移动至准备区域
+在联机游玩模式下游玩
+请选择移动位置。
+请选择移动目的地。<BR/><COL FF0000FF>（目前无法移动）</COL>
+请选择移动目的地。<BR/><COL FFFF50FF>（移动后将会断开连接）</COL>
+请选择移动目的地。<BR/><COL FFFF50FF>（可更改目前的连接状态）</COL>
+移动至自己家
+回到村庄
+出发进行任务
+杂货店
+公会商店
+武具店
+加工店
+随从武具商
+艾露猫推车摊
+艾露猫小酒馆
+随从雇用窗口
+道具箱
+就座
+飞行船窗口
+邮差
+任务柜台
+斗技大会
+管家
+床铺
+随从看板
+菲妮
+噗吱猪
+任务看板
+武具商兼加工商
+猛喵队
+随从道场
+交易窗口
+奇异炼金仓库
+谜之洞窟
+结云村的足浴
+拔剑
+选择对象
+用餐
+停止
+动作
+离线集会所
+线上集会所
+完成出发准备
+取消出发准备
+确认能力值
+游荡猎人
+查看集会所的信息
+关闭集会所的信息
+切换玩家显示状态
+离线
+本地游戏
+线上游戏
+（%s）
+个数
+合计金额
+消耗个数
+获得个数
+个数
+合计
+当前显示
+全部
+剑士专用
+枪手专用
+装饰品名称
+技能名
+成长
+属性
+可通过村庄或集会所的图标<BR/>选择移动目的地。
+<COL FF0000FF>已承接任务时无法移动。</COL>
+返回村庄（断开连接）
+<ICON GreatSword>%s
+<ICON TACHI>%s
+<ICON SwordShield>%s
+<ICON DualBlades>%s
+<ICON Hammer>%s
+<ICON HuntingHorn>%s
+<ICON Lance>%s
+<ICON Gunlance>%s
+<ICON SwitchAxe>%s
+<ICON ChargeBlade>%s
+<ICON InsectGlaive>%s
+<ICON LightBowgun>%s
+<ICON HeavyBowgun>%s
+<ICON Bow>%s
+<ICON OT_LOOT>%s
+移动至龙识船
+移动至房间
+移动至研究所
+离线集会酒吧
+线上集会酒吧
+移动至龙识船
+移动至房间
+移动至研究所
+移动至集会酒吧
+猎人呼唤连接中
+龙识船研究室
+更换店内歌曲
+可更改店内的曲目。
+当前播放
+请选择想要在店内播放的曲目。<BR/><COL FFFF50FF>在全曲中随机播放</COL>
+请选择想要在店内播放的曲目。
+更改曲目，是否确定？
+SP狩技
+酒吧杂货商
+合计硬币数
+坚角硬币兑换
+以坚角硬币兑换道具。<BR/><COL FFFF50FF>除缴纳、采集任务外，<BR/>能在部分G级任务报酬中获得硬币。</COL>
+道具
+以坚角硬币兑换<BR/>各式各样的道具。
+特殊许可任务券
+以坚角硬币兑换<BR/>特殊许可任务券。
+以坚角硬币兑换<BR/>特殊许可任务券。<BR/><COL FF0000FF>（并无可兑换的品项）</COL>
+请选择想要兑换的特殊许可任务券。<BR/><COL FF0000FF>（持有硬币不足）</COL>
+请选择想要兑换的特殊许可任务券数量。
+世界地图
+连接菜单
+猎人搜索
+==========string end==========

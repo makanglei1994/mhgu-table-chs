@@ -1,0 +1,75 @@
+==========identifier start==========
+LbShop_Item_index01
+LbShop_Item_index02
+LbShop_Item_index03
+LbShop_Item_index04
+LbShop_Item_index05
+LbShop_Item_index06
+LbShop_Item_index07
+LbShop_Item_top01
+LbShop_Item_top02
+LbShop_Item_top03
+LbShop_Item_buy01
+LbShop_Item_buy02
+LbShop_Item_buy03
+LbShop_Item_buy04
+LbShop_Item_buy05
+LbShop_Item_buy06
+LbShop_Item_buy07
+LbShop_Item_buy08
+LbShop_Item_buy09
+LbShop_Item_buy10
+LbShop_Item_buy11
+LbShop_Item_buy12
+LbShop_Item_buy13
+LbShop_Item_buy14
+LbShop_Item_buy15
+LbShop_Item_buy16
+LbShop_Item_buy17
+LbShop_Item_buy18
+LbShop_Item_sell01
+LbShop_Item_sell02
+LbShop_Item_sell03
+LbShop_Item_sell04
+LbShop_Item_sell05
+LbShop_Item_sell06
+LbShop_Item_index08
+==========identifier end==========
+
+==========string start==========
+杂货店
+公会商店
+购买
+出售
+购买后送往道具箱
+个数
+合计金额
+购买道具后<BR/>放进道具袋。
+出售道具袋内的道具。
+购买道具后<BR/>送往道具箱。
+请选择要购买的道具。
+请选择要购买的道具。<BR/><COL FF0000FF>（无法持有更多此道具）</COL>
+请选择要购买的道具。<BR/><COL FF0000FF>（口袋没有多余的空间）</COL>
+请选择要购买的道具。<BR/><COL FF0000FF>（持有金额不足）</COL>
+请选择要购买的道具。<BR/><COL FF0000FF>（装备中的弩<BR/>无法装填此弹药）</COL>
+请选择要购买的道具。<BR/><COL FF0000FF>（装备中的弓<BR/>无法使用这种瓶）</COL>
+请选择要购买的道具。<BR/><COL FF0000FF>（现在的装备<BR/>无法使用此道具）</COL>
+要购买多少？
+共计%d z。<BR/>是否确定？
+已购买道具。
+请选择要购买的道具。<BR/>购买后将送往道具箱。
+请选择要购买的道具。<BR/><COL FF0000FF>（无法持有更多此道具）</COL>
+请选择要购买的道具。<BR/><COL FF0000FF>（道具箱已满）</COL>
+请选择要购买的道具。<BR/><COL FF0000FF>（持有金额不足）</COL>
+请选择要购买的道具。<BR/><COL FF0000FF>（装备中的弩<BR/>无法装填此弹药）</COL>
+请选择要购买的道具。<BR/><COL FF0000FF>（装备中的弓<BR/>无法使用这种瓶）</COL>
+请选择要购买的道具。<BR/><COL FF0000FF>（现在的装备<BR/>无法使用此道具）</COL>
+已送往道具箱。
+请选择要出售的道具。
+是否排序？
+要出售多少？
+共计%d z。<BR/>是否出售？
+出售后不会收到任何金钱。<BR/>是否确定？
+已送往道具箱。
+半价中！
+==========string end==========

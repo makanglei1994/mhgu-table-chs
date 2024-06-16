@@ -1,0 +1,29 @@
+==========identifier start==========
+==========identifier end==========
+
+==========string start==========
+－－－－－－－－
+力量小UP
+力量大UP
+力量DOWN
+重量小UP
+重量大UP
+重量DOWN
+速度小UP
+速度大UP
+速度DOWN
+移动距离UP
+移动距离DOWN
+快速蓄力
+属性强化
+全参数稍微UP
+昏厥鳞粉追加
+减气鳞粉追加
+急速引虫
+虫耐力UP
+虫狩技回收UP
+贯穿时性能UP
+力量大DOWN
+重量大DOWN
+速度大DOWN
+==========string end==========

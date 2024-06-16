@@ -1,0 +1,7 @@
+==========identifier start==========
+Cave_index_01
+==========identifier end==========
+
+==========string start==========
+谜之洞窟
+==========string end==========

@@ -1,0 +1,181 @@
+==========identifier start==========
+HD_DT_001_HD
+HD_DT_002_HD
+HD_DT_003_HD
+HD_DT_004_HD
+HD_DT_005_HD
+HD_DT_006_HD
+HD_DT_007_HD
+HD_DT_008_HD
+HD_DT_009_HD
+HD_DT_010_HD
+HD_DT_011_HD
+HD_DT_012_HD
+HD_DT_013_HD
+HD_DT_014_HD
+HD_DT_015_HD
+HD_DT_016_HD
+HD_DT_017_HD
+HD_DT_018_HD
+HD_DT_019_HD
+HD_DT_020_HD
+HD_DT_021_HD
+HD_DT_022_HD
+HD_DT_023_HD
+HD_DT_024_HD
+HD_DT_025_HD
+HD_DT_026_HD
+HD_DT_027_HD
+HD_DT_028_HD
+HD_DT_029_HD
+HD_DT_030_HD
+HD_DT_031_HD
+HD_DT_032_HD
+HD_DT_033_HD
+HD_DT_034_HD
+HD_DT_035_HD
+HD_DT_036_HD
+HD_DT_037_HD
+HD_DT_038_HD
+HD_DT_039_HD
+HD_DT_040_HD
+HD_DT_041_HD
+HD_DT_042_HD
+HD_DT_043_HD
+HD_DT_044_HD
+HD_DT_045_HD
+HD_DT_046_HD
+HD_DT_047_HD
+HD_DT_048_HD
+HD_DT_049_HD
+HD_DT_050_HD
+HD_DT_051_HD
+HD_DT_052_HD
+HD_DT_053_HD
+HD_DT_054_HD
+HD_DT_055_HD
+HD_DT_056_HD
+HD_DT_057_HD
+HD_DT_058_HD
+HD_DT_059_HD
+HD_DT_060_HD
+HD_DT_061_HD
+HD_DT_062_HD
+HD_DT_063_HD
+HD_DT_064_HD
+HD_DT_065_HD
+HD_DT_066_HD
+HD_DT_067_HD
+HD_DT_068_HD
+HD_DT_069_HD
+HD_DT_070_HD
+HD_DT_071_HD
+HD_DT_072_HD
+HD_DT_073_HD
+HD_DT_074_HD
+HD_DT_075_HD
+HD_DT_076_HD
+HD_DT_077_HD
+HD_DT_078_HD
+HD_DT_079_HD
+HD_DT_080_HD
+HD_DT_081_HD
+HD_DT_082_HD
+HD_DT_083_HD
+HD_DT_084_HD
+HD_DT_085_HD
+HD_DT_086_HD
+HD_DT_087_HD
+HD_DT_088_HD
+==========identifier end==========
+
+==========string start==========
+通过Nintendo 3DS的Save Data Transfer App<BR/>继承“Monster Hunter Generations”的存档数据。
+要转移存档数据，<BR/>需要先为Nintendo 3DS下载数据转移软件。（未使用）
+3DS ⇔ Nintendo Switch关联（未使用）
+发送存档数据（未使用）
+接收存档数据（未使用）
+设置可通过服务器进行<BR/>Nintendo Switch与Nintendo 3DS<BR/>之间的存档数据继承。
+向网络上的服务器<BR/>发送存档数据。（未使用）
+从网络上的服务器<BR/>接收存档数据。
+Enter Transfer Password
+Remove Link
+输入由Nintendo 3DS的Save Data Transfer App<BR/>创建的继承密码，<BR/>设置通过服务器的关联。
+解除与服务器的关联。<BR/>解除关联后无法继承存档数据。
+请输入由Nintendo 3DS的Save Data Transfer App<BR/>创建的继承密码。
+%1s
+%1s
+%1s
+%1s
+%1s
+%1s
+%1s
+%1s
+%1s
+%1s
+正在确认与服务器关联的<BR/>Nintendo 3DS信息。
+正在设置与服务器的关联。
+与服务器关联完成。<BR/><BR/>现在可从服务器<BR/>接收存档数据。
+正在解除与服务器的关联。
+已解除与服务器的关联。
+向服务器发送存档数据。<BR/>是否确定？（未使用）
+向服务器发送存档数据。<BR/><COL FF0000FF>Nintendo Switch主机的</COL><BR/><COL FF0000FF>存档数据会锁定，</COL><BR/><COL FF0000FF>并将覆盖服务器的数据</COL>。<BR/><BR/>是否完全确定？（未使用）
+向服务器发送存档数据。<BR/><COL FF0000FF>Nintendo Switch主机的</COL><BR/><COL FF0000FF>存档数据会锁定</COL>。<BR/><BR/>是否完全确定？（未使用）
+将保存服务器上的存档数据。<BR/>是否确定？
+将保存服务器上的存档数据。<BR/><COL FF0000FF>删除服务器上的数据</COL>。<BR/><BR/>是否完全确定？
+%3d %
+<ICON PAD_B> 取消
+正在发送存档数据。<BR/>请勿关闭电源。<BR/><COL FF0000FF>（可能会花费较长时间）</COL>（未使用）
+正在接收存档数据。<BR/>请勿关闭电源。<BR/><COL FF0000FF>（可能会花费较长时间）</COL>
+已发送存档数据！<BR/><BR/>请使用Nintendo 3DS<BR/>接收存档数据。（未使用）
+存档数据已保存！
+已发送存档数据！<BR/><BR/><COL FFFF50FF>已使用接收的存档数据</COL><BR/><COL FFFF50FF>成功接收特典。</COL><BR/><BR/><COL FFFF50FF>有关如何接收特典，</COL><BR/><COL FFFF50FF>请在游戏内的使用说明书中确认。</COL>
+现在使用的Nintendo Account<BR/>已经与服务器关联。<BR/><BR/>若要解除关联，<BR/>请选择“Remove Link”。
+<COL FF0000FF>输入Nintendo 3DS的Save Data Transfer App</COL><BR/><COL FF0000FF>所创建的继承密码，</COL><BR/><COL FF0000FF>设置通过服务器的关联。</COL><BR/><BR/><COL FF0000FF>请注意以下数点：</COL><BR/><BR/><LEFT>･与服务器关联后，<BR/><LEFT>　使用中的存档数据<BR/><LEFT>　只能由与服务器关联的<BR/><LEFT>　Nintendo Account继承。<BR/><BR/><LEFT>･最多可与服务器<BR/><LEFT>　关联5次。
+<COL FF0000FF>输入Nintendo 3DS的Save Data Transfer App</COL><BR/><COL FF0000FF>所创建的继承密码，</COL><BR/><COL FF0000FF>设置通过服务器的关联。</COL><BR/><BR/><COL FF0000FF>请注意以下数点：</COL><BR/><BR/><LEFT>･在与服务器关联的状态下，<BR/><LEFT>　删除了存档数据后，<BR/><LEFT>　想使用新的存档数据<BR/><LEFT>　继承档案，<BR/><LEFT>　请再次实行<BR/><LEFT>　“Link Nintendo 3DS and Nintendo Switch”。<BR/>
+正使用的账号<BR/>与关联至服务器的Nintendo Account不同。<BR/><BR/>请切换回与服务器关联时<BR/>所使用的账号。
+该Nintendo 3DS可与服务器关联的次数<BR/>已经超过上限，<BR/>无法与服务器关联。
+现在使用的Nintendo Account<BR/>可与服务器关联的次数<BR/>已达上限，<BR/>无法与服务器关联。
+该Nintendo 3DS已通过服务器<BR/>与其他Nintendo Account关联，<BR/>无法进行关联。
+所使用的Nintendo Account<BR/>已通过服务器<BR/>与另一部Nintendo 3DS关联，<BR/>无法进行关联。
+该Nintendo 3DS已通过服务器<BR/>与正使用的Nintendo Account关联。<BR/>如果因为删除了过往存档数据等理由<BR/>需要再次关联时，<BR/>请解除当前的关联<BR/>再次进行“3DS ⇔ Nintendo Switch”关联。<BR/>可关联次数有限，<BR/>解除时请多加留意。<BR/>
+解除与服务器的关联。<BR/>解除关联之后<BR/>将无法继承存档数据。<BR/><BR/>是否解除关联？
+由于没有设置与服务器的关联，<BR/>无法继承存档数据。<BR/><BR/>请通过“Link Nintendo 3DS and Nintendo Switch”<BR/>设置与服务器的关联。
+现在使用的Nintendo Account<BR/>可能不是与服务器进行关联的账号，<BR/>没有在存档数据中找到关联信息。<BR/><BR/>要继承存档数据，<BR/>请进行“Remove Link”后<BR/>再次进行<BR/>“Link Nintendo 3DS and Nintendo Switch”。
+服务器内没有存档数据。
+正使用的账号<BR/>与关联至服务器的Nintendo Account不同。<BR/><BR/>请切换回与服务器关联时<BR/>所使用的账号。
+当前使用的账号<BR/>并非与服务器关联的Nintendo Account。<BR/><BR/>请切换回与服务器关联的账号，<BR/>或删除服务器上的存档数据。<BR/><BR/>是否删除服务器上的存档数据？
+输入的继承密码无法使用。<BR/>请检查以下情况：<BR/><BR/><LEFT>･密码错误<BR/><LEFT>･密码已经过期<BR/><LEFT>･已经与其他Nintendo Account完成关联
+正在确认继承密码……
+由于已向服务器发送存档数据，<BR/>Nintendo Switch主机的存档数据<BR/>将被锁定。<BR/><BR/>就此开始游戏的话，会与服务器上的<BR/>存档数据与进度产生差异。<BR/><BR/>是否继续？（未使用）
+连接错误。<BR/><BR/><LEFT>■可能是网络繁杂或信号不佳。<BR/><LEFT>　请靠近信号源或确认与信号源之间是否有障碍物。<BR/><LEFT>　请稍等片刻后再次连接。
+现在无法使用“数据继承功能”。<BR/>请稍等片刻后重试。
+您的关联ID
+已关联次数
+%16d
+%d
+正在连接服务器……
+无法连接服务器。
+正在确认服务器上的存档数据。<BR/><COL FF0000FF>（可能会花费较长时间）</COL>
+正在删除<BR/>服务器上的存档数据。
+已删除<BR/>服务器上的存档数据。
+服务器
+<COL FFFF50FF>你的Nintendo Switch</COL>
+游玩时间
+HR
+已取消。
+<COL FF0000FF>输入由Nintendo 3DS的Save Data Transfer App</COL><BR/><COL FF0000FF>创建的转移密码，</COL><BR/><COL FF0000FF>设置通过服务器的关联。</COL>
+将通过网络与服务器连接。<BR/><BR/>是否继续？
+将通过网络设置与服务器关联。<BR/><BR/>是否继续执行此操作？
+是否确定解除关联？
+无法连接网络。
+要继承存档数据，<BR/>请先选择“Link Nintendo 3DS and Nintendo Switch”<BR/>与服务器关联。<BR/><BR/><LEFT>　　※请使用要继承数据的Nintendo 3DS<BR/><LEFT>　　　进入Nintendo eShop<BR/><LEFT>　　　下载Save Data Transfer App（免费）。<BR/>
+正在断开连接……<BR/><COL FF0000FF>（可能会花费较长时间）</COL>
+解除与服务器的关联。<BR/>解除关联后<BR/>将无法继承存档数据。<BR/><BR/><COL FF0000FF>与服务器的关联次数已达到上限，<BR/>无法再次进行关联。</COL><BR/><BR/>是否解除？
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+Dummy
+==========string end==========

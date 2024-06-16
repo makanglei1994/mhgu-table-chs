@@ -1,0 +1,233 @@
+==========identifier start==========
+Time_001
+Time_002
+Time_003
+Dead_001
+Dead_002
+Dead_003
+Dead_004
+Dead_005
+Dead_006
+Capture_001
+Subjugation_001
+Subjugation_002
+Reusability
+BeatOff_001
+BeatOff_002
+BeatOff_003
+BeatOff_Sub_001
+supplies_001
+supplies_002
+supplies_003
+Clear_001
+Clear_002
+Clear_003
+Clear_004
+Clear_005
+Clear_006
+Clear_007
+Clear_008
+Taste_Slice_001
+Taste_Slice_002
+Taste_Slice_003
+The_State_001
+The_State_002
+The_State_003
+The_State_004
+The_State_005
+The_State_006
+The_State_007
+The_State_008
+Item_break_001
+Carry_001
+Carry_002
+Carry_003
+Carry_004
+Carry_005
+Get_Item_001
+Multiplay_001
+Multiplay_002
+Multiplay_003
+Multiplay_004
+Multiplay_005
+Skill_001
+Flute_001
+Flute_002
+Flute_003
+Flute_004
+Flute_005
+Flute_006
+Flute_007
+Flute_008
+Flute_009
+GameShow_001
+Judge_001
+Pause_001
+Arena_001
+Arena_002
+Arena_003
+Arena_004
+Arena_005
+Arena_006
+Arena_007
+Meat_001
+Meat_002
+Meat_003
+Fishing_001
+Fishing_002
+Fishing_003
+Fishing_004
+Fishing_005
+Gather_Item_001
+Gather_Item_002
+Gather_Item_003
+PayOff_Point_001
+PayOff_Point_002
+Fbaby_Bite
+Clear_009
+Clear_010
+Clear_011
+Support_Ot_001
+Support_Ot_002
+Ot_WeaponUp_001
+Ot_WeaponUp_002
+Satis_Dialog_001
+HugeCannon_001
+HugeCannon_002
+FixCap_001
+FixCap_002
+Fortress_001
+Fortress_002
+Fortress_003
+Cat_support_001
+Cat_support_002
+Cat_support_003
+Cat_support_004
+Delivery_Item
+Skill_002
+Delivery_Item_002
+Skill_003
+Clear_012
+Clear_013
+Delivery_Item_Boss
+Renkin_lvup2
+Renkin_lvup3
+Renkin_lvup4
+==========identifier end==========
+
+==========string start==========
+限制时间为%d分钟
+剩余时间还有%d分钟
+时间到了
+力尽倒地
+<COL FF0000FF>%s</COL>力尽倒地了
+报酬减少了%d z
+报酬归零
+返回营地
+无法再复活
+讨伐了怪物！
+剩余%d头
+剩余%d只
+可以使用击龙枪操作开关了
+成功击退了
+主要目标达成！
+次要目标达成
+可以从菜单中的【次要目标达成】返回村庄
+补给品已送达
+因次要目标达成，补给品已送达。
+缴纳了<COL FF0000FF>%s</COL>
+任务完成！
+任务失败
+放弃任务
+还有20秒返回村庄
+还有1分钟返回村庄
+补给品专用道具已返还
+临时袋内的道具已送往道具箱
+次要目标达成，即将返回村庄。
+武器威力降低了！
+武器威力提升了！
+锋利度达到最大了！
+可以承受炎热了！
+可以抵御寒冷了！
+耐热效果消失了！
+耐寒效果消失了！
+耐力不再减少了！
+狂奔效果消失了！
+自然回复力提升了！
+自然回复力恢复正常了！
+<COL FF0000FF>%s</COL>坏掉了
+啊！<COL FF0000FF>%s</COL>！
+放弃了<COL FF0000FF>%s</COL>
+哇！<COL FF0000FF>%s</COL>烫得不行！
+<COL FF0000FF>%s</COL>被偷走了
+取回了<COL FF0000FF>%s</COL>
+获得了<COL FF0000FF>%s</COL>
+<COL FF0000FF>%s</COL>力尽倒地了
+<COL FF0000FF>%s</COL>放弃了任务
+<COL FF0000FF>%s</COL>离开了队伍
+发生连接错误
+次要目标达成，<COL FF0000FF>%s</COL>离开了队伍
+招财猫的恶运生效了！
+<COL E6E6E6FF>演奏所有旋律</COL>
+<COL E6E6E6FF>♪</COL>
+<COL F011EEFF>♪</COL>
+<COL FF0000FF>♪</COL>
+<COL 2028FFFF>♪</COL>
+<COL 00FF00FF>♪</COL>
+<COL FFFF00FF>♪</COL>
+<COL 80BFFFFF>♪</COL>
+<COL FF8400FF>♪</COL>
+辛苦了！
+未鉴定道具已送往鉴定箱
+暂停中
+可以使用栅栏操作开关了
+距离击龙枪可用还有%d分钟
+距离击龙枪可用还有%d秒
+距离栅栏可用还有%d分钟
+距离栅栏可用还有%d秒
+栅栏操作开关只能使用一次
+击龙枪操作开关只能使用一次
+做出了<COL FF0000FF>%s</COL>
+变成了<COL FF0000FF>%s</COL>
+<COL FF0000FF>%s</COL>没有什么变化……
+钓到<COL FF0000FF>%s</COL>了！
+钓到<COL FF0000FF>%sx%d</COL>了！
+什么都没钓到
+鱼饵被吃了
+把鱼放跑了
+能找到什么呢……
+什么都没找到
+剥取失败了
+超过了目标龙历院点数
+结算超额部分的精算道具。<BR/>龙历院点数有多余的情况下，会一并兑换。
+被<COL FF0000FF>%s</COL>咬了！！
+还有20秒返回集会所
+还有1分钟返回集会所
+次要目标达成，即将返回集会所
+支援行动槽的消耗量减少了！
+支援行动槽的消耗量恢复正常了！
+武器获得了强化！
+武器的强化消失了！
+一口就满足了！
+可以使用巨龙炮了
+距离巨龙炮可用还有%d分钟
+可以使用固定式拘束弹了
+距离固定式拘束弹可用还有%d分钟
+追逐老山龙前往区域2
+要塞剩余耐久值%d%
+要塞被破坏了
+笛类支援行动获得了强化！
+笛类支援行动的强化消失了！
+广域化效果生效了！
+广域化效果消失了！
+运送的道具马上抵达！
+招财猫的霉运生效了！
+道具运送已经准备好了！
+猫之不要停下来生效了！
+返回村庄
+天彗龙离开了
+发自集会酒吧的支援品马上抵达！
+可以发动<COL FF0000FF>SP状态Ⅱ</COL>了！
+可以发动<COL FF0000FF>SP状态Ⅲ</COL>了！
+可以发动<COL FF0000FF>SP状态Ⅳ</COL>了！
+==========string end==========

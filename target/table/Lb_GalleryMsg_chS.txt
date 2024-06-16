@@ -1,0 +1,61 @@
+==========identifier start==========
+GALLERY_TITLE_00
+GALLERY_TITLE_01
+GALLERY_TITLE_02
+GALLERY_TITLE_03
+GALLERY_TITLE_04
+GALLERY_TITLE_05
+GALLERY_TITLE_06
+GALLERY_EXP_00
+GALLERY_EXP_01
+GALLERY_EXP_02
+GALLERY_EXP_03
+GALLERY_EXP_04
+GALLERY_EXP_05
+GALLERY_EXP_06
+GALLERY_TITLE_07
+GALLERY_TITLE_08
+GALLERY_TITLE_09
+GALLERY_TITLE_10
+GALLERY_EXP_07
+GALLERY_EXP_08
+GALLERY_EXP_09
+GALLERY_EXP_10
+GALLERY_TITLE_11
+GALLERY_EXP_11
+GALLERY_TITLE_12_HD
+GALLERY_EXP_12_HD
+GALLERY_TITLE_13_HD_U
+GALLERY_EXP_13_HD_U
+==========identifier end==========
+
+==========string start==========
+MH Gen开场
+艾露猫受难记
+捕食者与被捕食者
+地动山摇
+灼热之刃、交锋
+Let's 喵舞
+附赠影片
+MONSTER HUNTER GENERATIONS<BR/>开场动画。
+艾露猫们正为大丰收欢喜着，<BR/>此时突然飞来横祸……！？<BR/>（泡狐龙生态动画）
+如果眼前突然出现美食，<BR/>不论是谁都会想咬上一口。<BR/>（电龙生态动画）
+雪狮子们发现了<BR/>能遮蔽风雪的洞窟，<BR/>没想到这是最大的失算。<BR/>（巨兽生态动画）
+即便是女王，<BR/>侵犯地盘仍然不可原谅。<BR/>（斩龙生态动画）
+MONSTER HUNTER GENERATIONS<BR/>结尾动画。
+MONSTER HUNTER GENERATIONS<BR/>工作人员列表。<BR/>（无字幕）
+MH Gen U开场
+音速行者
+派对☆喵夜
+工作人员列表
+MH Gen U<BR/>开场动画。
+你逃不出它的视线，<BR/>也躲不开它的利爪。<BR/>它的速度，犹如坠落的流星。<BR/>（天彗龙生态动画）
+MH Gen U<BR/>结尾动画。
+MH Gen U<BR/>工作人员列表。<BR/>（日文版）
+MH Stories介绍影片
+Monster Hunter Stories<BR/>介绍动画。
+工作人员列表2
+MH Gen U<BR/>工作人员列表。<BR/>（日文版2）
+工作人员列表3
+MH Gen U<BR/>工作人员列表。
+==========string end==========

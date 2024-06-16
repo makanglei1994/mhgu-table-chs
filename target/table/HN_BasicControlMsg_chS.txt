@@ -1,0 +1,215 @@
+==========identifier start==========
+PAD_Y_HD
+PAD_X_HD
+PAD_B_HD
+PAD_A_HD
+PAD_L_HD
+PAD_R_HD
+KEY_HD_HD
+ANALOG_HD
+ANALOG_R_HD
+KEY_U_HD
+KEY_R_HD
+KEY_D_HD
+KEY_L_HD
+KEY_UD_HD
+KEY_RL_HD
+PAD_START_HD
+PAD_SELECT_HD
+PAD_ZL_HD
+PAD_ZR_HD
+ANALOG_LB_HD
+ANALOG_RB_HD
+ANALOG_RS_HD
+BC_Command_001_HD
+BC_Command_002_HD
+BC_Command_003_HD
+BC_Command_004_HD
+BC_Command_005_HD
+BC_Command_006_HD
+BC_Command_007_HD
+BC_Command_008_HD
+BC_Command_009_HD
+BC_Command_010_HD
+BC_Command_011_HD
+BC_Command_012_HD
+BC_commandnote_001_HD
+BC_commandnote_002_HD
+BC_commandnote_003_HD
+BC_commandnote_004_HD
+BC_commandnote_005_HD
+BC_commandnote_006_HD
+BC_commandnote_007_HD
+BC_commandnote_008_HD
+BC_commandnote_009_HD
+BC_commandnote_010_HD
+BC_commandnote_011_HD
+BC_commandnote_012_HD
+BC_commandnote_013_HD
+BC_commandnote_014_HD
+BC_commandnote_015_HD
+BC_commandnote_016_HD
+BC_commandnote_017_HD
+BC_commandnote_018_HD
+BC_commandnote_019_HD
+BC_commandnote_020_HD
+BC_commandnote_021_HD
+BC_commandnote_022_HD
+BC_commandnote_023_HD
+BC_commandnote_024_HD
+BC_commandnote_025_HD
+BC_commandnote_026_HD
+BC_commandnote_027_HD
+BC_commandnote_028_HD
+BC_commandnote_029_HD
+BC_commandnote_030_HD
+BC_commandnote_031_HD
+BC_commandnote_032_HD
+BC_commandnote_033_HD
+BC_commandnote_034_HD
+BC_commandnote_035_HD
+BC_commandnote_036_HD
+BC_commandnote_037_HD
+BC_commandnote_038_HD
+BC_commandnote_039_HD
+BC_commandnote_040_HD
+BC_commandnote_041_HD
+BC_commandnote_042_HD
+BC_commandnote_043_HD
+BC_commandnote_044_HD
+BC_commandnote_045_HD
+BC_commandnote_046_HD
+BC_TOP_001_HD
+BC_TOP_002_HD
+BC_TOP_003_HD
+BC_SUB_001_HD
+BC_SUB_002_HD
+BC_SUB_003_HD
+BC_SUB_004_HD
+BC_SUB_005_HD
+BC_SUB_006_HD
+BC_SUB_007_HD
+BC_SUB_008_HD
+BC_SUB_009_HD
+BC_Note_001_HD
+BC_Note_002_HD
+BC_Note_003_HD
+BC_commandnote_047_HD
+BC_Command_013_HD
+BC_Note_004_HD
+BC_Command_014_HD
+ANALOG_RS_U_HD
+ANALOG_RS_D_HD
+ANALOG_RS_L_HD
+ANALOG_RS_R_HD
+BC_commandnote_048_HD
+BC_Command_015_HD
+==========identifier end==========
+
+==========string start==========
+<SIZE 28><COL E6E6E6FF><ICON PAD_Y></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON PAD_X></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON PAD_B></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON PAD_A></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON PAD_L></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON PAD_R></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON KEY></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON ANALOG></COL></SIZE>
+-
+<SIZE 28><COL E6E6E6FF><ICON KEY_U></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON KEY_R></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON KEY_D></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON KEY_L></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON KEY_UD></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON KEY_RL></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON PAD_START></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON PAD_SELECT></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON PAD_ZL></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON PAD_ZR></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON ANALOG_LB></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON ANALOG_RB></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON ANALOG_RS></COL></SIZE>
+-
+-
+<SIZE 28><COL E6E6E6FF><ICON KEY_RL></COL></SIZE>/<SIZE 28><COL E6E6E6FF><ICON ANALOG_RS></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON KEY></COL></SIZE>/<SIZE 28><COL E6E6E6FF><ICON ANALOG_RS></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON KEY_D></COL></SIZE>/<SIZE 28><COL E6E6E6FF><ICON KEY_RL></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON PAD_ZL></COL></SIZE>+<SIZE 28><COL E6E6E6FF><ICON PAD_A></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON PAD_ZL></COL></SIZE>+<SIZE 28><COL E6E6E6FF><ICON PAD_B></COL></SIZE>
+-
+<SIZE 28><COL E6E6E6FF><ICON PAD_R></COL></SIZE>+<SIZE 28><COL E6E6E6FF><ICON PAD_A></COL></SIZE>+<SIZE 28><COL E6E6E6FF><ICON PAD_B></COL></SIZE>
+-
+<SIZE 28><COL E6E6E6FF><ICON PAD_ZL></COL></SIZE>+<SIZE 28><COL E6E6E6FF><ICON PAD_X></COL></SIZE>
+长按<SIZE 28><COL E6E6E6FF><ICON PAD_L></COL></SIZE>
+角色移动
+选择对话对象
+对话/使用设施/移动至村庄･集会所
+取消
+显示世界地图
+猎人搜索/确认集会所情报（连接中）
+-
+切换显示角色名称
+显示连接菜单
+按着移动：冲刺
+显示聊天菜单
+显示菜单　※可在选项中更改
+显示帮助
+-
+选择菜单项目
+确定选择
+取消
+-
+-
+关闭菜单　※可在选项中更改
+视角操作
+调查/攀登高低差/采集･剥取
+下蹲/移动中：闪避行动
+举起武器/移动中：武器拔刀攻击（弩除外）
+使用道具/举起武器时：收起武器
+发动狩技1
+发动狩技2
+发动狩技3
+切换目标视角对象
+面对视角前方/使用目标视角
+打开道具栏
+按着移动：冲刺/举起武器时：特殊行动
+-
+-
+放大/缩小地图
+显示菜单
+踢/各类武器的特殊攻击
+-
+-
+-
+-
+放大/缩小地图（任务中）
+信号（任务中）
+-
+-
+切换使用目标视角/切换对象
+启用操作类型1
+启用操作类型2
+启用操作类型3
+-
+-
+-
+村庄･集会所基本操作1
+村庄･集会所基本操作2
+操作菜单
+任务中的基本操作1
+任务中的基本操作2
+-
+<COL 008000FF>【操作类型1】</COL><BR/>一键发动狩技的操作方法。<BR/><COL 008000FF>【特色操作】</COL><BR/>･使用方向键上、下、右发动狩技。<BR/>･使用ZL键切换目标。
+<COL 008000FF>【操作类型2】</COL><BR/>操作方法和Nintendo 3DS版“MONSTER HUNTER GENERATIONS”<BR/>的操作感觉相近。<BR/><COL 008000FF>【特色操作】</COL><BR/>･同时按下R+A+B键，<BR/> 使用ZL键、ZR键发动狩技。<BR/>･使用方向键下切换目标视角。<BR/>･同时有2只大型怪物时，<BR/> 使用方向键左右来选择目标。
+<COL 008000FF>【操作类型3】</COL><BR/>便于边操作视角边移动的操作方式。<BR/>两键组合发动狩技。<BR/><COL 008000FF>【特色操作】</COL><BR/>･同时按下ZL键和X或A或B键，<BR/> 发动狩技。<BR/>･使用R摇杆键来切换目标。<BR/>･任务中使用方向键来操作视角。
+显示旋律效果一览（任务中：仅限狩猎笛）
+<SIZE 28><COL E6E6E6FF><ICON KEY_U></COL></SIZE>/<SIZE 28><COL E6E6E6FF><ICON PAD_ZR></COL></SIZE>
+<COL 008000FF>【操作类型4】</COL><BR/>使用ZL键、ZR键操作左右视角，<BR/>是便于枪手行动的模式。<BR/><COL 008000FF>【特色操作】</COL><BR/>･使用ZL键、ZR键来操作视角（左右）。<BR/>･使用R摇杆上、右、下发动狩技。<BR/>･使用L摇杆键来切换目标。<BR/>･任务中使用方向键来操作视角。
+<SIZE 28><COL E6E6E6FF><ICON PAD_ZL></COL></SIZE>/<SIZE 28><COL E6E6E6FF><ICON PAD_ZR></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON ANALOG_RS_U></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON ANALOG_RS_D></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON ANALOG_RS_L></COL></SIZE>
+<SIZE 28><COL E6E6E6FF><ICON ANALOG_RS_R></COL></SIZE>
+操作视角（左右）
+<SIZE 28><COL E6E6E6FF><ICON KEY></COL></SIZE>/<SIZE 28><COL E6E6E6FF><ICON ANALOG_RS></COL></SIZE>
+==========string end==========

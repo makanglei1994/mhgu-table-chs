@@ -1,0 +1,185 @@
+==========identifier start==========
+GameModeSelection
+GameDataSelection
+GameOptions
+GameSettings
+SlidePad
+NotUse
+ToUse
+SlidePad_Correction
+Save_Initialization
+GameMenu_Help_001
+GameMenu_Help_002
+GameMenu_Help_003
+GameMenu_Help_004
+GameMenu_Help_005
+GameMenu_Help_006
+GameMenu_Help_007
+GameMenu_Help_008
+GameMenu_Help_009
+Convert_01
+Convert_02
+Convert_03
+Convert_04
+Convert_05
+GameMenu_Help_010
+GameMenu_Help_011
+GameMenu_Help_012
+GameMenu_Help_013
+GameMenu_Help_014
+GameMenu_Help_015
+GameMenu_Help_016
+Parental_Controls_01
+Convert_06
+ThreeDimensional
+ON
+OFF
+GameMenu_Help_017
+GameMenu_Help_018
+GameMenu_Help_019
+MHX_inherit
+MHXX_inherit
+GameMenu_Help_020
+GameMenu_Help_021
+GameMenu_Help_022
+GameMenu_Help_023
+GameMenu_Help_024
+GameMenu_Help_025
+GameMenu_Help_026
+GameMenu_Help_027
+BonusGet_Exp_001
+BonusGet_Exp_002
+BonusGet_Exp_003
+BonusGet_Exp_004
+BonusGet_Type_001
+BonusGet_Type_002
+BonusGet_Type_003
+BonusGet_Type_004
+BonusGet_Type_005
+Convert_Attention_001
+Convert_Attention_002
+Convert_Attention_003
+Convert_Attention_004
+Convert_Attention_005
+Convert_Attention_006
+GameMenu_Help_028
+Convert_Attention_007
+GameMenu_Help_029
+BonusGet_Exp_005_HD
+GameManual_HD
+GameMenu_Help_030_HD
+Brightness_HD
+GameMenu_Help_031_HD
+Vibration_HD
+GameMenu_Help_032_HD
+GameMenu_Help_033_HD
+GameMenu_Help_034_HD
+GameMenu_Help_035_HD
+GameMenu_Help_036_HD
+Language_loc_001_HD
+Language_loc_002_HD
+Language_loc_003_HD
+Language_loc_004_HD
+Language_loc_005_HD
+Language_loc_006_HD
+Language_loc_007_HD
+Language_loc_008_HD
+Language_loc_009_HD
+Language_loc_010_HD
+Language_loc_011_HD
+ReleaseNotes_Ver01_001_HD
+ReleaseNotes_Ver01_002_HD
+==========identifier end==========
+
+==========string start==========
+选择游戏模式
+选择游戏数据
+游戏选项
+游戏设置
+‐
+‐
+‐
+‐
+‐
+请选择存档数据。
+‐
+‐
+欢迎来到怪物猎人的世界！
+‐
+‐
+‐
+‐
+是否选择此角色？
+可继承<COL FFFF50FF>“MONSTER HUNTER GENERATIONS ULTIMATE”</COL>的<BR/>角色数据，<BR/>开始新的游戏。<BR/>可重新设置性别、姓名。<BR/><BR/>※继承后不会删除原本的数据。
+●可继承稀有度最高为3的道具。<BR/>●无法继承的道具与装备将被兑换为金钱<BR/>　并计入所持金钱中，最后继承一部分金钱总额。<BR/>●可继承一部分龙历院点数。<BR/>●游戏进度将回到初始状态，<BR/>　但训练任务的进度将被继承。<BR/><COL FF0000FF>●道具包的收取状况将被继承。<BR/>●稀有度3以下的道具、金钱、点数等<BR/>部分联动特典的收取状况将被继承。</COL>
+请选择要继承的角色。
+正在读取存档数据。
+继承已完成。<BR/>将开始创造角色。
+开始新的游戏。
+选择角色，<BR/>继续游戏。
+此处可设置TV屏幕的亮度<BR/>与手柄的振动，<BR/>以及检查使用说明书。
+连接到下载内容。
+创造新的角色<BR/>并开始游戏。
+如果有关联作品的新增数据<BR/>或是“MONSTER HUNTER GENERATIONS”的<BR/>特别道具包，即可收取特典。
+可以继承已有的存档数据<BR/>开始新的游戏。
+<COL FFFF50FF>“与他人自由交流”</COL><BR/>根据爱心监控设置，<BR/>无法使用下列功能。<BR/><BR/>･收发聊天<BR/>･收发公会卡片留言和随从留言<BR/>（留言将在收发前被替换。）
+正在继承数据。
+‐
+ON
+OFF
+‐
+‐
+‐
+‐
+‐
+‐
+继承“MONSTER HUNTER GENERATIONS ULTIMATE”的<BR/>部分存档数据并开始新的游戏。
+‐
+即将开始继承。<BR/>是否确定？
+‐
+‐
+‐
+‐
+已经读取了以下特典。<BR/>%s
+没有可收取的特典。
+‐
+‐
+‐
+‐
+‐
+‐
+‐
+请确认下述注意事项后，<BR/>再进行数据继承。
+无法继承以下内容：<BR/><BR/>･<COL FFFF50FF>各设施的委托状况</COL><BR/><BR/>尚未收取的道具会被舍弃，<BR/>随从的能力值以委托后的状况为准。<BR/>不会返还委托时<BR/>已支付的金钱、点数或道具。
+无法继承以下内容：<BR/><BR/>･<COL FFFF50FF>游玩时间</COL>　※会作为勋章保留。<BR/>･<COL FFFF50FF>卡片列表</COL><BR/>･<COL FFFF50FF>公会卡片的友好度</COL><BR/>･<COL FFFF50FF>公会卡片的猎人生活日记</COL><BR/>･<COL FFFF50FF>公会卡片的登记装备</COL><BR/>
+无法继承以下内容：<BR/><BR/>･<COL FFFF50FF>下载任务</COL><BR/>･<COL FFFF50FF>未雇用的下载随从</COL><BR/>･<COL FFFF50FF>收取前的道具包</COL><BR/><BR/>已雇用的下载随从<BR/>可直接继承，<BR/>但是无法再次从随从雇用窗口进行雇用。
+以下内容仅能<BR/>继承一部分：<BR/><BR/>･<COL FFFF50FF>猎人等级点数</COL><BR/>･<COL FFFF50FF>HR</COL> ※会作为勋章保留。<BR/><BR/>猎人等级点数会根据HR<BR/>重置为一定数值。此外，HR为9以上<BR/>时，<COL FF0000FF>将重置为HR8</COL>。
+各种特典的收取状况将继承。<BR/>无法再次收取<BR/>已在“MONSTER HUNTER GENERATIONS”<BR/>收取过的特典。<BR/><BR/>此外，<BR/>若在继承之前，<BR/>已使用“MONSTER HUNTER GENERATIONS ULTIMATE”收取特典，<BR/>请在继承后重新收取。
+无法选择此存档数据。
+继承数据后，<BR/>能够重新设置一次角色。<BR/><BR/>如果改变性别，性别专用装备<BR/>会转换为对应的异性装备，<BR/>但是部分无法转换的装备会被出售。<BR/>装备上如果有装饰品，<BR/>该装饰品会被一同出售。
+没有“MONSTER HUNTER GENERATIONS”的<BR/>存档数据或数据已经毁损，<BR/>因此无法继承。
+MONSTER HUNTER GENERATIONS ULTIMATE<BR/>能够收取各种特典。<BR/><BR/>要了解收取特典的方式<BR/>请检查游戏内的使用说明书。
+使用说明书
+可阅览MONSTER HUNTER GENERATIONS ULTIMATE<BR/>的体验版说明书。
+‐
+可设置TV画面的亮度。
+‐
+可设置手柄是否振动。
+TV画面的亮度
+设置TV画面的亮度。<BR/>Nintendo Switch主机的亮度<BR/>可从HOME菜单进行调整。
+是否关闭手柄振动？
+是否打开手柄振动？
+游戏内使用语言已设置为 %s 。<BR/>可从游戏选项更改设置。
+设置使用的语言。
+英语
+法语
+西班牙语
+德语
+意大利语
+请选择使用的语言。
+更改游戏内使用的语言，<BR/>重新启动游戏。<BR/>是否确定？
+繁体中文
+简体中文
+可以选择<BR/>“繁体中文”<BR/>“简体中文”<BR/>作为游戏内的使用语言了。<BR/><BR/>语言设置可以在选项中进行变更。
+如果想要游玩下载任务，<BR/>请选择主菜单或者管家的<BR/>“下载”，以下载最新数据。<BR/><BR/>若和数据非最新的玩家一起游玩下载任务，<BR/>有可能会被判断为任务数据不正确，<BR/>从而无法进行游戏。<BR/><BR/>请下载最新数据之后再享受多人游戏。
+==========string end==========

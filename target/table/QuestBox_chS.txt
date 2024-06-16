@@ -1,0 +1,55 @@
+==========identifier start==========
+DeliveryMenu
+AnyTimeDelivery
+NotTargetDelivery
+SettlementItemsDelivery_001
+SettlementItemsDelivery_002
+TotalCompensation
+ConversionPoint
+CurrentGold
+CurrentPoint
+NotGold
+NotPoint
+None
+TotalPoint
+TotalGold
+DeliveryBox_Error_001
+DeliveryBox_Error_002
+DeliveryBox_Help_001
+DeliveryBox_Help_002
+DeliveryBox_Help_003
+DeliveryBox_Help_004
+DeliveryBox_Help_005
+PaymentBox_Help_001
+PaymentBox_Help_002
+PaymentBox_Help_003
+PaymentBox_Help_004
+==========identifier end==========
+
+==========string start==========
+缴纳菜单
+随时可以缴纳
+缴纳目标以外的道具
+缴纳精算道具
+缴纳精算道具
+报酬总额
+兑换龙历院点数
+当前持有金额
+当前龙历院点数
+@
+@
+@
+累计龙历院点数
+目标龙历院点数
+请选择缴纳的道具。<BR/><COL FF0000FF>（此委托已完成）</COL>
+请选择缴纳的道具。<BR/><COL FF0000FF>（未持有道具）</COL>
+请选择缴纳的道具。
+请选择缴纳的个数。
+确定缴纳吗？
+已结算缴纳的精算道具。<BR/>按B键可关闭确认窗口。
+已超出目标龙历院点数。<BR/>结算超额部分的精算道具。
+补给箱
+请选择收取的道具。
+<COL FF0000FF>道具袋中不能装入更多此道具。</COL>
+<COL FF0000FF>道具袋没有空位。</COL>
+==========string end==========

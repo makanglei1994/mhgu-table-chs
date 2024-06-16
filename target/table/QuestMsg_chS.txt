@@ -1,0 +1,33 @@
+==========identifier start==========
+GoalSubdueNumber
+PointsTarget
+GetOn_DownSuccess
+Trap_DownSuccess
+Guild_flag_Success
+TargetSiteDestruction
+PointsTarget_Panel
+StyleKizunaRotNum
+WarningInfo1st
+WarningInfo2nd
+Defense_Quest_001
+Defense_Quest_002
+Defense_Quest_003
+Defense_Quest_004
+==========identifier end==========
+
+==========string start==========
+目标讨伐数
+目标龙历院点数
+以骑乘成功击倒
+以陷阱成功击倒
+设置公会旗帜
+破坏目标身上部位
+目标点数
+继续炼金：%d
+猎人！这片原野里<BR/>似乎出现了天彗龙！<BR/>拜托你去调查周围情况吧！<BR/>还有，千万要小心……！
+天彗龙是非常危险的怪物！<BR/>如果在继续调查中遇到困难，<BR/>请选择菜单中的“返回村庄”<BR/>先做好万全准备。<BR/><COL FF0000FF>即便返回村庄，报酬依然正常支付。</COL>
+前卫要塞的耐久值
+（0%时任务失败）
+主要塞的耐久值
+%d%
+==========string end==========

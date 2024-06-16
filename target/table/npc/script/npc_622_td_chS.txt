@@ -1,0 +1,6 @@
+==========identifier start==========
+==========identifier end==========
+
+==========string start==========
+sample
+==========string end==========

@@ -1,0 +1,7 @@
+==========identifier start==========
+Asiyu_index_01
+==========identifier end==========
+
+==========string start==========
+结云村的足浴
+==========string end==========

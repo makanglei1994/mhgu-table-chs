@@ -1,0 +1,315 @@
+==========identifier start==========
+PAD_Y
+PAD_X
+PAD_B
+PAD_A
+PAD_L
+PAD_R
+KEY
+ANALOG
+KEY_U
+KEY_R
+KEY_D
+KEY_L
+KEY_UD
+KEY_RL
+PAD_START
+PAD_SELECT
+Decision
+Return
+Confirmation
+Cleaning
+OllConversion
+ListCompounding
+CompoundingOrder
+ListMovement
+Customization
+OtomoChange
+IndicationChange
+OtomoInformation
+SkillExplanation
+SkillDetails
+ListChange
+Profile
+Deletion
+Edit
+Thumbnail
+Expansion
+HuntingInformation
+CaptureInformation
+Preview
+SkillList
+Seen
+Registration
+Initialization
+ColorChange
+VoicePlayback
+NumberChoice
+Closes
+MapExpansion
+Signature
+DetailedSetting
+Re_Search
+MapChange
+Skip
+Stop
+Speak
+AcquisitionList
+InitiationList
+Status
+LeftEyeChange
+LeftEyeCopy
+RightEyeChange
+RightEyeCopy
+BothEyesChange
+DetailedInformation
+Shoot
+Help
+Replace
+Movement_Spin
+Menu
+Comment
+Registration_end
+Re_Name
+Skill
+Support
+ANALOG_U
+ANALOG_D
+ANALOG_L
+ANALOG_R
+Pat
+Cancel
+Keep
+ModelRotation
+Camera_Move
+Expansion_Thumbnail
+Weapon_Off
+Spin
+Compare
+Sell_Amu
+All
+Equip_teq
+Remove
+List_Change
+Amu_Name
+Skill_Name
+itembox_deco_off
+Log
+Template
+Connection_Off
+Format
+Room_Create
+Room_Search
+Search_Again
+Check
+OtomoConfirmation
+CardConfirmation
+NameChange
+DL
+DL_ALL
+CardList_Information_1
+CardList_Information_2
+Guesthunter_1
+RegistContents
+MapSmall
+HunterAct_01
+HunterAct_02
+KEY_LR
+Eqshop_food
+Arena_Ranking_01
+Arena_Ranking_02
+Hire
+HunterSearch_Button_01
+End
+Room_Re_Create
+Otomo_Registration
+Monnyantai_start
+everyday_Button01
+PageChange
+Otomo_Cross_Coordinate
+PAD_ZL_HD
+PAD_ZR_HD
+ANALOG_LB_HD
+ANALOG_RB_HD
+ANALOG_RS_HD
+keyboard_HD
+otodoke_HD
+ModelPreview_HD
+ListFormat_HD
+Melody_button_HD
+NewRecord_HD
+Arena_Ranking_03_HD
+OperationChange_HD
+ColorDetailChange_HD
+Chat_HD
+equip_Info_HD
+Cancel_HD
+scroll_HD
+background_HD
+NEXT_HD
+ANALOG_RS_U_HD
+ANALOG_RS_D_HD
+ANALOG_RS_L_HD
+ANALOG_RS_R_HD
+KEY_ZL_ZR_HD
+RS_L_R_HD
+RS_ZL_ZR_HD
+==========identifier end==========
+
+==========string start==========
+<ICON PAD_Y>
+<ICON PAD_X>
+<ICON PAD_B>
+<ICON PAD_A>
+<ICON PAD_L>
+<ICON PAD_R>
+<ICON KEY>
+<ICON ANALOG>
+<ICON KEY_U>
+<ICON KEY_R>
+<ICON KEY_D>
+<ICON KEY_L>
+<ICON KEY_UD>
+<ICON KEY_RL>
+<ICON PAD_START>
+<ICON PAD_SELECT>
+确定
+返回
+确认
+整理
+全部结算
+列表顺序
+可调和顺序
+移动列表
+自定义
+切换随从
+切换显示
+随从信息
+技能说明
+技能详情
+排序
+显示介绍
+删除
+编辑
+缩小显示
+放大显示
+狩猎信息
+捕获信息
+预览
+技能一览
+检视
+登记
+初始设置
+更改颜色
+播放语音
+选择个数
+关闭
+放大地图
+信号
+详细设置
+重新搜索
+切换地图
+跳过
+停止
+谈话
+习得一览
+传授一览
+能力值
+更改左眼
+复制左眼
+更改右眼
+复制右眼
+更改双眼
+详细信息
+发射
+帮助
+替换
+移动/旋转
+显示菜单
+编辑留言
+完成登记
+更改名称
+随从技能
+支援行动
+<ICON ANALOG_U>
+<ICON ANALOG_D>
+<ICON ANALOG_L>
+<ICON ANALOG_R>
+抚摸
+停止
+继续摸
+旋转模型
+视角操作
+扩大、缩小
+切换武器显示
+回旋
+显示比较
+出售护石
+全部
+可装备的狩技
+解除
+筛选列表
+显示装饰品名
+显示技能名
+解除装饰品
+历史记录
+编辑常用句
+断开连接
+初始化
+创建集会所
+搜索集会所
+重新搜索
+检查
+随从确认
+卡片确认
+切换名称
+下载
+全部下载
+以方向键左右选择类型，按A键决定。
+以方向键选择目的地，按A键决定。
+委托
+登记内容
+缩小地图
+委托状况
+达成状况
+<ICON KEY><ICON PAD_L><ICON PAD_R>
+喂食
+综合
+列表
+雇用
+开/关
+结束
+更改设置
+切换消息界面
+开始探索
+调查对象
+切换页面
+武具一览
+<ICON PAD_ZL>
+<ICON PAD_ZR>
+<ICON ANALOG_LB>
+<ICON ANALOG_RB>
+<ICON ANALOG_RS>
+键盘
+确认补给队
+控制模型
+初始化排列
+旋律效果
+选择更新信息
+选择一览
+切换操作
+操作调色盘
+聊天
+装备信息
+取消
+滚动
+显示背景
+下一页
+<ICON ANALOG_RS_U>
+<ICON ANALOG_RS_D>
+<ICON ANALOG_RS_L>
+<ICON ANALOG_RS_R>
+<ICON KEY><ICON PAD_ZL><ICON PAD_ZR>
+<ICON ANALOG_RS><ICON PAD_L><ICON PAD_R>
+<ICON ANALOG_RS><ICON PAD_ZL><ICON PAD_ZR>
+==========string end==========
